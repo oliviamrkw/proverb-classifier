@@ -1,0 +1,1016 @@
+﻿id,language,resource_level,proverb_native,proverb_en,fig_or_literal,mk_theme,proverb_type,prescriptive_or_descriptive,structural_pattern,crosslingual_type_id,source_dataset,source_url,license,human_machine_labelled
+zh_maps_00001,zh,high,水能载舟，亦能覆舟,"Water can carry a boat, but it can also overturn it",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00002,zh,high,失败乃成功之母,Failure is the mother of success,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00003,zh,high,擒贼先擒王,you need to catch the king first if you want to catch the thief,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00004,zh,high,侯门深似海,"Once you enter the noble family, it is as deep as the sea",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00005,zh,high,树倒猢狲散,The tree fell and the monkeys scattered,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00006,zh,high,棍棒底下出孝子,Spare the rod and spoil the child,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00007,zh,high,物以类聚，人以群分,Birds of a feather flock together,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00008,zh,high,有理走遍天下,"with justice on your side, you can go anywhere",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00009,zh,high,不见棺材不落泪,no coffin no tears,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00010,zh,high,癞蛤蟆想吃天鹅肉,Toad wants to eat swan meat,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00011,zh,high,路遥知马力,distance determines the stamina of a horse,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00012,zh,high,三岁定八十,age of three will determine you eighty,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00013,zh,high,朽木不可雕,rotten wood cannot be carved,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00014,zh,high,家家有本难念的经,Every family has scriptures that are difficult to recite.,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00015,zh,high,有其父必有其子,"like father, like son",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00016,zh,high,一山还有一山高,There are many high mountains,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00017,zh,high,百善孝为先,filial piety come first,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00018,zh,high,长痛不如短痛,the long-term pain is not as good as the short-term pain,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00019,zh,high,流言止于智者,gossip ends with the wise,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00020,zh,high,劣币驱逐良币,bad money driving out good money,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00021,zh,high,女人心，海底针,"A woman's heart, a sea needle",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00022,zh,high,床头吵架床尾和,Quarrel at the head of the bed and make-up at the end of the bed,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00023,zh,high,天不从人愿,God doesn't do what people want,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00024,zh,high,得饶人处且饶人,be forgiving and forgiving,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00025,zh,high,燕雀安知鸿鹄志,swallow doesn't know eagle ambition,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00026,zh,high,人外有人，天外有天,"There are people beyond people, and there is a sky beyond the sky",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00027,zh,high,平安就是福,safty is blessing,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00028,zh,high,万变不离其宗,"No matter how the world changes, we must always stick to our beliefs and principles, and stay true to our principles",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00029,zh,high,条条大路通罗马,All roads lead to Rome,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00030,zh,high,聊胜于无,better than nothing,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00031,zh,high,习惯成自然,it comes naturally from habit,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00032,zh,high,一分钱一分货,you get what you pay for,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00033,zh,high,船到桥头自然直,We'll cross that bridge when we come to it,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00034,zh,high,当局者迷，旁观者清,Lookers-on see most of the game,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00035,zh,high,开弓没有回头箭,There is no turning back when the bow is opened,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00036,zh,high,山不转路转,There's more than one way to skin a cat,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00037,zh,high,不打不相识,friends are often made after a fight,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00038,zh,high,覆巢之下无完卵,There are no eggs under the overturned nest,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00039,zh,high,皇天不负苦心人,Heaven helps those who help themselves,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00040,zh,high,三十六计，走为上计,"Thirty-six strategies, the best strategy is to escape",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00041,zh,high,射人先射马，擒贼先擒王,"When you shoot a man, you shoot the horse first; when you capture a thief, you capture the king first",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00042,zh,high,人心齐，泰山移,Mount Denali can be moved when people are united.,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00043,zh,high,三个臭皮匠，胜过诸葛亮,Two heads are better than one,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00044,zh,high,知己知彼，百战百胜,"Know thyself, ever-victorious",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00045,zh,high,人定胜天,Man can conquer nature,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00046,zh,high,江山易改，本性难移,A leopard can't change its spots,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00047,zh,high,人生七十古来稀,a life span of seventy is rare since ancient times,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00048,zh,high,杀鸡焉用牛刀,How can you kill a chicken with a sledgehammer,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00049,zh,high,一山不容二虎,One mountain cannot accommodate two tigers,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00050,zh,high,天有不测风云，人有旦夕祸福,"Unpredictable events happen in the sky, and people have misfortunes and blessings",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00051,zh,high,欲速则不达,Haste makes waste,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00052,zh,high,日久见人心,time reveals a person's heart,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00053,zh,high,几家欢乐几家愁,some are happy and some are sad,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00054,zh,high,人不为己，天诛地灭,"The so-called man is not for himself, heaven and earth will perish",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00055,zh,high,耳听为虚，眼见为实,"hearing is untrustworthy, seeing is believing",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00056,zh,high,少壮不努力，老大徒伤悲,"If the young don't work hard, they will be sad when they are older",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00057,zh,high,有钱能使鬼推磨,Money makes the world go around,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00058,zh,high,差之毫厘，谬以千里,the difference is a thousand miles away,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00059,zh,high,计划赶不上变化,Man plans and God laughs,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00060,zh,high,天生我材必有用,I am born to be useful,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00061,zh,high,水滴石穿,Little strokes fell great oaks,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00062,zh,high,这山望著那山高,The grass is always greener on the other side,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00063,zh,high,不听老人言，吃亏在眼前,"If you don't listen to the old man's words, you will suffer in front of your eyes",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00064,zh,high,日有所思，夜有所梦,"think about it every day, dream about it at night",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00065,zh,high,姜还是老的辣,Older gingers are more spicy,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00066,zh,high,良禽择木而栖,a good bird that chooses a tree to live in,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00067,zh,high,身正不怕影子斜,Standing upright is not afraid of oblique shadows,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00068,zh,high,不知者不罪,those who don't know are not guilty,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00069,zh,high,严师出高徒,strict teachers produce excellent students.,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00070,zh,high,君子报仇，十年不晚,"a gentleman takes revenge, ten years is not too late",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00071,zh,high,授人以鱼不如授人以渔,Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00072,zh,high,英雄所见略同,Great minds think alike,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00073,zh,high,真人不露相,hide one's light under a bushel,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00074,zh,high,大难不死，必有后福,"If you survive a catastrophe, there will be future blessings",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00075,zh,high,大人不计小人过,great people don't care about villains,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00076,zh,high,一寸光阴一寸金，寸金难买寸光阴,"An inch of time is worth an inch of gold, an inch of gold cannot buy an inch of time",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00077,zh,high,不孝有三，无后为大,"there are three kinds of unfilial piety, the greatest thing is to have no descendants",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00078,zh,high,不怕一万，就怕万一,"Don't be afraid of ten thousand, be afraid of just in case",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00079,zh,high,机不可失，时不再来,Opportunity seldom knocks twice,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00080,zh,high,求人不如求己,"If you want a thing done well, do it yourself",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00081,zh,high,闻名不如见面,better met than heard,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00082,zh,high,养不教，父之过,It is the fault of the father whether to raise or not to teach,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00083,zh,high,人逢喜事精神爽,people are in high spirits on happy occasions,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00084,zh,high,情人眼里出西施,Beauty is in the eyes of beholder,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00085,zh,high,仇人相见，分外眼红,enemies are jealous when they meet each other,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00086,zh,high,酒逢知己千杯少，话不投机半句多,A thousand cups of wine is not enough when you meet a bosom friend,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00087,zh,high,血浓于水,blood is thicker than water,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00088,zh,high,多行不义必自毙,Unjust is doomed to destruction,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00089,zh,high,今日事，今日毕,Don't put off until tomorrow what can be done today,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00090,zh,high,同是天涯沦落人,Those who have the same misfortune sympathize with each other,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00091,zh,high,虎父无犬子,"Like father, like son",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00092,zh,high,人为财死，鸟为食亡,"Man dies for wealth, and bird dies for food",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00093,zh,high,平生不做亏心事，半夜敲门也不惊,"I will never do anything wrong in my life, and I will not be surprised if someone knocks my door in the middle of the night",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00094,zh,high,话不投机半句多,half a sentence is too much,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00095,zh,high,好马不吃回头草,A good horse never turns back,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00096,zh,high,忠言逆耳,Sometimes good advice is hard to hear,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00097,zh,high,慈母多败儿,loving mother raises loser kid,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00098,zh,high,慢工出细活,Slow and steady wins the race,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00099,zh,high,士可杀不可辱,A scholar can be killed but not humiliated,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00100,zh,high,请神容易送神难,it’s easier to ask God than to send God away,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00101,zh,high,平时不烧香，临时抱佛脚,"You really don't usually burn incense, so you just hug Buddha's feet temporarily",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00102,zh,high,吃人家的嘴软，拿人家的手软,"Eat others' mouths softly, take others' hands softly",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00103,zh,high,龙生龙，凤生凤，老鼠的儿子会打洞,"Like father, like son",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00104,zh,high,莫待无花空折枝,Seize the day,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00105,zh,high,树欲静而风不止,the tree wants to be still but the wind doesn't stop,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00106,zh,high,一朝被蛇咬，十年怕井绳,"Once bitten, twice shy",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00107,zh,high,受人之托，忠人之事,"entrusted by others, it is a matter of loyalty",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00108,zh,high,枪打出头鸟,The nail that sticks out gets hammered down,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00109,zh,high,心静自然凉,Calm and cool naturall,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00110,zh,high,谋事在人，成事在天,"Man proposes, God disposes",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00111,zh,high,隔行如隔山,different trades are montains apart,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00112,zh,high,兔子不吃窝边草,Don't shit where you eat,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00113,zh,high,塞翁失马，焉知非福,Every cloud has a silver lining,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00114,zh,high,事实胜于雄辩,facts speak louder than words,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00115,zh,high,兵来将挡，水来土掩,"the soldiers will block you, and the water will cover you",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00116,zh,high,听君一席话，胜读十年书,Listening to what you say is better than reading ten years of books,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00117,zh,high,清官难断家务事,It's hard for an upright official to decide on housework,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00118,zh,high,好心没好报,No good deed goes unpunished,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00119,zh,high,狗改不了吃屎,A leopard cannot change its spots,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00120,zh,high,亲兄弟，明算帐,"Brother, settle accounts clearly",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00121,zh,high,百无一用是书生,a useless person is a scholar,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00122,zh,high,君子一言，驷马难追,"When a gentleman says a word, he whips the horse quickly",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00123,zh,high,傻人有傻福,Fortune favors fools,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00124,zh,high,三思而后行,Look before you leap,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00125,zh,high,国有国法，家有家规,"The state owns the state law, and the family has family rules",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00126,zh,high,有志者事竟成,"Where there is a will, there is a way",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00127,zh,high,天涯何处无芳草,There are plenty of fish in the sea,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00128,zh,high,要想富先修路,build roads first if we want to get rich,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00129,zh,high,读万卷书，行万里路,Read thousands of books and travel thousands of miles,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00130,zh,high,好汉不吃眼前亏,A hero does not suffer from immediate losses,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00131,zh,high,种瓜得瓜，种豆得豆,you reap what you sow,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00132,zh,high,功夫不负有心人,Hard work pays off,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00133,zh,high,只要功夫深，铁杵磨成针,Practice makes perfect,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00134,zh,high,天无绝人之路,There is always a way out,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00135,zh,high,鱼与熊掌不可兼得,You can't have your cake and eat it too,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00136,zh,high,儿孙自有儿孙福,Children and grandchildren have their own blessings,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00137,zh,high,不在其位，不谋其政,"if you do not hold the post, do not meddle in the affairs of that post.",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00138,zh,high,家丑不可外扬,What happens in the family stays in the family,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00139,zh,high,言多必失,talking too much,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00140,zh,high,夏虫不可语冰,Summer insects can't talk to ice,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00141,zh,high,真金不怕火炼,real gold is not afraid of fire,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00142,zh,high,书到用时方恨少,"When you need to use the knowlede, you will regret not read more books",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00143,zh,high,万事起头难,everything is difficult at the beginning,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00144,zh,high,有其母必有其子,"like mother, like son",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00145,zh,high,无信不立,"If people have no faith in a person, there is no standing for that person.",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00146,zh,high,人贵自知,knowing yourself,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00147,zh,high,蜉蝣在世,Life is short,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00148,zh,high,百年树人,it takes a hundred years to cultivate people,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00149,zh,high,成王败寇,winner is the king and loser is the theif,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00150,zh,high,三人成虎,What you are told three times is true.,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00151,zh,high,一图胜千言,A picture is worth a thousand words,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00152,zh,high,知耻近乎勇,Knowing shame is close to courage,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00153,zh,high,人多好办事,Many hands make light work,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00154,zh,high,万恶淫为首,"Of all bad traits, corruption is the worst",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00155,zh,high,工字不出头,cannot be successful in life by being a worker,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00156,zh,high,时穷节乃见,only at perilous times will one's integrity be tested and manifested,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00157,zh,high,同行如敌国,your peer is like your enemy,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00158,zh,high,话不说不明,people won't understand you unless you explain things,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00159,zh,high,欺山莫欺水,"Bully the mountains, don't bully the water",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00160,zh,high,病向浅中医,seek doctor when the sickness just started,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00161,zh,high,疑心生暗鬼,skepticism creates ghost,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00162,zh,high,贫贱不能移,one cannot be easily moved because of poverty,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00163,zh,high,不自由毋宁死,Give me liberty or give me death,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00164,zh,high,自助者天助之,God help those who help themselves,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00165,zh,high,做一行怨一行,complaint about whatever you do,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00166,zh,high,真理越辩越明,"The more the truth is debated, the clearer it becomes",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00167,zh,high,为善不欲人知,I don’t want others to know about my good deeds,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00168,zh,high,万丈高楼平地起,tall buildings rise from the ground,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00169,zh,high,不患寡而患不均,Don't suffer from scarcity but from inequality,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00170,zh,high,满招损，谦受益,Pride comes before a fall,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00171,zh,high,不以成败论英雄,a hero should not be judged by success or failure,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00172,zh,high,德不孤，必有邻,"Virtue is not alone, there must be neighbors",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00173,zh,high,尘归尘，土归土,"Ashes to ashes, dust to dust",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00174,zh,high,勤有功，戏无益,"Diligence is meritorious, play is useless",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00175,zh,high,尽信书不如无书,It is better to have no books than to believe in books completely,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00176,zh,high,一日之计在于晨,most important time of the day is the morning,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00177,zh,high,久病床前无孝子,There is no filial son in front of the bed for a long time,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00178,zh,high,一样米养百样人,One kind of rice feeds all kinds of people,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00179,zh,high,礼之用，和为贵,"For the purpose of etiquette, peace is the most important thing",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00180,zh,high,上山容易下山难,It is easy for you to go up the mountain and difficult to go down the mountain,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00181,zh,high,来而不往非礼也,It is impolite not to reciprocate,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00182,zh,high,一个巴掌拍不响,It takes two to tango,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00183,zh,high,千金难买少年穷,Money is hard to buy poor young man,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00184,zh,high,玉不琢，不成器,"jade is not cut, it is not perfect",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00185,zh,high,前车覆，后车戒,"The front car overturns, and the rear car stops",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00186,zh,high,言必信，行必果,keep your word and do it,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00187,zh,high,君子不立危墙之下,A gentleman does not stand under a dangerous wall,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00188,zh,high,业精于勤，荒于嬉,"proficiency in business comes from diligence, and waste from play",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00189,zh,high,巧言令色，鲜矣仁,Clever words and seductive looks are fresh and benevolent,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00190,zh,high,朝闻道，夕死可矣,"If you hear the Tao in the morning, you can die in the evening",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00191,zh,high,人之患在好为人师,it is bad to give unsolicited counsel or lectures,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00192,zh,high,生是短暂死是永恒,life is short and death is eternal,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00193,zh,high,一方水土养一方人,the earth and water from one place nourishes people from that place,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00194,zh,high,道不同，不相为谋,have different ways and we don't conspire with each other,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00195,zh,high,天下无不散之筵席,All good things come to an end,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00196,zh,high,早起的鸟儿有虫吃,Early bird gets the worm,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00197,zh,high,十年树木，百年树人,It takes ten years to cultivate a tree and a hundred years to cultivate a person,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00198,zh,high,三军未发，粮草先行,"The army has not been dispatched, but food and grass go first",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00199,zh,high,分久必合，合久必分,"What is divided for a long time must be united, and what is united for a long time must be divided",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00200,zh,high,好战必亡，忘战必危,"Those who love war will die, and those who forget war will be in danger",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00201,zh,high,前人栽树，后人乘凉,"The predecessors planted trees, and the descendants enjoyed the shade",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00202,zh,high,千里之行，始于足下,A thousand miles begins with a single step,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00203,zh,high,人而无信，不知其可,"if a person have no faith, we don't know if he is capable of doing anything",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00204,zh,high,千里之堤，溃于蚁穴,The embankment of a thousand miles collapsed in an ant's nest,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00205,zh,high,前事不忘，后事之师,Experience is the best teacher,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00206,zh,high,聪明一世，糊涂一时,"I'm smart for the life-time, but I'm confused temporarily",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00207,zh,high,智者千虑，必有一失,"A wise man thinks a lot, but he will make a mistake",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00208,zh,high,百尺竿头，更进一步,"Great progress, go further",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00209,zh,high,人无远虑，必有近忧,"People don't have long-term worries, but they must have near-term worries",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00210,zh,high,与人方便，自己方便,It is convenient for others and convenient for yourself,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00211,zh,high,扬汤止沸，不如去薪,It's better to get rid of the fire than to stop the soup from boiling,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00212,zh,high,送君千里，终须一别,"I will send you off for thousands of miles, but I still have to say goodbye in the end",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00213,zh,high,但行好事，莫问前程,don't worry about your future if you do good deeds,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00214,zh,high,生于忧患，死于安乐,people are born in sorrow and die in peace,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00215,zh,high,兼听则明，偏信则暗,"If you listen to both, you will be clear, but if you believe partly, you will be dark",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00216,zh,high,不经一事，不长一智,Experience is the best teacher,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00217,zh,high,一著不慎，满盘皆输,one careless move and the whole game is lost,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00218,zh,high,君子不器,a gentleman is not an equipment,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00219,zh,high,鸟尽弓藏,The hidden bow will be revealed when all the birds are gone,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00220,zh,high,家书抵万金,Letters from home are worth ten thousand gold,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00221,zh,high,瑞雪兆丰年,auspicious snow heralds a good year,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00222,zh,high,饱暖思淫欲,One will think about lust when he is full of warmth and full,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00223,zh,high,见面三分情,very friendly when we meet each other,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00224,zh,high,好酒沉瓮底,good wine sinks to the bottom,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00225,zh,high,学而优则仕,"If you are good at study, you will become an official",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00226,zh,high,媳妇熬成婆,the daughter-in-law has become a mother-in-law,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00227,zh,high,九出十三归,Nine out and thirteen back,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00228,zh,high,忧道不忧贫,worrying about roads is not about poverty,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00229,zh,high,无友不如己者,People should make friends with people who are better than them,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00230,zh,high,山雨欲来风满楼,the rain is about to come and the building is full of wind,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00231,zh,high,一将功成万骨枯,a general's success is a thousand people's death,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00232,zh,high,一枝草，一点露,"a sprig of grass, a little dew",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00233,zh,high,强龙不压地头蛇,A strong dragon does not overwhelm a local snake,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00234,zh,high,池中无鱼虾自大,"in the land of the blind, the one-eyed man is king",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00235,zh,high,不怕慢，就怕站,"Don't be afraid of slowness, but afraid of stand still",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00236,zh,high,磨刀不误砍柴工,Sharpening a knife does not delay cutting firewood,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00237,zh,high,十个光头九个富,"Out of ten bald heads, nine are rich",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00238,zh,high,强中自有强中手,"Be humble, there are strong hands among the strong",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00239,zh,high,花开堪折直须折,Lost time is never found again,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00240,zh,high,肥水不流外人田,Fertile water does not flow to outsider's field,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00241,zh,high,亲者痛，仇者快,"Be careful, the loved ones will be hurt, and the enemies will be happy",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00242,zh,high,饱汉不知饿汉饥,A full man doesn't know a hungry man is hungry,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00243,zh,high,行百里者半九十,walk a ninety miles out of a hundred miles is only considered as half way through,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00244,zh,high,乱拳打死老师傅,beat the teacher to death without any strategy,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00245,zh,high,湖广熟，天下足,"when California is harvesting, the world is full",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00246,zh,high,落水的凤凰不如鸡,a drowning phoenix is not as good as a chicken,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00247,zh,high,不当家不知柴米贵,I don't know how expensive rice is if I'm not in charge,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00248,zh,high,三人行，必有我师,"When three people walk together, one of them must be my teacher",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00249,zh,high,风雨如晦，鸡鸣不已,the wind and rain are dark and the rooster is crowing,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00250,zh,high,人必自重而后人重之,People must respect themselves and others will respect them,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00251,zh,high,虎死留皮，人死留名,"When a tiger dies, it leaves its skin, but when a man dies, he leaves his name",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00252,zh,high,君子爱财，取之有道,"A gentleman loves money, and he gets it in a proper way",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00253,zh,high,普天之下，莫非王土,"Yes, there is no king in the world",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00254,zh,high,道高一尺，魔高一丈,"the Tao is one foot tall, and the devil is one foot tall",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00255,zh,high,一日为师，终身为父,"A teacher for a day, a father for life",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00256,zh,high,知人者智，自知者明,"those who know others are wise, and those who know themselves are wise",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00257,zh,high,成者为王，败者为寇,"the winner is the king, and the loser is the bandit",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00258,zh,high,己立立人，己达达人,"let yourself stand up to others, and you will reach out to others",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00259,zh,high,蓬生麻中，不扶而直,"Punta grass grows in hemp field, straight without support",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00260,zh,high,四海之内皆兄弟,all people are brothers in the world,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00261,zh,high,好死不如赖活著,better a living dog than a dead lion,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00262,zh,high,屋漏偏逢连夜雨,it happened that the house leaked and it rained all night,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00263,zh,high,名不正，则言不顺,"if the name is not right, then the words will not be right",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00264,zh,high,欲加之罪，何患无辞,"If you want to commit a crime, you can find all kinds of excuses",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00265,zh,high,春江水暖鸭先知,ducks are the prophet of spring river and warm water,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00266,zh,high,初生之犊不畏虎,Newborn calves are not afraid of tigers,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00267,zh,high,神仙打架，小鬼遭殃,"The gods fight, and the imps suffer",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00268,zh,high,人多嘴杂,There are too many people here,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00269,zh,high,人靠衣装佛靠金装,fine feathers make fine birds,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00270,zh,high,纸包不住火,Paper can't contain fire,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00271,zh,high,小心驶得万年船,Be careful so you could sailing for thousands of years,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00272,zh,high,宁可信其有，不可信其无,It is better to believe what is there than not to believe what is not,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00273,zh,high,男儿膝下有黄金,The man has gold under his knees,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00274,zh,high,说曹操，曹操到,speak of the devil,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00275,zh,high,若要人不知，除非己莫为,"If you want people not know, you should do nothing",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00276,zh,high,高处不胜寒,It's very cold at the top,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00277,zh,high,丈夫有泪不轻弹,Great man does not shed tears lightly,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00278,zh,high,英雄出少年,heroes come out of youth,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00279,zh,high,明枪易躲，暗箭难防,"It's easy to hide from an open spear, but hard to defend against a hidden arrow",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00280,zh,high,病急乱投医,Don't go to the doctor in a hurry,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00281,zh,high,冰冻三尺，非一日之寒,Freezing three feet does not happen in a day,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00282,zh,high,林子大了，什么鸟都有,It takes all sorts to make the world,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00283,zh,high,一分耕耘，一分收获,no pain no gain,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00284,zh,high,三十年河东，三十年河西,life has its ups and downs,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00285,zh,high,爱之深责之切,The depth of love and the strict of expectation,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00286,zh,high,冤冤相报何时了，得饶人处且饶人,"When is it time to repay the injustice, you have to forgive others and forgive others",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00287,zh,high,不打不成器,"if you don't physically punish, you son can't achieve anything",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00288,zh,high,勿以恶小而为之,Don't do evil even if it is about small things,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00289,zh,high,贫贱夫妻百事哀,poor and lowly couples are always sad,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00290,zh,high,自古红颜多薄命,How unlucky a beauty has been since ancient times,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00291,zh,high,书中自有颜如玉,There are beautiful women in the book,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00292,zh,high,好汉不提当年勇,a hero doesn't mention his bravery back then,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00293,zh,high,人心隔肚皮,People's hearts are separated by belly,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00294,zh,high,不是冤家不聚头,it's not that friends don't get together,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00295,zh,high,哀莫大于心死,there is no greater sadness than giving up,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00296,zh,high,无毒不丈夫,great man is not afraid of doing something viscious,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00297,zh,high,没有金刚钻，别揽瓷器活,"If you cannot stand the heat, get out of the kitchen",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00298,zh,high,里面的人想出去，外面的人想进来,"People inside want to go out, people outside want to come in",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00299,zh,high,羊毛出在羊身上,wool comes from sheep,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00300,zh,high,夫妻本是同林鸟,Husband and wife are birds of the same forest,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00301,zh,high,人算不如天算,human calculation is not as good as the god's calculation,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00302,zh,high,举头三尺有神明,The gods are watching,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00303,zh,high,做一天和尚撞一天钟,Be a monk for a day and ring the bell for a day,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00304,zh,high,男大当婚，女大当嫁,"Males should get married when they are old enough, females should get married when they are old enough",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00305,zh,high,新官上任三把火,There are three fires when a new official takes office,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00306,zh,high,女大三抱金砖,a female that is 3 years older holds gold bricks,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00307,zh,high,打者爱也,people who batter you loves you,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00308,zh,high,墙倒众人推,everyone is pushing the wall down.,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00309,zh,high,一醉解千愁,Get drunk tonight and relieve your worries,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00310,zh,high,饭后百步走，活到九十九,walk a hundred steps after a meal and live to ninety-nine,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00311,zh,high,山中无老虎，猴子称大王,"When the cat's away, the mice will play",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00312,zh,high,骗得了一时，骗不了一世,"You can cheat for a while, but you can't cheat forever",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00313,zh,high,无鱼，虾也好,"No fish, shrimp is also good",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00314,zh,high,官字两个口,There are two mouths in the official characters,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00315,zh,high,小别胜新婚,little goodbye is better than newlywed,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00316,zh,high,伴君如伴虎,accompanying the king is like accompanying a tiger,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00317,zh,high,聪明反被聪明误,he has outsmarted himself,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00318,zh,high,苍蝇不叮无缝的蛋,flies don't sting seamless eggs,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00319,zh,high,嘴上没毛，办事不牢,"There is no hair on the mouth, so you can't do things well",literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00320,zh,high,巧妇难为无米之炊,A clever woman can hardly cook without rice,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00321,zh,high,多一事不如少一事,One thing more is worse than one thing less,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00322,zh,high,此地无银三百两,This is no three hundred taels of silver here,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00323,zh,high,初生牛犊不怕虎,It's true that a newborn calf is not afraid of a tiger,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00324,zh,high,吃着碗里瞧着锅里,you are eating from the bowl and looking at the pot,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00325,zh,high,拆东墙补西墙,we can tear down the east to make up for the west,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00326,zh,high,放长线钓大鱼,put a long line to catch big fish,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00327,zh,high,长江后浪推前浪,The waves behind the Yangtze River drive the waves ahead,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00328,zh,high,赶鸭子上架,drive ducks to the shelves,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00329,zh,high,解铃还须系铃人,It is better for the doer to undo what he has done,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00330,zh,high,死猪不怕开水烫,a dead mouse feels no cold,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00331,zh,high,老鼠过街,a rat crossing the street,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00332,zh,high,飞蛾扑火,moths to flame,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00333,zh,high,麻雀虽小，五脏俱全,"Although the sparrow here is small, it has all internal organs",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+zh_maps_00334,zh,high,鹬蚌相争，渔人得利,"When shepherds quarrel, the wolf has a winning game",figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00335,bn,medium,চক চক করলেই সোনা হয় না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00336,bn,medium,ঘোড়া ডিঙিয়ে ঘাস খাওয়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00337,bn,medium,ফাটা কাঁসর বেসুরে বাজে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00338,bn,medium,অজ্ঞানের কান দুটো ছোট ও জিভটা বড় হয়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00339,bn,medium,অশ্বত্থামা হত ইতি গজ,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00340,bn,medium,এক চাকাতে রথ চলে না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00341,bn,medium,শুধু গৌর নয় গৌরহরি সমাদ্দার,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00342,bn,medium,চূড়ার উপর ময়ূরপাখা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00343,bn,medium,আদায় কাঁচকলায় সম্পর্ক,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00344,bn,medium,একটি মিথ্যা ঢাকতে দশটা মিথ্যা কথা বলতে হয়,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00345,bn,medium,যতদূর পা ছড়াও ততদূর মাদুর,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00346,bn,medium,পেরেকের মাথায় আঘাত করা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00347,bn,medium,কুকুর রাজা হলেও জুতা খায়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00348,bn,medium,লাভে লোহা বয়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00349,bn,medium,করা থেকে বলা সহজ,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00350,bn,medium,বিষ থেকেও অমৃত নেওয়া যায়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00351,bn,medium,"যে হাসতে জানে, সে বাঁচতে জানে",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00352,bn,medium,এমনকি একটা/টি খরগোশও কামড়াতে পাড়ে যদি সে কোণঠাসা হয়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00353,bn,medium,আসমান-জমিন ফারাক,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00354,bn,medium,"অনাবৃষ্টে রাজ্য মজে, পাপে মজে ধর্ম; কোটালে গৃহস্থ মজে, আলস্যে মজে কর্ম",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00355,bn,medium,অভ্যাস অভ্যাস উপশম,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00356,bn,medium,ঘাম দিয়ে জ্বর ছাড়া,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00357,bn,medium,এক মাণিক সাত রাজার ধন,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00358,bn,medium,"দই খাবে মেধো, কড়ি/দাম দেবে সেধো",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00359,bn,medium,"সুসময়ে অনেকেই বন্ধু বটে হয়, অসময়ে হায় হায় কেহ কারো নয়",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00360,bn,medium,সিন্ধুতে বিন্দু,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00361,bn,medium,অতি চালাকের গলায় দড়ি,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00362,bn,medium,কপাল ভালো তো সব ভালো,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00363,bn,medium,কড়ি হলে বাঘের দুধ মেলে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00364,bn,medium,কত আস্তে তুমি হাঁটছো তাতে কিছু যায় আসে না যতক্ষণ না তুমি থামছো,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00365,bn,medium,"থাকলে তালৈয়ের বাপের শ্রাদ্ধ হয়, না থাকলে নিজের বাপের শ্রাদ্ধ হয় না",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00366,bn,medium,মধুসূদন দাদার দৈ-এর ভাণ্ড,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00367,bn,medium,"খাই না খাই আছি ভালো, ভাঙাঘরে চাঁদের আলো",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00368,bn,medium,উড়ে এসে জুড়ে বসা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00369,bn,medium,দাঁত থাকতে দাঁতের মর্যাদা বোঝা যায় না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00370,bn,medium,"প্রতিটি জিনিসেরই সৌন্দর্য আছে , কিন্তু সবাই আসলে তা দেখতে পায় না",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00371,bn,medium,নরানাং নাপিতো ধূর্ত,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00372,bn,medium,বোবা কালার একগুণ বাড়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00373,bn,medium,খাবার সময় শোবার চিন্তা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00374,bn,medium,স্বভাব যায় না মলে ইল্লৎ যায় না ধুলে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00375,bn,medium,আকালে কী না খায়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00376,bn,medium,যত গর্জে তত বর্ষে না,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00377,bn,medium,আপনি বাঁচলে বাপের নাম,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00378,bn,medium,কানা গরুর ভিন্ন গোঠ,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00379,bn,medium,লেঙ্‌টার নেই বাটপাড়ের ভয়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00380,bn,medium,কাম নাই কুত্তার আইলে আইলে দৌড়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00381,bn,medium,একটি মন্দ সকাল ভাল দিনে পরিণত হতে পারে,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00382,bn,medium,"দুইজনে বন্ধুত্ব হয়, তিনজনে হয় কলহ",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00383,bn,medium,বামুন পরের জন্য নয় বাউড়ি ঘরের জন্য নয়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00384,bn,medium,ন দুঃখং পঞ্চভিসহ,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00385,bn,medium,"লাজের মাথায় পড়ুক বাজ, সারো গিয়ে নিজের কাজ",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00386,bn,medium,পোকামাকড় নাটক,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00387,bn,medium,"আইতে ছাগল, যাইতে পাগল",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00388,bn,medium,চোরের উপর রাগ করে মাটিতে ভাত খাওয়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00389,bn,medium,আছে কাজ তাই সকালসকাল সাজ,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00390,bn,medium,"অল্প খেলে বেশি খাবে, বেশি খেলে অল্প খাবে",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00391,bn,medium,বরমেকো গুণীপুত্রো ন চ মূর্খ শতান্যপি/শতৈরপি,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00392,bn,medium,আদরে বাঁদর বনে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00393,bn,medium,আমি জীবনপাত্রের তলানিটুকু নিঃশেষে পান করব,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00394,bn,medium,এ কি ছেলের হাতে পিঠে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00395,bn,medium,বুনোহাঁসের পিছনে ছোটো না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00396,bn,medium,আড়ে নাই অসাড়ে অসার,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00397,bn,medium,"ভাই বড় ধন রক্তের বাধঁন, যদিও পৃথক হয় নারীর কারণ",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00398,bn,medium,ভাজা মাছ উল্টিয়ে খেতে পারে না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00399,bn,medium,গোয়ায় নাই ছাল চামড়া খোদার নামে দেয় সাত দামড়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00400,bn,medium,জলের চেয়ে রক্ত গাঢ়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00401,bn,medium,"আগে নিজেকে সামলাও, তারপর অন্যকে গিয়ে ধর",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00402,bn,medium,পুরানো চাল ভাতে বাড়ে পুরানো ঘিয়ে মাথা ছাড়ে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00403,bn,medium,কথা শুনে পেটের ভাত চাল হয়ে যায়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00404,bn,medium,"অবুঝে বুঝাব কত,বুঝ নাহি মানে; ঢেঁকিরে বুঝাব কত, নিত্য ধান ভানে",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00405,bn,medium,শুকনো আদার ঝাঁঝ যায় না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00406,bn,medium,"চাল নাই, ধান নাই, গোলাভরা ইদুঁর",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00407,bn,medium,ঈশা বাস্যমিদং সর্বং যৎ কিঞ্চ জগৎ্যাং জগৎ। তেন ত্যক্তেন ভুঞ্জীথা মা গৃধঃ কস্য স্বিদ্ধনম্‌॥,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00408,bn,medium,"আপন পাঁজি পরকে দিয়ে,দৈবজ্ঞ বেড়ায় পথে পথে",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00409,bn,medium,হ-য-ব-র-ল,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00410,bn,medium,রক্তপাত ছাড়া পাপ ধোয় না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00411,bn,medium,ঘোড়ার ঘাস কাটা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00412,bn,medium,মরমীর মর্মব্যাথা একমাত্র মর্মজ্ঞই বুঝতে পারে,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00413,bn,medium,ফেন দিয়ে ভাত খায় গল্পে মারে দই মেটেহুঁকোয় তামাক খায় গড়গড়িটা কই,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00414,bn,medium,"অধিগুণে মোঘা যাচ্ঞা (অপি) বরম অধমে লম্বকামা ন- মেঘদূতকাব্য, কালিদাস",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00415,bn,medium,একবার দংশন দুইবার কুণ্ঠা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00416,bn,medium,আদার বেপারীর জাহাজের খবর,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00417,bn,medium,চণ্ডীপাঠ ইস্তক/থেকে জুতো সেলাই,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00418,bn,medium,মানে মানে ভাল আছি,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00419,bn,medium,সারাদিন থাকব নায় কখন খড়ম দেব পায়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00420,bn,medium,জলে তেলে খাপ/মিশ খায় না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00421,bn,medium,ভালকথার ঝুটাও ভাল,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00422,bn,medium,ঘোড়ার ডিম,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00423,bn,medium,ঢেঁকি স্বর্গে গেলেও ধান ভানে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00424,bn,medium,"এক হেঁসেলে দুই রাঁধুনি, পুড়ে গেল তার ফেনগালুনি",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00425,bn,medium,"দিনকে রাত করা, রাতকে দিন করা",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00426,bn,medium,ডানহাতের কাজ বামহাত যেন না জানে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00427,bn,medium,অন্ধকারে সব বিড়ালকে ধূসর দেখায়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00428,bn,medium,জাহাজের পাশে জালিবোট,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00429,bn,medium,প্রতিভোরে আমরা নতুনভাবে জন্ম নিই; আজকে যা করি সেটাই সব থেকে বেশি গুরুত্বপূর্ণ,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00430,bn,medium,ছোটখাটো বিষয় নিয়ে তর্ক করলে বেশি সময় নষ্ট হয়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00431,bn,medium,ভাত কখনও পেট খোঁজে না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00432,bn,medium,আল্লা যারে দেয় ছাদ ফুঁইড়া দেয়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00433,bn,medium,অলস মস্তিষ্ক শয়তানের বাসা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00434,bn,medium,জোয়ারের জল আর কতক্ষণ,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00435,bn,medium,স্বখাত সলিলে ডুবে মরি শ্যামা দোষ কারো নয়গো মা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00436,bn,medium,পছন্দের বোঝা অনুভূত হয় না,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00437,bn,medium,শরীরের নাম মহাশয় যা সওয়াবে তাই সয়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00438,bn,medium,পরের বিড়াল খায় বনে পানে চায়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00439,bn,medium,জুতো সেলাই থেকে চণ্ডীপাঠ,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00440,bn,medium,"বিদ্বান সকল গুণের আধার, অজ্ঞ সকল দোষের আকর",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00441,bn,medium,"মানুষ বাঁচে তাহার কর্মে, বয়সের মধ্যে নহে",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00442,bn,medium,গুড় দিয়ে খেলে গুণচটও মিষ্টি লাগে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00443,bn,medium,ধান দিয়ে লেখাপড়া শেখা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00444,bn,medium,বসে না থাকি বেগার খাটি,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00445,bn,medium,নিত্যচাষার ঝি বেগুনগাছ দেখে বলে এ আবার কী,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00446,bn,medium,কলিতে সোনা পিতল হ'ল,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00447,bn,medium,যদি তুমি কোন ঘরে সবথেকে বেশি বুদ্ধিমান ব্যক্তি হও তবে তুমি ভুল ঘরে আছো,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00448,bn,medium,ঘরের দরজা খোলা পেলে সাধুও চোর হয়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00449,bn,medium,পাহাড়ের চূড়ায় মাত্র কয়েকজনই চড়ে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00450,bn,medium,"খিড়কি দিয়ে হাতি গলে, সদরে বাধে ছুঁচ",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00451,bn,medium,"আপন হাত জগন্নাথ, পরের হাত এটো পাত",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00452,bn,medium,তালপাতার ছায়া মিছা কর তার মায়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00453,bn,medium,মূর্খের স্বর্গবাস,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00454,bn,medium,আশার শেষ নেই,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00455,bn,medium,শান্ত বিবেক বজ্রপাতে ঘুমায়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00456,bn,medium,চিল পড়লে কুটোটাও নিয়ে ওঠে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00457,bn,medium,"যাদৃশী ভাবনা যস্য, সিদ্ধির্ভবতি তাদৃশী",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00458,bn,medium,অতি লোভে তাতি নষ্ট,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00459,bn,medium,বোকার কাছে টাকা থাকে না,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00460,bn,medium,বড় গাছে কাছি দড়ি বাঁধা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00461,bn,medium,কাকের উপর কামান দাগা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00462,bn,medium,ধন যৌবন আড়াই দিন চাম চোখে মানুষ চিন্‌,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00463,bn,medium,কুঁড়ে কৃষাণ অমাবস্যা খোঁজে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00464,bn,medium,শেষ রক্ষাই রক্ষা,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00465,bn,medium,মন্দ কখনো ভালো হয় না,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00466,bn,medium,"যতক্ষন শ্বাস, ততক্ষণ আঁশ",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00467,bn,medium,"চললে পোয়া, বসলে ক্রোশ, পথ বলে মোর কিসের দোষ",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00468,bn,medium,শত্রু বলবান হলে লুকিয়ে আত্মরক্ষা করতে হয়,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00469,bn,medium,জীবনের স্বাদ বৈচিত্র্যে,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00470,bn,medium,অর্থং অনর্থং ভাবয় নিত্যং,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00471,bn,medium,ভাবিয়া করিও কাজ,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00472,bn,medium,প্রাপ্তকালো ন জীবতি,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00473,bn,medium,যত্রাকৃতিস্থত্র গুণাঃ বসন্তি,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00474,bn,medium,খোদার উপর খোদকারী,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00475,bn,medium,বিষ্ঠায় ঢিল/ঢেলা মারলে নিজের গায়ে ছিটকে পড়ে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00476,bn,medium,আঙুল ঘুরিয়ে পাঁচিল দেওয়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00477,bn,medium,"কইতে কইতে মুখ বাড়ে, খাইতে খাইতে পেট বাড়ে",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00478,bn,medium,গিন্নির উপর গিন্নিপনা ভাঙা পিঁড়েয় আলপনা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00479,bn,medium,"যারা মন্দিরে যায়, তারা সবাই সাধু নয়",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00480,bn,medium,নীরবতা হিরণময়,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00481,bn,medium,কথার কথা কাজের নহে,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00482,bn,medium,কর্ত্তোব্য নাতি সঞ্চয়,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00483,bn,medium,ঘৃণায় ঘৃণা বাড়ে,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00484,bn,medium,গাছে তুলে মই কেড়ে নেওয়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00485,bn,medium,শিয়ালের বেটা সিংহ হয় না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00486,bn,medium,জীবনে মরণে সৎলোকের কোন ক্ষতি হয় না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00487,bn,medium,উলুবনে মুক্তা ছড়ানো,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00488,bn,medium,ধরেছ তো ছেড়ো না,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00489,bn,medium,শক্ত মাটিতে বিড়াল আঁচড়ায় না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00490,bn,medium,"পিঠে বেঁধেছি কুলো, কানে দিয়েছি তুলো",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00491,bn,medium,ঝোল ভাত খাওয়ানো,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00492,bn,medium,নিজের পাঁঠা লেজে কাটি,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00493,bn,medium,একজন মানুষ যা করতে পারে তার বেশি সে পারে না,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00494,bn,medium,মিষ্টি আম পেলে কি আঁটি শুদ্ধ খায়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00495,bn,medium,তোমার পিঠে তখন একটি লোক উঠবে যখন তুমি পিঠ নীচু করবে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00496,bn,medium,গরু মেরে জুতা দান,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00497,bn,medium,"আহাম্মক যে হয়, পিছনে সে কথা কয়",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00498,bn,medium,কচুপোড়া খাও,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00499,bn,medium,নালা কেটে নোনা জল আনা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00500,bn,medium,চায়ের পেয়ালা ও ঠোঁটের মধ্যে বিস্তর ফাঁক থাকে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00501,bn,medium,পাকা ধানে মই দেওয়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00502,bn,medium,গাই নেবে দুইয়ে বলদ নেবে বেয়ে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00503,bn,medium,"পরতরফে খায় ঘি, তার আবার খরচ কি",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00504,bn,medium,"পরের কথা লাথি চাপড়, নিজের কথা ভাত কাপড়",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00505,bn,medium,ঘুটে পুড়লে গোবর হাসে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00506,bn,medium,ভেরেণ্ডা গাছও বৃক্ষ হয়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00507,bn,medium,"দেশগুণে বেশ /দেশ বুঝে বেশ, জমি বুঝে চাষ",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00508,bn,medium,দৌড়ানো শেখার পূর্বে হাটা শিখতে হয়।,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00509,bn,medium,মূর্খের কথার উত্তর না দেওয়াটা তার উত্তর,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00510,bn,medium,"ধর্মের জয়, অধর্মের ক্ষয়",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00511,bn,medium,"যেমন কর্ম, তেমন ফল।",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00512,bn,medium,"আগে উপযুক্ত হও, পরে আকাঙ্ক্ষা কর",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00513,bn,medium,কানা গরুর ভিন্ন পথ।,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00514,bn,medium,"কাঁচায় না নোয়ালে বাঁশ, পাকলে করে ঠাস ঠাস",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00515,bn,medium,নূন দিয়ে রাঁধিত ভালই হয় আলুনি রাঁধতে তিনগুণ যায়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00516,bn,medium,"আগে না বুঝিলে বাছা যৌবনের ভরে, পশ্চাতে কাঁদিতে হবে নয়নের ঝোরে",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00517,bn,medium,যে রাঁধে সে চুলও বাঁধে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00518,bn,medium,আলস্যং হি মনুষ্যানাং শরীরস্থো মহান রিপু।,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00519,bn,medium,"যদি দুটি পাখির পিছনে ছোটো, তবে একটিও পাবে না",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00520,bn,medium,মন ভাল নয় তীর্থ কর মিছেব কাজে ঘুরে মর,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00521,bn,medium,জমি না দেখে জমি ছেড়ো না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00522,bn,medium,শেওড়াতলায় আম পাওয়া গেলে আমতলায় কেন যাই,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00523,bn,medium,"অন্ন দেখে দেবে ঘি, পাত্র দেখে দেবে ঝি",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00524,bn,medium,কুকুরের পেটে ঘি সয় হয় না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00525,bn,medium,আপনার বেলায় আঁটিসাটি পরের বেলায় দাঁতকপাটি,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00526,bn,medium,অপেক্ষার সময় শেষ হয় না,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00527,bn,medium,এক লাফেই তালগাছে ওঠা যায় না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00528,bn,medium,সবুরে মেওয়া ফলে।,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00529,bn,medium,বিপদকে ডেকো না বিপদ তোমার পিছু নেবে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00530,bn,medium,"বৈরিতা অন্যকে আঘাত করে, কিন্তু নিজে আহত হয়",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00531,bn,medium,"যে প্রশ্ন কর্‌ সে কিছুক্ষণের জন্য মূর্খ থাকে, যে প্রশ্ন করে না, সে সারাজীবনের জন্য মূর্খ থাকে - চীনা প্রবাদ",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00532,bn,medium,কথা দিয়ো ধীরে; কাজ করো তীরে (দ্রুত),,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00533,bn,medium,মাছ না পেয়ে ছিপে কামড়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00534,bn,medium,এক মাঘে শীত নাহি যায়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00535,bn,medium,"আকাশে যত ঝড় ওঠে, গোয়ালে তত গরু ছোটে",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00536,bn,medium,উদ্যোগীর কাছে কোন পথই দূর নয়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00537,bn,medium,যে কহে দুঃখভোগ সে করে সুখভোগ,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00538,bn,medium,আসল ছেড়ে ছায়ার পিছনে ছূটো না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00539,bn,medium,"কত হাতি গেল তল, মশা বলে কত জল",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00540,bn,medium,ঘরের খেয়ে বনের মোষ তাড়ান,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00541,bn,medium,হাতে যদি ফল পাই তবে কেন আঁকুশি চাই২,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00542,bn,medium,দুই নৌকায় পা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00543,bn,medium,"নতুন নতুন ন'কড়া, পুরানো হ'লে ছ'কড়া",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00544,bn,medium,চোখ সব দেখে কেবল নিজেকে দেখে না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00545,bn,medium,"দিনে বাতি যার ঘরে, তার ভিটায় ঘুঘু চরে",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00546,bn,medium,সর্ব্বম অত্যন্তম গর্হিতম্,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00547,bn,medium,নাচতে নেমে ঘোমটা টানা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00548,bn,medium,সৎলোকের শত শত্রু থাকে,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00549,bn,medium,মা লক্ষ্মী ভিক্ষা মাগে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00550,bn,medium,"একতায় উত্থান, বিভেদে পতন",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00551,bn,medium,খোষে তৈল নাই কলাবড়ার সাধ,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00552,bn,medium,সাধ ছিল রে চিতে মলের উপর চুটকি দিতে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00553,bn,medium,চাষীর গরু অমাবস্যা খোঁজে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00554,bn,medium,ট্যাক ভারি তো মন হালকা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00555,bn,medium,এত সুখ যদি তোর কপালে তবে কেন কাঁথা বগলে,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00556,bn,medium,"লোভে পাপ, পাপে মৃত্যু",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00557,bn,medium,গরীবের মুড়কিই সন্দেশ,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00558,bn,medium,যার নূন খাই তার গুণ হাই,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00559,bn,medium,ঘরের কেচ্ছা বাইরে গাওয়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00560,bn,medium,বাসনায় সন্তোষ থাকা বিধেয়,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00561,bn,medium,কাঁচের ঘরে বসে পরের জানালায় ঢিল ছোড়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00562,bn,medium,"টাকা টাকা বল ভাই, টাকার মত জিনিষ নাই, টাকা বিনে সংসারেতে সব যন্ত্রণা",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00563,bn,medium,"যে খেয়েছে সাত বার, তার জন্য ভাত বাড়, যে খায় নি একবার, তার জন্য চাল ঝাড়",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00564,bn,medium,মেঘ না চাইতেই জল,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00565,bn,medium,"কাজের সময় কাজী, কাজ ফুরালে পাজী",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00566,bn,medium,"জিভ পুড়লো আপ্ত দোষে, কি করবে হরিহর দাসে",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00567,bn,medium,জো করে টোট্‌কা উন্‌হীকো ঘুমকে পরে ফট্‌কা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00568,bn,medium,রাই কুড়িয়েই বেল হয়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00569,bn,medium,ভক্তের ভগবান,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00570,bn,medium,"কাঠের ভিতর পিঁপড়ে বলে চিনি ছাড়া খাবনি, চিন্তামণি চিন্তা করে যোগায় তারে অমনি",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00571,bn,medium,যুদ্ধের পর সিপাই হাজির,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00572,bn,medium,এক পায়ে খাড়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00573,bn,medium,উদর চিরলে ক বেরোয় না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00574,bn,medium,স্রোতে গা ঢালা,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00575,bn,medium,অন্নের জ্বালা বড় জ্বালা একদিনে লাগে তালা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00576,bn,medium,চিন্তা জ্বরো মনুষ্যাণাং,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00577,bn,medium,বুদ্ধি যার বল তার,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00578,bn,medium,পাকলে ডুমুর পড়ে মর,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00579,bn,medium,গল্পের গরু গাছে চড়ে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00580,bn,medium,সহনশীলতা সভ্যতার মাপকাটি,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00581,bn,medium,বড় বাড় ভালো নয়,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00582,bn,medium,শুয়োরের মুখে শাঁখালু,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00583,bn,medium,"মেঘ দেখে করিসনে ভয়,আড়ালে তার সূর্য হাসে",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00584,bn,medium,কাকে কান নিয়েছে শুনে কাকের পিছনে ছোটা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00585,bn,medium,রোজার ঘাড়ে ভূত,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00586,bn,medium,গোদের ওপর বিষফোঁড়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00587,bn,medium,"আগে দেও কড়ি, তবে দেবো বড়ি",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00588,bn,medium,"আপনি গেলে ঘোল পায়না,চাকর কে পাঠায় দুধের তরে",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00589,bn,medium,একেবারে না হওয়ার চেয়ে দেরিতে হওয়া ভালো,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00590,bn,medium,কয়লা ধুইলে ময়লা যায় না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00591,bn,medium,নাচতে না জানলে উঠোন বাঁকা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00592,bn,medium,এক হাতে তালি বাজে না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00593,bn,medium,সব ভাল তার শেষ ভাল যার,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00594,bn,medium,"কোথা রাম রাজা হবে, না কোথা রাম বনে যাবে",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00595,bn,medium,চটকস্য মাংসং ভাগ শতকং,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00596,bn,medium,অতিশয় ভালো নয় বুদ্ধি হলেই পড়তে হয়,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00597,bn,medium,অকণ্টকবিদ্ধ কি জানে কাঁটাফুটা কী,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00598,bn,medium,শিশুর বল কান্না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00599,bn,medium,"উপোসে কেউ নয়, পারণের গোঁসাই",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00600,bn,medium,সাপ হয়ে কাটে/কামড়ায় রোজা হয়ে ঝাড়ে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00601,bn,medium,"উঠতে বেকা চান, জনম বেকা গ্যাং, তেতই বেকা ফুলো, মানু বেকা মুলো",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00602,bn,medium,পাঁচ আঙুল সমান হয় না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00603,bn,medium,ঝাল লঙ্কার লাল চামড়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00604,bn,medium,"আইল দারুন বারিষা কাল, ছাইগ্যে চাটে বাঘর গাল",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00605,bn,medium,"রাজায় রাজায় যুদ্ধ হয়, উলুখাগড়ার প্রাণ যায়",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00606,bn,medium,অর্থই অনর্থের মূল,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00607,bn,medium,ছিকলি কাটা টিয়ে,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00608,bn,medium,শিব গড়তে বানর গড়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00609,bn,medium,কুৎসিত ছেলের নাম দিব্যসুন্দর,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00610,bn,medium,বিপদের মধ্যে গুনের পরীক্ষা হয়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00611,bn,medium,সেই তো নথ/মল খসালি তবে কেন লোক হাসালি,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00612,bn,medium,ঠেলার নাম বাবাজী,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00613,bn,medium,ঘোড়া দেখে খোঁড়া হওয়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00614,bn,medium,ছোটছোট চোখে বড়বড় স্বপ্ন দেখা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00615,bn,medium,হাতির পাঁচ পা দেখা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00616,bn,medium,হিতে বিপরীত,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00617,bn,medium,বাইরে হাশিখুশি ভিতরে গরলরাশি,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00618,bn,medium,"এড়া মাউগ আগে হাজে, ফাটা ঢোল আগে বাজে",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00619,bn,medium,হোদল বনে শিয়াল রাজা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00620,bn,medium,চৌকিদারি কি ঝকমারি,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00621,bn,medium,যার জ্বালা সেই জানে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00622,bn,medium,"অদৃষ্টে করলা ভাতে, বীচি কচকচ করে তাতে",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00623,bn,medium,আপ্‌ ভলা তো জগ্‌/সব্‌ ভলা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00624,bn,medium,"ঊনো ভাতে দুনো বল,অতি ভাতে রসাতল",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00625,bn,medium,যে শিরে মুকুট থাকে সে শির স্বস্তিতে থাকে না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00626,bn,medium,কুল রাখি না শ্যাম রাখি,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00627,bn,medium,যে দেশে বৃক্ষ নেই সেই দেশে ভেরেণ্ডাও বৃক্ষ হয়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00628,bn,medium,মানুষ একবারই মাত্র মরে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00629,bn,medium,অজুহাত মিথ্যার চেয়ে খারাপ,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00630,bn,medium,গাঁয়ে মানে না আপনি মোড়ল,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00631,bn,medium,যে ডালে বসে সেই ডাল কাটে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00632,bn,medium,যে পাতে খায় সে পাত ছিঁড়ে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00633,bn,medium,"বুড়োয় বুড়োয় কথা প্রতিকথায় কাশি, যুবায় যুবায় কথা প্রতিকথায় হাসি",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00634,bn,medium,গাছে কাঁঠাল গোঁফে তেল,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00635,bn,medium,পাখিপড়া মত পড়ানো,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00636,bn,medium,বাঁশি হারিয়ে শিঙায় ফুঁ,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00637,bn,medium,বাঁশের চেয়ে কঞ্চি দড়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00638,bn,medium,বাই হুক অর বা ক্রুক,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00639,bn,medium,বাঁশবনে শিয়াল রাজা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00640,bn,medium,হস্তীমূর্খ,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00641,bn,medium,মাঘের শীত বাঘের গায় ক্ষীণের শীত সর্বদায়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00642,bn,medium,মাছ ধরতে গেলে গায়ে কাদা লাগে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00643,bn,medium,মাছ জালে পড়লে বেশি লাফায়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00644,bn,medium,মাছ ধরার আগে মাছভাজা খেয়ো না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00645,bn,medium,মাছ মরেছে বিড়ালের শোক,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00646,bn,medium,সাপ ডরায় ব্যাঙাকে ব্যাঙা ডরাই সাপকে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00647,bn,medium,সাপ নিজের ছায়া দেখে চমকে দাঁড়ায় সেদিক বেঁকে,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00648,bn,medium,"সব মাছ গু খায়, দোষের ভাগী শোল",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00649,bn,medium,সব রসুনের একই কোয়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00650,bn,medium,সব শিয়াল খেলো কাঁঠাল বকের ঠোঁটে আঠা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00651,bn,medium,সব শিয়ালের এক রা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00652,bn,medium,সব হাতীর মোতি হয় না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00653,bn,medium,সবাই ইচ্ছুক ঘোড়ার উপর বোঝা চাপায়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00654,bn,medium,শাক দিয়ে মাছ ঢাকা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00655,bn,medium,ঘরে বসে পুছে বাত তার ঘরে হা ভাত- খনা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00656,bn,medium,"ঘরে ভাত নেই, দ্বারে বাহারী পর্দা",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00657,bn,medium,সাদা আঙুরের মত কালো আঙুরও সমান মিষ্টি,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00658,bn,medium,তালপাতার ছায়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00659,bn,medium,তালপাতার ছায়া মিছা কর তার মায়া,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00660,bn,medium,তপ্ত ভাতে ঘি ঢালা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00661,bn,medium,"তপ্ত ভাতে নুন জোটে না, পান্তা ভাতে ঘি",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00662,bn,medium,"তমসোমা জ্যোতির্গময়, অসদোমা সদগময়, মৃত্যোর্মা অমৃতগময়",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00663,bn,medium,তীর্থের কাকের মত বসে থাকা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00664,bn,medium,তুঁষহীন তণ্ডুলের অঙ্কুরোদ্গম হয় না,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00665,bn,medium,তুকতাক ছয়মাস কপালে যা বারোমাস,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00666,bn,medium,তুফানে ছেড়ো না হাল নৌকা হবে বানচাল,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00667,bn,medium,নেকড়ার আগুন,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00668,bn,medium,নেচে কুঁদে নাওরে জাদু মনের সুখে কবে যেতে হবে শিঙে ফুঁকে,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00669,bn,medium,নেপোয় মারে দই,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00670,bn,medium,নেবু কচলালে তেতো হয়,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00671,bn,medium,ন্যাংটার গলায় মোতির মালা,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00672,bn,medium,কথার কোন মাথা নেই ব্যাঙে খায় চিঁড়ে দই,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00673,bn,medium,"চূন খেয়ে গাল পুড়েছে, দই দেখলে ভয় করে",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+bn_maps_00674,bn,medium,ডোবা দেখলেই ব্যাঙ লাফায,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00675,id,medium,Bagai pungguk merindukan bulan,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00676,id,medium,Seperti lalat mencari puru,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00677,id,medium,Tali yang tiga lembar itu tak suang-suang putus,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00678,id,medium,Gajah dialahkan oleh pelanduk,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00679,id,medium,Tak kayu jenjang dikeping,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00680,id,medium,"Seperti menghela rambut ditepung, rambut tak putus, tepung tidak terserak",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00681,id,medium,Seperti unta menyerahkan diri,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00682,id,medium,Tong kosong nyaring bunyinya,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00683,id,medium,"Hujan tak sekali jatuh, simpai tak sekali erat",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00684,id,medium,Tidak terindang dedak basah,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00685,id,medium,Parang gabus menjadi parang besi,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00686,id,medium,Tali jangan putus kaitan jangan sekah,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00687,id,medium,"Ikan biar dapat, serampang jangan pukah",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00688,id,medium,Seperti air pembasuh tangan,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00689,id,medium,Seperti harimau menyembunyikan kuku,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00690,id,medium,Seperti embun di ujung rumput,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00691,id,medium,Pandai berminyak air,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00692,id,medium,Seperti lipas kudung,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00693,id,medium,Menepak nyamuk menjadi daki,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00694,id,medium,"Rupa seperti pulut, bila dimasak berderai",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00695,id,medium,"Raja adil raja disembah, raja lalim raja disanggah",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00696,id,medium,"Air orang disauk, ranting orang dipatah, adat orang diturut",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00697,id,medium,Bagai pagar makan tanaman,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00698,id,medium,"Sekali lancung ke ujian, seumur hidup orang tak percaya",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00699,id,medium,Tertampi beras bubuk,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00700,id,medium,Batu di pulau tiada berkajang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00701,id,medium,Seperti negeri dialahkan garuda,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00702,id,medium,Seperti anjing berebut tulang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00703,id,medium,Diindang tak berantah,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00704,id,medium,"Siapa yang menabur angin, akan menuai badai",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00705,id,medium,"Nasi sama ditanak, kerak dimakan seorang",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00706,id,medium,Seperti anai-anai bubus,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00707,id,medium,Bagai air titik ke batu,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00708,id,medium,Seperti tikus jatuh ke beras,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00709,id,medium,"Ada ubi ada talas, ada budi ada balas",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00710,id,medium,Air ditetak takkan putus,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00711,id,medium,Air jernih ikannya jinak,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00712,id,medium,Air pun ada pasang surutnya,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00713,id,medium,Air susu dibalas dengan air tuba,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00714,id,medium,diam diam menghanyutkan,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00715,id,medium,Air yang dingin juga yang memadami api,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00716,id,medium,Air yang tenang jangan disangka tak berbuaya,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00717,id,medium,Alah membeli menang memakai,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00718,id,medium,"Angkuh terbawa, tampan tinggal",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00719,id,medium,Apa yang ditanam itulah yang tumbuh,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00720,id,medium,Api kecil baik padam,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00721,id,medium,Api padam puntung berasap,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00722,id,medium,"Asal insang, ikanlah",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00723,id,medium,"Awak sakit daging menimbun, sakit kepala panjang rambut",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00724,id,medium,Ayam bertelur di atas padi mati kelaparan,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00725,id,medium,Ayam putih terbang siang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00726,id,medium,"Yang berkurap pembawa buluh, yang buta pengembus lesung",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00727,id,medium,"Dalam laut bisa diduga, dalam hati siapa tahu",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00728,id,medium,"Dinding teretas, tangga terpasang",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00729,id,medium,Dunia tak selebar daun kelor,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00730,id,medium,"Enak lauk dikunyah-kunyah, enak kata diperkatakan",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00731,id,medium,"Enggang sama enggang, pipit sama pipit",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00732,id,medium,Getikkan puru dibibir,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00733,id,medium,"Harapkan guntur di langit, air di tempayan dicurahkan",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00734,id,medium,Bagai musang berbulu ayam,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00735,id,medium,Bagai pelanduk di cerang rimba,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00736,id,medium,"Seciap bagai ayam, sedencing bagai besi",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00737,id,medium,Kail sejengkal janganlah menduga dalam lautan,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00738,id,medium,Ada gula ada semut,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00739,id,medium,"Ada nyawa, nyawa ikan",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00740,id,medium,Ada umur ada rezeki,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00741,id,medium,"Adat hidup tolong-menolong, syariat palu-memalu",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00742,id,medium,"Adat juara kalah menang, adat saudagar laba rugi",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00743,id,medium,"Adat muda menanggung rindu, adat tua menahan ragam",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00744,id,medium,Adat pasang berturun naik,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00745,id,medium,Air mata jatuh ke perut,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00746,id,medium,Alah bisa karena biasa,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00747,id,medium,"Angin tak dapat ditangkap, asap tak dapat digenggam",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00748,id,medium,"Anjing menggonggong, kafilah berlalu",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00749,id,medium,"Antah berkumpul sama antah, beras sama beras",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00750,id,medium,Api padam puntung hanyut,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00751,id,medium,Arang itu jikalau dibasuh dengan air mawar sekalipun tidak akan putih,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00752,id,medium,Asam di gunung garam di laut bertemu dalam satu belanga,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00753,id,medium,Awak kalah gelanggang usai,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00754,id,medium,Ayam ditambat disambar elang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00755,id,medium,Ayam hitam terbang malam,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00756,id,medium,Ayam menang kampung tergadai,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00757,id,medium,"Yang dipandang rupa, yang dimakan rasa",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00758,id,medium,Bagai air di atas daun talas,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00759,id,medium,Bagai anjing beranak enam,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00760,id,medium,Bagai api dengan asap,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00761,id,medium,"Cerdik perempuan melebuhkan, saudagar muda mengutangkan",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00762,id,medium,Condong yang akan menimpa,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00763,id,medium,Dahulu timah sekarang besi,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00764,id,medium,Dari jung turun ke sampan,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00765,id,medium,"Deras datang, deras kena",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00766,id,medium,"Dianjak layu, dibubut mati",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00767,id,medium,Disisih sebagai antah,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00768,id,medium,"Emping terserak, hari hujan",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00769,id,medium,"Geleng bukan, angguk ia",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00770,id,medium,Geleng serupa cupak hanyut,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00771,id,medium,"Habis beralur, maka beralu-alu",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00772,id,medium,"Hafal kaji karena diulang, pasar jalan karena ditempuh",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00773,id,medium,Harimau mengaum takkan menangkap,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00774,id,medium,Hemat pangkal kaya,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00775,id,medium,"Hendak ulam, pucuk menjulai",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00776,id,medium,"Hidup dikandung adat, mati dikandung tanah",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00777,id,medium,"Hidup tolong-menolong, sandar-menyandar",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00778,id,medium,Hilang di mata di hati jangan,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00779,id,medium,"Hujan berpohon, panas berasal",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00780,id,medium,"Ikut hati mati, ikut rasa binasa",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00781,id,medium,"Isi lemak dapat ke orang, tulang bulu pulang ke kita",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00782,id,medium,Jagung tua tak hendak masak,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00783,id,medium,Jalan diasak orang menggalas,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00784,id,medium,Jatuh ke tilam empuk,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00785,id,medium,"Jauh berjalan banyak dilihat, lama hidup banyak dirasai",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00786,id,medium,Jawi hitam banyak tingkah,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00787,id,medium,Jelatang di hulu air,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00788,id,medium,"Jika keruh dihulu, tak dapat tidak dihilir keruh juga",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00789,id,medium,Racun diminum haram tak mabuk,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00790,id,medium,Rebung tiada jauh dari rumpunnya,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00791,id,medium,"Rekah tidak, rekat pukah",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00792,id,medium,Rezeki musang tak akan didapat elang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00793,id,medium,"Rumah sudah, tukul pahat berbunyi",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00794,id,medium,"Rupa harimau, hati tikus",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00795,id,medium,Bagai hujan jatuh ke pasir,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00796,id,medium,Utang sebelit pinggang,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00797,id,medium,Seperti seludang menolak mayang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00798,id,medium,Bagai kucing dengan panggang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00799,id,medium,Bagai kucing tak bermisai,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00800,id,medium,Bagai kuku dengan daging,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00801,id,medium,Bagai kura dengan isi,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00802,id,medium,Bagai mendapat durian runtuh,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00803,id,medium,seperti menggantang anak ayam,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00804,id,medium,Bagai musuh dalam selimut,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00805,id,medium,Bagai orang kena miang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00806,id,medium,Bagai pelita kehabisan minyak,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00807,id,medium,Bagai telur di ujung tanduk,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00808,id,medium,Laksana garam dengan asam,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00809,id,medium,Terpegang di abu dingin,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00810,id,medium,Sudah jadi abu arang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00811,id,medium,Mengabui mata orang,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00812,id,medium,"Ketika ada sama dimakan, waktu tak ada sama ditahan",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00813,id,medium,"Adat dunia balas-membalas, syariat palu-memalu",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00814,id,medium,"Air sama air kelak menjadi satu, sampah itu ke tepi juga",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00815,id,medium,Bagai membandarkan air ke bukit,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00816,id,medium,Bagai mencincang air,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00817,id,medium,Air tenang jangan disangka tiada buayanya,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00818,id,medium,Seperti air dengan kolam,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00819,id,medium,Sambil menyelam minum air,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00820,id,medium,Menjilat air liur sendiri,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00821,id,medium,Membawa garam ke laut,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00822,id,medium,Tak air hujan ditampung,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00823,id,medium,"Dari telaga yang jernih, tak akan mengalir air yang keruh",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00824,id,medium,"Dangkal telah keseberangan, dalam telah keajukan",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00825,id,medium,Lubuk akal tepian ilmu,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00826,id,medium,Telah berurat berakar,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00827,id,medium,Mencabut harus dengan akar-akarnya,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00828,id,medium,"Jika tak ada rotan, akar pun berguna",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00829,id,medium,"Kata banyak, kata bergalau",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00830,id,medium,"Adapun manikam itu jikalau jatuh ke dalam lumpur sekalipun, niscaya tiada akan hilang cahayanya;",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00831,id,medium,Seperti kerbau dicucuk hidung,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00832,id,medium,Tongkat membawa rebah,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00833,id,medium,"Beban berat, senggulung batu",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00834,id,medium,Belum beranak sudah ditimang,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00835,id,medium,"Putus tali tempat bergantung, terban tanah tempat berpijak",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00836,id,medium,"Bersatu kita teguh, bercerai kita runtuh",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00837,id,medium,Seperti anjing dengan kucing,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00838,id,medium,Seperti katak dalam (di bawah) tempurung,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00839,id,medium,Tajam pisau karena diasah,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00840,id,medium,"Tahu makan, tahu simpan",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00841,id,medium,"Tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00842,id,medium,"Tak ada rotan, akarpun jadi",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00843,id,medium,"Tak ada umpat yang membunuh, tak ada puji yang mengenjang",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00844,id,medium,Tak tentu hilir mudiknya,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00845,id,medium,Terpeluk biawak sial,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00846,id,medium,Kacang lupa akan kulitnya,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00847,id,medium,"Malu bertanya, sesat di jalan",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00848,id,medium,"Lain gatal, lain yang digaruk",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00849,id,medium,"Lain ladang lain belalang, lain lubuk lain ikannya",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00850,id,medium,Laksana apung-apung dipermainkan ombak,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00851,id,medium,"Laksana apung-apung di tengah laut, dipukul ombak hanyut ke tepi",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00852,id,medium,Lembu dongkol hendak menyondol,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00853,id,medium,Lidah bercabang bagai biawak,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00854,id,medium,"Luka di tangan karena pisau, luka di hati karena kata",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00855,id,medium,Nafas tak sampai ke hidung,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00856,id,medium,Bagai alu pencungkil duri,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00857,id,medium,Sudah biasa makan emping,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00858,id,medium,"Masuk tak genap, keluar tak ganjil",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00859,id,medium,"Kalah membeli, menang memakai",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00860,id,medium,"Seperti ilmu padi, kian berisi kian merunduk",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00861,id,medium,Kain basah kering di pinggang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00862,id,medium,"Kail sebentuk, umpan seekor, sekali putus sehari hanyut",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00863,id,medium,"Karam di laut boleh ditimba, karam di hati bilakah sudah",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00864,id,medium,Bagai roda berputar,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00865,id,medium,"Kalau tak ada angin bertiup, takkan pokok bergoyang",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00866,id,medium,Di atas langit masih ada langit,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00867,id,medium,Musuh dalam selimut,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00868,id,medium,Pikir itu pelita hati,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00869,id,medium,"Yang menabur angin, akan menuai badai",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00870,id,medium,Tangguk lerek dengan bingkainya,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00871,id,medium,"Tampan sudah, langgam terbawa",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00872,id,medium,"Tali berlembar empat, bagai tungku sejerangan",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00873,id,medium,Takkan harimau makan anaknya,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00874,id,medium,Seperti Belanda minta tanah,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00875,id,medium,Tuah tidak dapat direjan-rejan,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00876,id,medium,"Tua-tua kelapa, makin tua makin berminyak",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00877,id,medium,Seperti meniup api di atas air,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00878,id,medium,Seperti anak yang baru dibedung,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00879,id,medium,Seperti anjing bercawat ekor,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00880,id,medium,Manikam sudah menjadi sekam,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00881,id,medium,Tercacak seperti lembing tergadai,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00882,id,medium,Tiada membesarkan air,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00883,id,medium,"Tiba di dada dibusungkan, tiba di perut dikempiskan",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00884,id,medium,"Tunggang hilang tak hilang, tunggang mati tak mati",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00885,id,medium,Sudah beruban baru bergaum,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00886,id,medium,Sudah besar maka hendak melanda,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00887,id,medium,"Silap mata, pecah kepala",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00888,id,medium,Orang yang runcing tanduk,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00889,id,medium,"Kalau kail panjang sejengkal, jangan laut hendak diduga",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00890,id,medium,"Tidak ingat badan celaka, ingat amat badan binasa",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00891,id,medium,Tidak dirauk menjeriau,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00892,id,medium,Sesayat sebelanga juga,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00893,id,medium,Sepuluh batang bertindih yang di bawah juga yang kena,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00894,id,medium,Seperti ular kena palu,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00895,id,medium,Seperti udang dipanggang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00896,id,medium,Seperti sirih pulang ke gagangnya,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00897,id,medium,Seperti sayur dengan rumput,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00898,id,medium,Seperti rusa masuk kampung,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00899,id,medium,"Seperti padi hampa, kepalanya mendongak",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00900,id,medium,Seperti orang buta kehilangan tongkat,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00901,id,medium,Seperti nyawa ayam,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00902,id,medium,"Seperti menggenggam bara, terasa hangat dilepaskan",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00903,id,medium,Seperti menggantang asap,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00904,id,medium,"Patah tongkat, berjermang",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00905,id,medium,"Payah dilamun ombak, tercapai juga tanah tepi",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00906,id,medium,Padi ditanam tumbuh lalang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00907,id,medium,"Sarak serasa hilang, bercerai serasa mati",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00908,id,medium,Sambil berdiang nasi masak,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00909,id,medium,Sambil berdendang biduk hilir,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00910,id,medium,"Sakit menimpa, sesal terlambat",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00911,id,medium,"Satu orang makan nangka, semua kena getahnya",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00912,id,medium,Ada nyawa ada rezeki,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00913,id,medium,"Anak dipangku, kemenakan (keponakan) dibimbing",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00914,id,medium,Arang habis besi binasa,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00915,id,medium,Bagai tanduk diberkas,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00916,id,medium,"Digenggam takut mati, dilepaskan takut terbang",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00917,id,medium,"Inai tertepung, kuku tanggal",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00918,id,medium,Nasi sudah menjadi bubur,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00919,id,medium,Baji dahan pembelah batang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00920,id,medium,"Nasi tak dingin, pinggan tak retak",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00921,id,medium,"Tinggi kayu ara dilangkahi, rendah bilang-bilang disuruki",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00922,id,medium,Nyamuk mati gatal tak lepas,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00923,id,medium,"Tiada kuning oleh kunyit, tiada hitam oleh arang",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00924,id,medium,Sudah tahu peria pahit,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00925,id,medium,"Tangguk rapat, keruntung bobos",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00926,id,medium,"Kalau di hutan tak ada singa, beruk rabun bisa menjadi raja",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00927,id,medium,Seperti sayur tidak berbumbu,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00928,id,medium,Ada bunga ada lebah,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00929,id,medium,Jalan raya titian batu,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00930,id,medium,Lonjak seperti labu dibenam,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00931,id,medium,Gajah mati tulang setimbun,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00932,id,medium,"Janji sampai, sukatan penuh",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00933,id,medium,Belalang dapat menuai,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00934,id,medium,Tak pandai menari dikatakan lantai yang terjungkat,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00935,id,medium,"Jika air orang disauk, ranting orang dipatah, adat orang diturut",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00936,id,medium,"Mati-mati berdawat biarlah hitam, mati-mati mandi biarlah basah",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00937,id,medium,"Lepas dari mulut harimau, masuk kedalam mulut buaya",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00938,id,medium,Lebih baik satu burung di tangan dari pada sepuluh burung di pohon,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00939,id,medium,Diganjur surut bagai bertanam,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00940,id,medium,Lembah juga yang dituruti air,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00941,id,medium,Gajah derum tengah rumah,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00942,id,medium,Angan-angan mengikat tubuh,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00943,id,medium,Bakar air ambil abunya,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00944,id,medium,"Menang jadi arang, kalah jadi abu",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00945,id,medium,Bayang-bayang sepanjang badan,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00946,id,medium,"Tak lalu dandang di air, di gurun ditanjakkan",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00947,id,medium,"Rusak badan karena penyakit, rusak bangsa karena laku",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00948,id,medium,Merak mengigal di hutan,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00949,id,medium,Anjing mengulangi bangkai,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00950,id,medium,"Jalan mati lagi dicoba, ini pula jalan binasa",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00951,id,medium,Bagai mendapat gunung intan,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00952,id,medium,"Rendah gunung, tinggi harapan",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00953,id,medium,"Kalau pandai mencencang akar, mati lalu ke puncaknya",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00954,id,medium,"Adat sepanjang jalan, cupak sepanjang betung",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00955,id,medium,"Enggang lalu, atal jatuh, anak raja mati ditimpanya",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00956,id,medium,Air diminum serasa duri dapar berarti,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00957,id,medium,"Diam di bandar tak meniru, diam di laut asin tidak",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00958,id,medium,Tahan jerat sorong kepala,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00959,id,medium,"Anjing diberi makan nasi, bilakah kenyang",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00960,id,medium,Belum bergigi hendak mengunyah,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00961,id,medium,Sebagai abu di atas tanggul,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00962,id,medium,Tahu di angin berkisar,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00963,id,medium,Bagai keluang bebar petang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00964,id,medium,"Luka di kaki, sakit seluruh badan",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00965,id,medium,Kapal besar ditunda jongkong,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00966,id,medium,"Rupa boleh diubah, tabiat dibawa mati",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00967,id,medium,Tabuhan meminang anak laba-laba,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00968,id,medium,"Mahal tak dapat dibeli, murah tak dapat diminta;",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00969,id,medium,"Siapa cepat boleh dapat, siapa kemudian putih mata",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00970,id,medium,"Adat periuk berkerat, adat lesung berdedak",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00971,id,medium,Akal akar berpulas tak patah,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00972,id,medium,Bagai aur dengan tebing,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00973,id,medium,Air udik sungai semua teluk diranai,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00974,id,medium,Bagai ayam lepas bertaji,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00975,id,medium,Hampa berat menjadi sekam,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00976,id,medium,Anjing galak berani babi,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00977,id,medium,"Coba-coba bertanam mumbang, siapa tahu jadi kelapa",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00978,id,medium,Anak anjing bolehkah menjadi anak musang jebat,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00979,id,medium,"Genting menanti putus, biang menanti tembuk",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00980,id,medium,Tahu di angin turun naik,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00981,id,medium,Adakah dari telaga yang jernih mengalir air yang keruh?,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00982,id,medium,Adat lama pusaka usang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00983,id,medium,Awak rendah sangkutan tinggi,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00984,id,medium,Bagai denai gajah lalu,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00985,id,medium,"Siapa yang kena cubit, itulah yang merasa sakit",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00986,id,medium,"Bukan air muara yang ditimba, sudah disauk dari hulunya",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00987,id,medium,Elok berarak di hari panas,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00988,id,medium,"Tertangku sama makan tanah, terlentang sama minum air",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00989,id,medium,"Ijuk selembang, tali di situ, keluan di situ",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00990,id,medium,"Ayam berinduk, sirih berjunjung",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00991,id,medium,Adakah duri dipertajam,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00992,id,medium,"Angin yang berputar, ombak yang bersabung",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00993,id,medium,"Alang berjawab, tepuk berbalas",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00994,id,medium,"Dekat mencari induk, jauh mencari suku",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00995,id,medium,Jerat halus kelindan sutera,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00996,id,medium,"Cium tapak tangan, berbau atau tidak",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00997,id,medium,Alah sabung menang sorak,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00998,id,medium,Hulu malang pangkal celaka,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_00999,id,medium,"Ada uang abang sayang, tak ada uang abang melayang",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01000,id,medium,Hidung dicium pipi digigit,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01001,id,medium,"Harap pada yang ada, cemas pada yang tidak ada",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01002,id,medium,"Yang untut lain, yang mengasut lain",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01003,id,medium,"Asal ada, kecil pun pada",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01004,id,medium,"Adat menyabung, adat gelanggang",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01005,id,medium,Habis manis sepah dibuang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01006,id,medium,Ikan terkilat jala tiba,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01007,id,medium,"Adat teluk timbunan kapal, adat gunung tepatan kabut",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01008,id,medium,Jerih menentang laba,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01009,id,medium,Arang tersapu dimuka,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01010,id,medium,Jangat liat kurang panggang,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01011,id,medium,Diberi sehasta hendak sedepa,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01012,id,medium,"Sekali air besar, sekali tepian berubah",,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01013,id,medium,Alah limau oleh benalu,,figurative,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01014,id,medium,"Ada aku dipandang hadap, tiada aku dipandang belakang",,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human
+id_maps_01015,id,medium,Angan lalu paham tertumbuk,,literal,,,,,,MAPS,https://github.com/UKPLab/maps,gated-research-only-do-not-redistribute,human

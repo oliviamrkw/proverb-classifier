@@ -36,7 +36,7 @@ print(bn[bn.duplicated("proverb_native", keep=False)].sort_values("proverb_nativ
 CONFIG = {
     "zh": {
         "resource_level": "high",
-        "folder": "zh",
+        "folder": "MAPS/zh",
         "label_file": "test_proverbs.xlsx",
         "en_file": "human_translation_2en.xlsx", 
         "source": "MAPS",
