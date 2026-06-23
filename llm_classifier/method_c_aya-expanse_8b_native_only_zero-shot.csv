@@ -1,0 +1,428 @@
+﻿id,language,proverb_native,proverb_en,label,pred,method
+en_maps_00139,en,tomorrow never comes,tomorrow never comes,1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00316,de,"wer weiter will als sein pferd, der sitze ab und gehe zu fuß","If you want to go further than your horse, dismount and walk",1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00352,en,who keeps company with the wolf will learn to howl,who keeps company with the wolf will learn to howl,1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00019,id,Menepak nyamuk menjadi daki,Kick mosquitoes into climbers,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00116,en,use it or lose it,use it or lose it,0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00313,zh,无鱼，虾也好,"No fish, shrimp is also good",1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00354,en,the mills of the gods grind slowly,the mills of the gods grind slowly,1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00036,id,Air ditetak takkan putus,The water you set will not break,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00188,bn,শেওড়াতলায় আম পাওয়া গেলে আমতলায় কেন যাই,Why go to Amtala if mangoes are available in Sheoratala,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00159,ru,"Если бы молодость знала, если бы старость могла","If youth knew, if old age could",0,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00074,id,"Anjing menggonggong, kafilah berlalu","The dog barks, the caravan passes",1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00302,bn,বাঁশি হারিয়ে শিঙায় ফুঁ,Lost the flute and blew the trumpet,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00085,ru,Где тонко -там и рвётся,"Where it's thin, that's where it breaks",1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00244,ru,"Кто себя очень любит, того другие не любят",Those who love themselves very much are not loved by others,0,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00299,de,"glück und glas, wie leicht bricht das","Lucky and glass, how easily it breaks",1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00316,zh,伴君如伴虎,accompanying the king is like accompanying a tiger,1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00166,zh,真理越辩越明,"The more the truth is debated, the clearer it becomes",0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00082,zh,养不教，父之过,It is the fault of the father whether to raise or not to teach,0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00330,ru,"Не по словам судят, а по делам","People are judged not by words, but by deeds",0,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00122,de,"langes fädchen, faules mädchen","long thread, lazy girl",0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00214,id,Orang yang runcing tanduk,the person with the sharp horns,1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00127,id,Bagai kura dengan isi,Like a turtle with stuffing,1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00028,id,Seperti anjing berebut tulang,Like dogs fighting over a bone,1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00182,zh,一个巴掌拍不响,It takes two to tango,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00109,de,"wer nichts wird, wird wirt","if you don't become anything, you'll become successful",0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00212,id,Sudah besar maka hendak melanda,It's big it's about to hit,0,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00071,de,mit dem alter kommt die weisheit,with age comes wisdom,0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00170,bn,"পরের কথা লাথি চাপড়, নিজের কথা ভাত কাপড়","Next kick, self talk rice cloth",1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00100,en,too much bed makes a dull head,too much bed makes a dull head,0,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00186,id,"Seperti ilmu padi, kian berisi kian merunduk","Like rice science, the more it contains the more it bends",1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00032,de,gegensätze ziehen sich an,opposites attract,0,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00309,en,them's the breaks,them's the breaks,0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00073,zh,真人不露相,hide one's light under a bushel,0,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00135,de,du bist nur einmal jung,you're only young once,0,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00197,zh,十年树木，百年树人,It takes ten years to cultivate a tree and a hundred years to cultivate a person,0,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00086,de,ein jeder kehre vor seiner eigenen tür,let each one return to his own door,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00147,ru,"Дружба дружбой, а табачок врозь","Friendship is friendship, but tobacco is apart",1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00226,zh,媳妇熬成婆,the daughter-in-law has become a mother-in-law,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00346,ru,Ничто не вечно под луной,Nothing lasts forever,0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00090,bn,"এক হেঁসেলে দুই রাঁধুনি, পুড়ে গেল তার ফেনগালুনি","Two cooks in one hensel, his fengaluni got burnt",1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00050,de,bellende hunde beißen nicht!,barking dogs don't bite!,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00126,de,dienst ist dienst und schnaps ist schnaps,Duty is duty and liquor is liquor,0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00033,id,Bagai air titik ke batu,the water point to the rock,1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00167,en,what's done is done,what's done is done,0,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00129,en,"if you aim at nothing, you'll hit it every time","if you aim at nothing, you'll hit it every time",0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00128,id,Bagai mendapat durian runtuh,Like getting a windfall,1,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00321,bn,ঘরে বসে পুছে বাত তার ঘরে হা ভাত- খনা,Sitting at home puche vat her house ha vata- khana,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00237,en,no one is born a master,no one is born a master,0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00245,ru,"Кто смел, тот два съeл",He who was brave ate two,0,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00060,en,he who digs a pit for others falls in himself,he who digs a pit for others falls in himself,1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00062,en,"he that mischief hatches, mischief catches","he that mischief hatches, mischief catches",0,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00250,ru,Курам нa смех,The chickens laugh,1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00122,id,Utang sebelit pinggang,debt to the waist,0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00259,zh,蓬生麻中，不扶而直,"Punta grass grows in hemp field, straight without support",1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00177,zh,久病床前无孝子,There is no filial son in front of the bed for a long time,0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00165,bn,নালা কেটে নোনা জল আনা,Bring salt water by cutting the canal,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00247,bn,বড় বাড় ভালো নয়,Bigger is not better,0,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00175,de,kleinvieh macht auch mist,Small animals mess up too,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00303,de,"wer morgens pfeift, den holt abends die katze",Whoever whistles in the morning will get the cat in the evening,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00278,bn,ঠেলার নাম বাবাজী,Thela's name is Babaji,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00102,zh,吃人家的嘴软，拿人家的手软,"Eat others' mouths softly, take others' hands softly",0,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00058,bn,আদরে বাঁদর বনে,In the cute monkey forest,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00192,en,a mind is a terrible thing to waste,a mind is a terrible thing to waste,0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00271,id,Bayang-bayang sepanjang badan,Shadows along the body,1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00169,en,"feed a cold, starve a fever","feed a cold, starve a fever",0,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00170,zh,满招损，谦受益,Pride comes before a fall,0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00282,bn,হিতে বিপরীত,The opposite is true,1,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00113,bn,যদি তুমি কোন ঘরে সবথেকে বেশি বুদ্ধিমান ব্যক্তি হও তবে তুমি ভুল ঘরে আছো,"If you're the smartest person in a room, you're in the wrong room",0,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00083,id,"Yang dipandang rupa, yang dimakan rasa",what you look at is what you taste,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00218,ru,"Каков поп, таков и приход","As is the priest, so is the arrival",0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00147,bn,কথার কথা কাজের নহে,Words don't work,0,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00033,en,fine feathers make fine birds,fine feathers make fine birds,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00319,ru,"Не знaя броду, не суйся в воду","If you don't know the ford, don't stick your nose into the water",1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00174,ru,За спрос не бьют в нос,They don't hit you in the nose for asking,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00063,bn,"ভাই বড় ধন রক্তের বাধঁন, যদিও পৃথক হয় নারীর কারণ","Brother big money blood ties, though separate women cause",1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00312,ru,"Не всё коту мaсленица, будет и великий пост","It’s not all Maslenitsa, there will be Lent",1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00193,en,prevention is better than cure,prevention is better than cure,0,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00014,de,nach fest kommt lose,after tight comes loose,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00366,ru,свинья вездe грязь найдёт,a pig will find dirt everywhere,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00099,zh,士可杀不可辱,A scholar can be killed but not humiliated,0,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00225,en,fine words butter no parsnips,fine words butter no parsnips,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00062,bn,আড়ে নাই অসাড়ে অসার,"It's not boring, it's useless",0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00105,ru,Голь на выдумку хитрa,Need for a cunning invention,0,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00028,de,alle sünden in eine münden,in the end all sins lead to one,0,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00073,id,"Angin tak dapat ditangkap, asap tak dapat digenggam","you can't catch the wind, you can't catch the smoke",1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00231,en,needs must when the devil drives,needs must when the devil drives,1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00195,de,sport ist mord,sport is murder,1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00065,de,dummheit tut weh,stupidity hurts,0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00044,id,"Angkuh terbawa, tampan tinggal","Arrogantly carried away, handsome stay",0,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00141,en,a buck's a buck,a buck's a buck,1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00151,id,Lubuk akal tepian ilmu,Deep down the edge of knowledge,0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00192,id,Di atas langit masih ada langit,There is still sky above the sky,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00297,bn,যে ডালে বসে সেই ডাল কাটে,the one who sits on the branch cuts the branch,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00282,zh,林子大了，什么鸟都有,It takes all sorts to make the world,1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00316,en,still waters run deep,still waters run deep,1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00010,en,the early bird gets the worm,the early bird gets the worm,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00184,ru,Застaвь дуракa Богу молиться - он лоб расшибёт,Make a fool pray to God - he will break his forehead,0,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00287,en,render unto Caesar the things which are Caesar's,render unto Caesar the things which are Caesar's,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00214,bn,সৎলোকের শত শত্রু থাকে,A righteous man has a hundred enemies,0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00322,bn,"ঘরে ভাত নেই, দ্বারে বাহারী পর্দা","No rice in the house, curtains on the door",1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00013,en,you can't step in the same river twice,you can't step in the same river twice,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00167,zh,为善不欲人知,I don’t want others to know about my good deeds,0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00310,bn,মাছ ধরার আগে মাছভাজা খেয়ো না,Do not eat fried fish before fishing,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00110,bn,বসে না থাকি বেগার খাটি,Don't sit on the couch,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00055,de,zusammen ist man stark,we are strong together,0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00079,bn,ফেন দিয়ে ভাত খায় গল্পে মারে দই মেটেহুঁকোয় তামাক খায় গড়গড়িটা কই,Eats rice with foam.,1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00242,en,might makes right,might makes right,0,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00028,en,the pen is mightier than the sword,the pen is mightier than the sword,1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00054,en,to err is human,to err is human,0,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00325,de,"es lässt sich gut gackern, wenn anderer leute hühner die eier legen",It's good to cluck when other people's chickens lay their eggs,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00046,ru,"Вертит языком, что корова хвостом",Wiggles his tongue like a cow's tail,1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00206,zh,聪明一世，糊涂一时,"I'm smart for the life-time, but I'm confused temporarily",0,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00218,en,zeal without knowledge is a runaway horse,zeal without knowledge is a runaway horse,1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00068,de,auch ein blindes huhn findet mal ein korn,Even a blind chicken can find a grain,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00120,en,"nothing ventured, nothing gained","nothing ventured, nothing gained",0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00266,bn,সাপ হয়ে কাটে/কামড়ায় রোজা হয়ে ঝাড়ে,bitten by a snake/fasted by a bite,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00233,ru,Краткость - сестра таланта,Brevity is the sister of talent,0,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00321,id,Jerat halus kelindan sutera,Silky entanglements,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00298,en,ignorance is bliss,ignorance is bliss,0,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00020,ru,"В глаза льстит, а за глаза пакостит","b flatters the eyes, but is a dirty trick for the eyes",0,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00315,en,"as the twig is bent, so is the tree inclined","as the twig is bent, so is the tree inclined",1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00108,zh,枪打出头鸟,The nail that sticks out gets hammered down,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00280,bn,ছোটছোট চোখে বড়বড় স্বপ্ন দেখা,Dreaming big with small eyes,1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00181,id,Nafas tak sampai ke hidung,The breath doesn't reach the nose,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00280,ru,"МЯгко стeлет, да жёстко спать","Softly lays down, but sleeps hard",1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00175,ru,"За чем пойдёшь, то и найдёшь",What you go for is what you will find,0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00208,zh,百尺竿头，更进一步,"Great progress, go further",1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00336,id,Jangat liat kurang panggang,The clay hides weren't roasted enough,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00123,zh,傻人有傻福,Fortune favors fools,0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00055,id,Dunia tak selebar daun kelor,The world is not as wide as a Moringa leaf,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00239,de,jugend kennt keine tugend,youth knows no virtue,0,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00173,ru,За одного битого двух небитых дают,"For one beaten, they give two unbeaten",1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00309,zh,一醉解千愁,Get drunk tonight and relieve your worries,0,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00212,en,it is easier for a camel to go through the eye of a needle than for a rich man to enter into the kingdom of God,it is easier for a camel to go through the eye of a needle than for a rich man to enter into the kingdom of God,1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00105,zh,树欲静而风不止,the tree wants to be still but the wind doesn't stop,1,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00159,bn,একজন মানুষ যা করতে পারে তার বেশি সে পারে না,A man cannot do more than he can do,0,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00247,zh,不当家不知柴米贵,I don't know how expensive rice is if I'm not in charge,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00137,de,pünktlichkeit ist die höflichkeit der könige,Punctuality is the politeness of kings,0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00150,id,"Dangkal telah keseberangan, dalam telah keajukan","Shallow has been the opposite, deep has been advanced",0,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00185,de,"wenn man vom teufel spricht, dann kommt er gegangen","When you talk about the devil, he comes away",1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00310,ru,Не в свои сани не садись,Don't get on your own sleigh,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00180,de,"wenn die katze aus dem haus ist, tanzen die mäuse auf dem tisch","When the cat is out of the house, the mice dance on the table",1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00012,ru,Брань не дым - глаза не ест,Swearing is not smoke - it doesn't eat your eyes,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00027,ru,"В огороде бузинa, а в Киеве дЯдька","An elderberry in the garden, and an uncle in Kyiv",1,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00053,bn,"আইতে ছাগল, যাইতে পাগল","Goat to come, crazy to go",1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00213,bn,নাচতে নেমে ঘোমটা টানা,Gets down to dance and pulls the veil,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00327,zh,长江后浪推前浪,The waves behind the Yangtze River drive the waves ahead,1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00159,id,"Beban berat, senggulung batu","a heavy burden, a rolling stone",1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00119,zh,狗改不了吃屎,A leopard cannot change its spots,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00215,zh,兼听则明，偏信则暗,"If you listen to both, you will be clear, but if you believe partly, you will be dark",0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00368,ru,СоловьЯ бaснями не кормят,Nightingales are not fed fables,1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00170,id,Tak tentu hilir mudiknya,Not necessarily going back and forth,0,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00205,ru,Иной раз и дурак молвит слово в лад,Sometimes even a fool says a word in harmony,0,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00199,zh,分久必合，合久必分,"What is divided for a long time must be united, and what is united for a long time must be divided",0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00094,id,"Emping terserak, hari hujan","Emping scattered, rainy day",1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00242,bn,চিন্তা জ্বরো মনুষ্যাণাং,thinking fever is human,0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00041,bn,আকালে কী না খায়,What not to eat in Akali,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00164,bn,কচুপোড়া খাও,eat kachupora,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00065,ru,"Вот тебе, бaбушка, и Ю́рьев дeнь","Here's St. George's Day for you, grandma",1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00168,en,you can't be half pregnant,you can't be half pregnant,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00216,ru,Как две кaпли воды,Like two peas in a pod,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00244,en,loose lips sink ships,loose lips sink ships,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00337,bn,ন্যাংটার গলায় মোতির মালা,Pearls around the neck of Nangta,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00046,bn,কাম নাই কুত্তার আইলে আইলে দৌড়,it's not about running dog aisles,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00056,ru,Волк в овeчьей шкуре,Wolf in sheep's clothing,1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00318,de,"fehlt es am wind, so greife zum ruder","If there is no wind, grab the rudder",1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00016,en,money does not smell,money does not smell,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00153,de,das Küken wohl klüger sein als die Henne,the chick probably wanted to be smarter than the hen,1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00089,de,"pack schlägt sich, pack verträgt sich","pack fights, pack gets along",1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00168,ru,Жизнь прожить - не поле перейти,Living life is not a field to cross,0,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00222,id,Seperti sirih pulang ke gagangnya,Like betel returning to its hilt,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00016,zh,一山还有一山高,There are many high mountains,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00057,en,"if wishes were horses, beggars would ride","if wishes were horses, beggars would ride",1,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00005,bn,অশ্বত্থামা হত ইতি গজ,Ashwatthama was the last yard,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00307,zh,打者爱也,people who batter you loves you,0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00305,zh,新官上任三把火,There are three fires when a new official takes office,1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00312,de,"Wem Gott ein Amt gibt, dem gibt er auch Verstand.","Whoever God gives an office to, he also gives understanding",0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00038,ru,"Важно не то, как долго ты прожил, а как хорошо жил","What matters is not how long you lived, but how well you lived",0,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00349,en,it's the hit dog that howls,it's the hit dog that howls,1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00215,id,"Kalau kail panjang sejengkal, jangan laut hendak diduga","If the hook is an inch long, don't be suspicious",0,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00080,bn,"অধিগুণে মোঘা যাচ্ঞা (অপি) বরম অধমে লম্বকামা ন- মেঘদূতকাব্য, কালিদাস","Adhigune Mogha Jachya (opi) Baram Adhame Lambakama Na- Meghadutkavya, Kalidasa",1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00323,id,Alah sabung menang sorak,the fight won cheers,1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00277,id,Bagai mendapat gunung intan,got a mountain of diamonds,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00172,ru,"За двумя зайцами погонишься, ни одного не поймаеш","If you chase two hares, you won't catch either.",1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00093,en,you can't unring a bell,you can't unring a bell,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00022,de,"schaffe, schaffe, häusle baue und net nach de mädle schaue","create, create, build a house and don't look after the girl",1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00018,zh,长痛不如短痛,the long-term pain is not as good as the short-term pain,0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00146,zh,人贵自知,knowing yourself,0,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00087,de,des einen leid ist des anderen freud,One man's suffering is another man's joy,0,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00084,en,being poor is a mindset,being poor is a mindset,0,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00034,id,Seperti tikus jatuh ke beras,Like a mouse falling into rice,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00307,de,"wo nichts ist, hat der kaiser das recht verloren","Where there is nothing, the emperor has lost the right",1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00338,en,beauty is only skin deep,beauty is only skin deep,0,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00099,en,he who smelt it dealt it,he who smelt it dealt it,0,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00036,en,the best laid plans of mice and men often go awry,the best laid plans of mice and men often go awry,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00073,ru,"Все меняется, ничто не исчезает","Everything changes, nothing disappears",0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00128,zh,要想富先修路,build roads first if we want to get rich,0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00038,zh,覆巢之下无完卵,There are no eggs under the overturned nest,1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00252,id,"Kalau di hutan tak ada singa, beruk rabun bisa menjadi raja","If there were no lions in the forest, the short-sighted monkey could become king",1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00299,zh,羊毛出在羊身上,wool comes from sheep,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00100,zh,请神容易送神难,it’s easier to ask God than to send God away,1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00191,zh,人之患在好为人师,it is bad to give unsolicited counsel or lectures,0,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00122,zh,君子一言，驷马难追,"When a gentleman says a word, he whips the horse quickly",0,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00221,de,"mach was du willst, die leute reden eh","Do what you want, people talk anyway",0,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00247,de,der beste arzt ist jederzeit des eigenen menschen mässigkeit,the best doctor at all times is one's own temperance,0,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00152,zh,知耻近乎勇,Knowing shame is close to courage,0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00334,ru,Не сади дерева корнем кверху,Don't plant a tree with its roots up,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00360,ru,Простотa хуже воровствa,Simplicity is worse than theft,0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00228,id,"Seperti menggenggam bara, terasa hangat dilepaskan","Like holding coals, it feels warm being released",1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00203,en,there are no atheists in foxholes,there are no atheists in foxholes,1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00073,en,fair exchange is no robbery,fair exchange is no robbery,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00246,ru,"Кто стaрое помЯнет, тому глаз вон",Whoever remembers the old is out of sight,0,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00283,bn,বাইরে হাশিখুশি ভিতরে গরলরাশি,Laughter on the outside and giggles on the inside,1,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00119,bn,মূর্খের স্বর্গবাস,A fool's paradise,0,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00311,ru,"Не в силе правда, в правде сила","Truth is not in strength, but in truth is strength",0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00023,zh,天不从人愿,God doesn't do what people want,0,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00281,en,experience is the best teacher,experience is the best teacher,0,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00216,en,a bird in the hand,a bird in the hand,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00261,en,why keep a dog and bark yourself,why keep a dog and bark yourself,1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00313,id,Elok berarak di hari panas,it's good to parade on hot days,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00035,bn,দাঁত থাকতে দাঁতের মর্যাদা বোঝা যায় না,Having teeth does not understand the dignity of teeth,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00091,bn,"দিনকে রাত করা, রাতকে দিন করা","turning day into night, turning night into day",1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00143,de,der fisch stinkt vom kopf her,The fish rots from the head,1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00276,en,the cow knows not the worth of its tail till it loses it,the cow knows not the worth of its tail till it loses it,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00013,ru,"Брюхо сыто, да глаза голодны","The belly is full, but the eyes are hungry",0,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00065,en,scientia potentia est,scientia potentia est,0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00277,zh,丈夫有泪不轻弹,Great man does not shed tears lightly,0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00289,zh,贫贱夫妻百事哀,poor and lowly couples are always sad,0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00269,id,Bakar air ambil abunya,Burning water to get the ashes,1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00066,id,Ada umur ada rezeki,with age and there is fortune,0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00063,ru,Вот в чём загвоздка,That's the rub,0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00228,zh,忧道不忧贫,worrying about roads is not about poverty,0,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00072,de,"wer sich im alter wärmen will, muss sich in der jugend einen ofen bauen","If you want to keep yourself warm when you're old, you have to build a stove when you're young",1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00322,id,"Cium tapak tangan, berbau atau tidak","Smell your palms, smelly or not",1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00049,en,Great minds think alike,Great minds think alike,0,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00215,de,stille wasser sind tief,still waters run deep,1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00297,id,Akal akar berpulas tak patah,reason has a strong root that doesn't break,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00183,en,there's no time like the present,there's no time like the present,0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00179,ru,"Закон что дышло, кудa повернёшь - тудa и вышло","The law is that the drawbar, where you turn, it goes there",0,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00229,id,Seperti menggantang asap,Like I'm smoking,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00377,ru,Хоть кол ему на головe теши,At least the stake on his head will amuse him,1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00050,en,so far so good,so far so good,0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00143,ru,Дорого яичко ко Христову дню,Expensive egg for Christ's Day,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00187,de,für jeden topf gibt es einen passenden deckel,There is a suitable lid for every pot,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00013,bn,কুকুর রাজা হলেও জুতা খায়,Dog is king but eats shoes,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00082,de,das macht das kraut auch nicht mehr fett,That doesn't make the herb fat anymore,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00098,ru,"Говоришь по секрету, пойдет по всему свету","You speak in confidence, it will go all over the world",0,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00373,ru,"Хвaстать – не косить, спинa не болит","Brag - don't mow, your back doesn't hurt",1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00142,de,"es ist ein albern schaf, das dem wolf beichtet",It's a silly sheep that confesses to the wolf,1,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00185,bn,"যদি দুটি পাখির পিছনে ছোটো, তবে একটিও পাবে না","If you chase after two birds, you won't get one",1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00109,ru,"Гроша не стоит, а глядит рублем","It's not worth a penny, but it looks like a ruble",1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00029,de,"je mehr gesetz, je weniger recht","the more law, the less law",0,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00024,ru,В каждой шутке есть доля правды,Every joke has some truth,0,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00010,zh,癞蛤蟆想吃天鹅肉,Toad wants to eat swan meat,1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00087,zh,血浓于水,blood is thicker than water,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00308,zh,墙倒众人推,everyone is pushing the wall down.,1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00226,de,da beißt die maus keinen faden ab,The mouse won't bite a thread,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00048,de,abwarten und tee trinken,Wait and drink tea,0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00042,ru,Век живи -век учись,Live and learn,0,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00019,en,an ounce of prevention is better than a pound of cure,an ounce of prevention is better than a pound of cure,0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00060,ru,Вор у ворa дубинку укрaл,A thief stole a club from a thief,1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00143,id,Air tenang jangan disangka tiada buayanya,"the water is calm, don't think there are no crocodiles",1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00097,en,there are none so blind as those who will not see,there are none so blind as those who will not see,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00231,ru,Копeйка рубль бережёт,A penny saves the ruble,1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00174,id,"Lain gatal, lain yang digaruk","Others itch, others scratch",0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00202,id,"Tua-tua kelapa, makin tua makin berminyak","old coconuts, the older they get, the oilier they get",1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00365,en,history is written by the victors,history is written by the victors,1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00296,de,über verschüttete milch lohnt sich nicht zu weinen,Spilled milk isn't worth crying over,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00303,bn,বাঁশের চেয়ে কঞ্চি দড়,Kanchi rope than bamboo,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00374,en,"sow the wind, reap the whirlwind","sow the wind, reap the whirlwind",1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00199,id,Takkan harimau makan anaknya,tigers won't eat their cubs,1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00316,id,"Ayam berinduk, sirih berjunjung","Hen has a hen, betel has a hen",1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00354,ru,Один с сошкой -сeмеро с ложкой,"One with a bipod, seven with a spoon",1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00304,bn,বাই হুক অর বা ক্রুক,By hook or crook,1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00190,id,Bagai roda berputar,Like a spinning wheel,1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00268,de,zeit ist geld,time is money,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00210,de,"was der bauer nicht kennt, das frisst er nicht","What the farmer doesn't know, he doesn't eat",0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00214,ru,Как белка в колесе вертится,Like a squirrel spinning in a wheel,1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00066,zh,良禽择木而栖,a good bird that chooses a tree to live in,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00216,de,unter blinden ist der einäugige könig,Among the blind the one-eyed man is king,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00327,ru,"Не надобен и клад, коли в семье лад",There is no need for a treasure if there is harmony in the family,0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00381,ru,Что написано пером -не вырубить топором,What is written with a pen cannot be cut down with an axe,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00309,bn,মাছ জালে পড়লে বেশি লাফায়,The fish jumps more when it falls into the net,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00358,en,man is a wolf to man,man is a wolf to man,1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00264,zh,欲加之罪，何患无辞,"If you want to commit a crime, you can find all kinds of excuses",0,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00113,de,"wo ein adler nicht fort kann, findet eine fliege noch zehn wege","where the eagle can't get away, the fly can still find ten ways",1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00214,de,jede münze hat zwei seiten,every coin has two sides,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00163,en,self-praise is no recommendation,self-praise is no recommendation,0,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00387,ru,Яблоко от Яблони недалеко пaдает,The apple doesn't fall far from the tree,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00308,de,millionen fliegen können sich nicht irren,a millions flies can't be wrong,1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00326,zh,放长线钓大鱼,put a long line to catch big fish,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00187,ru,"Знaет кошка, чьё мЯсо съeла",The cat knows whose meat it ate,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00107,ru,"Готовь сани летом, а телегу зимой",Prepare a sleigh in the summer and a cart in the winter,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00331,en,hindsight is 20/20,hindsight is 20/20,0,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00279,de,"Je kleiner die Flasche, desto schneller ist sie leer","The smaller the bottle, the quicker it empties",1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00215,bn,মা লক্ষ্মী ভিক্ষা মাগে,Mother Lakshmi begs,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00017,ru,Былa не былa,It was not,0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00118,ru,"Двум смертЯм не бывaть, одной не миновaть","Two deaths cannot happen, but one cannot be avoided",1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00188,zh,业精于勤，荒于嬉,"proficiency in business comes from diligence, and waste from play",0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00138,id,"Ketika ada sama dimakan, waktu tak ada sama ditahan","when you have something to eat, time doesn't exist and you hold it",1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00341,id,Angan lalu paham tertumbuk,Dreams then understand being crushed,0,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00154,bn,ধরেছ তো ছেড়ো না,"If you catch it, don't let it go",0,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00123,en,faint heart never won fair lady,faint heart never won fair lady,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00355,ru,От трудов прaведных не наживёшь палaт кaменных,From righteous labors you will not make stone chambers,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00007,en,it's a man's world,it's a man's world,0,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00203,ru,"или грудь в крестaх, или головa в кустaх","either the chest is covered in crosses, or the head is in the bushes",1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00231,id,"Payah dilamun ombak, tercapai juga tanah tepi","it's hard to be lost in the waves, you can also reach the edge of the land",1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00183,de,knapp daneben ist auch vorbei,just missing is also over,0,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00333,bn,নেকড়ার আগুন,I have wolf fire in my heart,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00061,ru,Ворон ворону глаз не выклюет,A raven will not peck out a crow's eye,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00305,en,the end justifies the means,the end justifies the means,0,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00267,zh,神仙打架，小鬼遭殃,"The gods fight, and the imps suffer",1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00336,en,"love the sinner, hate the sin","love the sinner, hate the sin",0,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00106,id,"Ikut hati mati, ikut rasa binasa","with the heart that dies, with the feeling of perishing",1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00149,zh,成王败寇,winner is the king and loser is the theif,1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00076,de,"was hänschen nicht lernt, lernt hans nimmermehr","what Hans doesn't learn, Hans never learns",1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00100,bn,জোয়ারের জল আর কতক্ষণ,How long is the tide?,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00019,de,allzu klug ist dumm,being too smart is stupid,0,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00008,en,well begun is half done,well begun is half done,0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00009,bn,আদায় কাঁচকলায় সম্পর্ক,Their relationship is in glassworks,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00287,zh,不打不成器,"if you don't physically punish, you son can't achieve anything",0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00304,zh,男大当婚，女大当嫁,"Males should get married when they are old enough, females should get married when they are old enough",0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00001,zh,水能载舟，亦能覆舟,"Water can carry a boat, but it can also overturn it",1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00035,de,die schönheit liegt im auge des betrachters,Beauty lies in the eye of the beholder,0,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00260,zh,四海之内皆兄弟,all people are brothers in the world,0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00169,ru,"Зa морем телушка-полушка, да рубль перевоз","half a heifer overseas, and the ruble is transported",1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00099,de,"trautes heim, glück allein","Sweet home, happiness alone",0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00281,bn,হাতির পাঁচ পা দেখা,Seeing the five legs of the elephant,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00328,zh,赶鸭子上架,drive ducks to the shelves,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00053,de,"wie du mir, so ich dir","like me, like you",0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00138,zh,家丑不可外扬,What happens in the family stays in the family,0,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00211,en,"fool me once, shame on you; fool me twice, shame on me","fool me once, shame on you; fool me twice, shame on me",0,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00263,zh,名不正，则言不顺,"if the name is not right, then the words will not be right",0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00282,id,Air diminum serasa duri dapar berarti,Drinking water tastes like thorns,1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00280,id,"Adat sepanjang jalan, cupak sepanjang betung","the adat saying along the road, cupak along the betung",1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00284,ru,"На Бога надeйся, а сам не плошaй","Trust in God, and don’t make a mistake yourself",0,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00273,de,"was nicht blüht, das körnert nicht","if it doesn't bloom, it won't sprout",1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00206,id,Manikam sudah menjadi sekam,Manikam has become a husk,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00241,de,"wo gehobelt wird, da fallen späne","Where wood is chopped, splinters must fall",1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00272,bn,অর্থই অনর্থের মূল,Money is the root of evil,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00232,ru,Красиво жить не запретишь,You can't forbid living beautifully,0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00183,zh,千金难买少年穷,Money is hard to buy poor young man,0,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00104,id,Hilang di mata di hati jangan,Don't lose sight of your heart,1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00251,en,less is more,less is more,0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00135,ru,Доброе слово и кошке приЯтно,A kind word and the cat is pleased,0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00202,bn,উদ্যোগীর কাছে কোন পথই দূর নয়,No path is far for the enterprising,1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00251,id,"Tangguk rapat, keruntung bobos","if you hang tight, don't sleep, that will definitely cause problems",1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00264,de,unwissenheit schützt vor strafe nicht,Ignorance does not protect against punishment,0,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00272,en,ne'er cast a clout til May be out,ne'er cast a clout til May be out,0,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00367,ru,"Сединa в бороду, бес в ребро","Gray hair in the beard, devil in the rib",1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00261,de,"der gesunde weiß nicht, wie reich er ist",the healthy person doesn't know how rich he is,0,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00392,en,a revolution is not a dinner party,a revolution is not a dinner party,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00337,ru,"Не так стрaшен чёрт, как его малюют",The devil is not as scary as he is painted,1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00350,en,love is blind,love is blind,1,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00059,bn,আমি জীবনপাত্রের তলানিটুকু নিঃশেষে পান করব,I will drink the bottom of the jar of life,1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00242,id,"Digenggam takut mati, dilepaskan takut terbang","Holding it is afraid of dying, letting it go is afraid of flying",1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00126,ru,Деньги жгут карман,Money burns your pocket,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00095,zh,好马不吃回头草,A good horse never turns back,1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00226,id,Seperti orang buta kehilangan tongkat,Like a blind man who has lost his stick,1,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00344,en,good things come to those who wait,good things come to those who wait,0,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00162,de,"vater werden ist nicht schwer, vater sein dagegen sehr","Becoming a father isn't difficult, but being a father is very difficult",0,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00220,en,pride comes before a fall,pride comes before a fall,0,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00224,zh,好酒沉瓮底,good wine sinks to the bottom,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00106,bn,"বিদ্বান সকল গুণের আধার, অজ্ঞ সকল দোষের আকর","The learned are the reservoir of all virtues, the ignorant are the source of all faults",0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00208,bn,দুই নৌকায় পা,Walk in two boats,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00101,ru,"Голод не тётка, пирожкa не поднесёт","Hunger is not an aunt, she won’t bring you a pie",1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00188,ru,"Знай край, да не падай","Know the edge, don't fall",1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00267,id,Gajah derum tengah rumah,the elephant roaring in the middle of the house,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00083,en,when the cat's away the mice will play,when the cat's away the mice will play,1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00243,zh,行百里者半九十,walk a ninety miles out of a hundred miles is only considered as half way through,0,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00038,de,"holzauge, sei wachsam","woodeye, be vigilant",1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00320,id,"Dekat mencari induk, jauh mencari suku","Close looking for the parent, far looking for the tribe",1,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00087,bn,ভালকথার ঝুটাও ভাল,It's better to lie,0,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00246,de,"arbeite klug, nicht hart","work smart, not hard",0,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00048,bn,"দুইজনে বন্ধুত্ব হয়, তিনজনে হয় কলহ","Two become friends, three quarrel",0,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00216,bn,"একতায় উত্থান, বিভেদে পতন","Rise in unity, fall in disunity",0,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00072,id,Alah bisa karena biasa,Alah can do it because I'm used to it,0,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00103,id,"Hidup tolong-menolong, sandar-menyandar","Life helps, leans on",0,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00339,ru,Незвaный гость хуже татaрина,An uninvited guest is worse than a Tatar,0,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00085,en,there is strength in numbers,there is strength in numbers,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00119,de,geld allein macht nicht glücklich,money alone doesn't make you happy,0,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00039,en,different strokes for different folks,different strokes for different folks,1,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00276,de,"von der wiege bis zur bahre, formulare, formulare","from cradle to grave, forms, forms",0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00319,bn,সবাই ইচ্ছুক ঘোড়ার উপর বোঝা চাপায়,Everyone puts the burden on the willing horse,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00287,ru,На весь свет не угодишь,You can't please the whole world,0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00111,bn,নিত্যচাষার ঝি বেগুনগাছ দেখে বলে এ আবার কী,"Looking at the daily cultivation plant, says what is this again",1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00194,id,Pikir itu pelita hati,Think it's a heart lamp,1,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00168,de,unter jedem dach ein ach,an ah under every roof,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00251,bn,রোজার ঘাড়ে ভূত,Ghost on Roja's neck,1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00328,id,"Yang untut lain, yang mengasut lain","The one for another, the one who instigates another",0,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00126,bn,বড় গাছে কাছি দড়ি বাঁধা,Tortoise rope tied to big tree,1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00197,id,"Tampan sudah, langgam terbawa","Handsome already, stylish carried over",0,1,aya-expanse_8b_native_only_zero-shot
+en_maps_00086,en,practice makes perfect,practice makes perfect,0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00249,bn,"মেঘ দেখে করিসনে ভয়,আড়ালে তার সূর্য হাসে","The clouds are afraid, but the sun smiles",1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00001,id,Bagai pungguk merindukan bulan,Like your back misses the moon,1,1,aya-expanse_8b_native_only_zero-shot
+zh_maps_00261,zh,好死不如赖活著,better a living dog than a dead lion,0,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00066,ru,Врeмя - лучший доктор,Time is the best doctor,0,0,aya-expanse_8b_native_only_zero-shot
+de_maps_00075,de,glück im unglück haben,to be lucky in misfortune,0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00246,bn,সহনশীলতা সভ্যতার মাপকাটি,Tolerance is the measure of civilization,0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00022,zh,床头吵架床尾和,Quarrel at the head of the bed and make-up at the end of the bed,0,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00234,id,Sambil berdiang nasi masak,While the rice is cooking,1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00017,id,Pandai berminyak air,Good at oily water,1,0,aya-expanse_8b_native_only_zero-shot
+id_maps_00148,id,Tak air hujan ditampung,No rainwater is collected,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00128,en,every man is the architect of his own fortune,every man is the architect of his own fortune,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00018,en,it takes a village to raise a child,it takes a village to raise a child,0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00082,bn,আদার বেপারীর জাহাজের খবর,News of Adar Bepari's ship,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00069,bn,কথা শুনে পেটের ভাত চাল হয়ে যায়,Stomach becomes rice after hearing the words,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00277,en,words cut deep,words cut deep,1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00334,id,Jerih menentang laba,Striving against profit,0,1,aya-expanse_8b_native_only_zero-shot
+de_maps_00181,de,"es ist nicht alles gold, was glänzt",all that glitters is not gold,1,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00329,bn,তীর্থের কাকের মত বসে থাকা,Sitting like a pilgrim crow,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00058,en,people who live in glass houses shouldn't throw stones,people who live in glass houses shouldn't throw stones,1,1,aya-expanse_8b_native_only_zero-shot
+bn_maps_00018,bn,এমনকি একটা/টি খরগোশও কামড়াতে পাড়ে যদি সে কোণঠাসা হয়,Even a rabbit can bite if cornered,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00106,ru,Горбaтого могила испрaвит,The grave will fix the hunchback,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00131,zh,种瓜得瓜，种豆得豆,you reap what you sow,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00277,ru,Москвa не срaзу строилась,Moscow was not built right away,1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00252,bn,গোদের ওপর বিষফোঁড়া,Oh my god,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00389,ru,Яйца курицу не учат,Eggs don't teach chickens,1,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00222,en,a bad workman always blames his tools,a bad workman always blames his tools,1,1,aya-expanse_8b_native_only_zero-shot
+id_maps_00196,id,Tangguk lerek dengan bingkainya,Lerek embankment with frame,1,1,aya-expanse_8b_native_only_zero-shot
+ru_maps_00081,ru,Выше головы не прыгнешь,You can't jump over your head,1,0,aya-expanse_8b_native_only_zero-shot
+ru_maps_00350,ru,О вкусах не спорят,Tastes could not be discussed,0,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00253,zh,普天之下，莫非王土,"Yes, there is no king in the world",0,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00265,bn,"উপোসে কেউ নয়, পারণের গোঁসাই","None of Upose, Paran Gonsai",1,0,aya-expanse_8b_native_only_zero-shot
+bn_maps_00183,bn,যে রাঁধে সে চুলও বাঁধে,The one who cooks also ties her hair,1,0,aya-expanse_8b_native_only_zero-shot
+zh_maps_00019,zh,流言止于智者,gossip ends with the wise,0,0,aya-expanse_8b_native_only_zero-shot
+en_maps_00174,en,an eye for an eye makes the whole world blind,an eye for an eye makes the whole world blind,1,1,aya-expanse_8b_native_only_zero-shot

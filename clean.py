@@ -14,9 +14,13 @@ Fixes (in order), all verified safe:
   3. Drop genuine junk rows: empty, pure punctuation, or a lone English word
      (e.g. "Proverbs", "spoiled."). Chinese/Amharic etc. are safe -- the rule
      keys on "single ASCII English word", not on word count.
-  4. Near-duplicate dedup on a normalized key (case + whitespace + edge
-     punctuation), within (source_dataset, language). When a variant group
-     has an English-bearing row, that row is kept.
+  4. Near-duplicate dedup on a normalized native key (case + whitespace + edge
+     punctuation), WITHIN A LANGUAGE BUT ACROSS SOURCES. This removes the same
+     proverb appearing in two datasets (e.g. German in both MAPS and Gutenberg).
+     Keep priority within each duplicate group: a row WITH a fig/literal label
+     wins (keeps the MAPS gold label), then a row WITH English. Dedup is NOT
+     done across languages -- two languages can coincidentally share an
+     identical short Latin-script string, and merging those would corrupt data.
 """
 import re, unicodedata, sys
 import pandas as pd
@@ -76,19 +80,23 @@ def main():
     junk = df.proverb_native.map(is_junk)
     df = df[~junk].copy()
 
+    # --- near-duplicate dedup: within language, ACROSS sources -------------
     df["_k"] = df.proverb_native.map(norm_key)
-    df["_e"] = (df.proverb_en != "").astype(int)
+    df["_l"] = (df["fig_or_literal"].str.strip() != "").astype(int)   # has gold label
+    df["_e"] = (df["proverb_en"] != "").astype(int)                   # has English
     before = len(df)
-    df = (df.sort_values(["source_dataset", "language", "_k", "_e"],
-                         ascending=[True, True, True, False], kind="stable")
-            .drop_duplicates(subset=["source_dataset", "language", "_k"], keep="first")
-            .sort_index().drop(columns=["_k", "_e"]))
+    # sort so the most informative row in each (language, key) group is first:
+    # labelled rows beat unlabelled; among those, English-bearing beat empty.
+    df = (df.sort_values(["language", "_k", "_l", "_e"],
+                         ascending=[True, True, False, False], kind="stable")
+            .drop_duplicates(subset=["language", "_k"], keep="first")
+            .sort_index().drop(columns=["_k", "_l", "_e"]))
 
     df.to_csv(OUT, index=False, encoding="utf-8-sig")
     print(f"rows: {n0} -> {len(df)}")
     print(f"  Oromo embedded-English split : {split_n}")
     print(f"  junk rows dropped            : {int(junk.sum())}")
-    print(f"  near-duplicate rows removed  : {before - len(df)}")
+    print(f"  near-duplicate rows removed  : {before - len(df)}  (within-language, cross-source)")
     print(f"  Oromo rows now with English  : {int(((df.language=='om')&(df.proverb_en!='')).sum())}")
 
 if __name__ == "__main__":
