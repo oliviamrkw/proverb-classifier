@@ -1,0 +1,199 @@
+﻿fold,text,true_theme,true_main,true_sub,pred_theme,pred_main,pred_sub,theme_ok,main_ok,sub_ok,theme_in_short,main_in_short,sub_in_short
+0,Mann soll den Tag nicht vor dem Abend loben,A,A3,A3c,E,E1,E1j,0,0,0,1,0,0
+0,Gott gibt's den Seinen im Schlafe,B,B1,B1b,B,B1,B1b,1,1,1,1,1,1
+0,Every little helps,C,C1,C1b,E,E1,E1d,0,0,0,1,0,0
+0,It is not the healthy that need a doctor,C,C1,C1c,C,C4,C4b,1,0,0,1,1,0
+0,Il ne peut sortir du sac que ce qu'il y a,C,C2,C2b,D,D3,D3e,0,0,0,1,0,0
+0,Keep your thanks to feed your chickens,C,C3,C3f,M,M8,M8a,0,0,0,1,0,0
+0,The wolf eats counted and uncounted sheep,C,C3,C3f,C,C4,C4e,1,0,0,1,1,0
+0,Beware of a silent dog and still water,C,C5,C5e,D,D1,D1b,0,0,0,1,0,0
+0,Bella promessa lega il matto,C,C5,C5e,L,L2,L2b,0,0,0,1,0,0
+0,No rose without a thorn,C,C6,C6b,E,E1,E1a,0,0,0,1,0,0
+0,Der Hunger lehrt geigen,D,D3,D3a,D,D3,D3a,1,1,1,1,1,1
+0,"Ubi dolor, ibi manus (Latin)",D,D3,D3b,M,M7,M7h,0,0,0,1,0,0
+0,"Allá va lengua, do duele la muela",D,D3,D3b,J,J1,J1f,0,0,0,1,0,0
+0,The proof of the pudding is in the eating,D,D4,D4b,D,D1,D1b,1,0,0,1,0,0
+0,"Selon le saint, l'encens",E,E1,E1f,B,B1,B1g,0,0,0,0,0,0
+0,"Cui honorem, honorem (Latin)",F,F1,F1b,F,F2,F2b,1,0,0,1,1,0
+0,When the tree is grown its planter is dead,F,F1,F1e,T,T1,T1e,0,0,0,0,0,0
+0,Verstand kommt mit den Jahren,G,G6,G6b,T,T1,T1h,0,0,0,1,0,0
+0,A man among the geese when the gander is away,G,G8,G8f,H,H4,H4b,0,0,0,1,0,0
+0,There is safety in numbers,H,H3,H3b,H,H3,H3h,1,1,0,1,1,1
+0,"Tre fratelli, tre castelli",H,H3,H3d,G,G3,G3e,0,0,0,1,0,0
+0,A good neighbour at hand is better than a brother far away,H,H4,H4d,G,G2,G2a,0,0,0,1,0,0
+0,Besser Nachbar an der Hand als Vetter über Land,H,H4,H4d,H,H4,H4b,1,1,0,1,1,1
+0,"Chi mal pensa, mal abbia",H,H5,H5f,M,M3,M3d,0,0,0,1,0,0
+0,"Besser ein sauer sehender Freund, denn ein süß lachender Feind",H,H6,H6a,H,H6,H6a,1,1,1,1,1,1
+0,"Aimez votr voisin, mais n'abattez pas la haie",H,H6,H6d,H,H6,H6d,1,1,1,1,1,1
+0,Frightening of a bird is not the way to catch it,H,H7,H7h,M,M3,M3a,0,0,0,1,0,0
+0,Currus bovem trahit praepostere (Latin),K,K1,K1j,D,D1,D1b,0,0,0,0,0,0
+0,Money is a good servant but a bad master,K,K2,K2k,E,E1,E1l,0,0,0,1,0,0
+0,Suspiction always haunts the guilty mind,L,L1,L1e,F,F2,F2d,0,0,0,1,0,0
+0,"Qui male agit, odit lucem (Latin)",L,L1,L1e,B,B1,B1d,0,0,0,1,0,0
+0,When anyone has learnt to steal he must also learn to hang trl. Indian,L,L1,L1e,L,L1,L1c,1,1,0,1,1,1
+0,"Wagen gewinnt, Wägen verliert",M,M4,M4a,D,D1,D1b,0,0,0,1,0,0
+0,Doing nothing is hard work,M,M7,M7h,T,T1,T1g,0,0,0,1,0,0
+0,Le préteur ne s'occupe pas des petites affaires,M,M8,M8b,G,G6,G6b,0,0,0,1,0,0
+0,None is born a master,M,M9,M9d,D,D1,D1b,0,0,0,1,0,0
+0,Der Kluge lernt nie aus,M,M9,M9e,M,M3,M3b,1,0,0,1,1,0
+0,A place for everything and everything in its place,T,T1,T1b,L,L1,L1b,0,0,0,0,0,0
+0,Birds fly not into our mouths ready roasted,T,T1,T1c,D,D4,D4b,0,0,0,1,0,0
+0,"When I am dead, make me a caudle",T,T1,T1e,D,D4,D4b,0,0,0,1,0,0
+0,Anything is possible,T,T3,T3a,D,D1,D1b,0,0,0,1,0,0
+0,All beginnings are hard,T,T4,T4a,D,D1,D1b,0,0,0,1,0,0
+0,Antiquus amor cancer est (Latin),T,T4,T4b,D,D5,D5d,0,0,0,0,0,0
+0,Bedenke das Ende,T,T4,T4c,T,T4,T4c,1,1,1,1,1,1
+1,"Noli peccare, deus videt (Latin)",B,B1,B1d,F,F1,F1b,0,0,0,1,0,0
+1,"Whom fortune wishes to destroy, she first makes mad",B,B2,B2c,B,B2,B2d,1,1,0,1,1,1
+1,Jede Nacht bringt einen Morgen,B,B2,B2c,T,T4,T4e,0,0,0,1,0,0
+1,Huyendo del toro cayó en el arroyo,B,B2,B2d,D,D1,D1b,0,0,0,0,0,0
+1,"À petit trou, petit cheville",C,C2,C2d,D,D3,D3e,0,0,0,1,0,0
+1,Bellezza e follia sovente in compagnia,C,C6,C6b,D,D1,D1a,0,0,0,1,0,0
+1,There are no two people alike,D,D1,D1c,C,C1,C1b,0,0,0,1,0,0
+1,"Ubi cadaver, ibi aquila (Latin)",D,D3,D3b,D,D1,D1a,1,0,0,1,1,0
+1,in jeder Herde findet sich ein schwarzes Schaf,E,E1,E1b,G,G2,G2a,0,0,0,1,0,0
+1,Das beste Pherd stolpert und hat vier Beine,E,E1,E1c,C,C1,C1b,0,0,0,1,0,0
+1,There is small choice between rotten apples,E,E1,E1j,C,C6,C6d,0,0,0,1,0,0
+1,One man's death is another man's breath,E,E1,E1k,C,C3,C3d,0,0,0,0,0,0
+1,"One father can support ten children, ten children cannot support one father",G,G3,G3d,E,E1,E1j,0,0,0,1,0,0
+1,You must not teach fish to swim,G,G6,G6b,C,C1,C1a,0,0,0,0,0,0
+1,Das Küken will klüger sein als die Kuh,G,G6,G6b,E,E1,E1b,0,0,0,1,0,0
+1,"Quanto più l'uccello è vecchio, più volentieri lascia la piuma",G,G6,G6d,M,M3,M3a,0,0,0,1,0,0
+1,"Physicians' faults are covered with earth, and rich men's with money",G,G7,G7c,K,K2,K2e,0,0,0,1,0,0
+1,The kettle calls the pot black arse,H,H1,H1b,H,H7,H7i,1,0,0,1,1,0
+1,Les beau esprits se rencontrent,H,H1,H1f,D,D1,D1a,0,0,0,1,0,0
+1,Better buy than beg,H,H2,H2b,D,D3,D3e,0,0,0,1,0,0
+1,Potus furtivus dulcis est (Latin),H,H3,H3f,D,D2,D2d,0,0,0,1,0,0
+1,"Amigo de muchos, amigo ningun",H,H6,H6b,F,F2,F2d,0,0,0,1,0,0
+1,For a fleeing enemy make a silver bridge,H,H7,H7m,M,M6,M6c,0,0,0,1,0,0
+1,Oleum camino addere (Latin),H,H7,H7m,D,D5,D5c,0,0,0,1,0,0
+1,"Sanan cuchilladas, màs no malas palabras",J,J1,J1a,J,J1,J1a,1,1,1,1,1,1
+1,Face your troubles cheerfully,J,J1,J1j,M,M4,M4a,0,0,0,0,0,0
+1,Sciscitantes Troiam pervenere Graeci (Latin),J,J1,J1l,D,D1,D1b,0,0,0,1,0,0
+1,The master's eye makes the horse fat,K,K1,K1b,D,D4,D4b,0,0,0,1,0,0
+1,"Wem die Sonne scheint, der fragt nicht nach den Sternen",K,K1,K1f,D,D1,D1b,0,0,0,0,0,0
+1,Damnum sequitur ludibrium (Latin),K,K1,K1l,D,D2,D2a,0,0,0,1,0,0
+1,"Chi ha il danno, ha pur le beffe",K,K1,K1l,D,D1,D1b,0,0,0,1,0,0
+1,Butter verdirbt keine Kost,M,M1,M1b,A,A1,A1b,0,0,0,1,0,0
+1,Longo in itinere etiam paleri onea est (Latin),M,M2,M2c,T,T1,T1g,0,0,0,1,0,0
+1,Kowledge is better than riches,M,M3,M3a,D,D3,D3h,0,0,0,1,0,0
+1,Von großen Blöcken haut man große Stücke,M,M3,M3a,M,M6,M6c,1,0,0,1,1,0
+1,Men leap over where the hedge is lowest,M,M6,M6c,M,M6,M6c,1,1,1,1,1,1
+1,Nul pain sans peine,M,M7,M7a,D,D4,D4a,0,0,0,1,0,0
+1,No hay dulzura sin sudor,M,M7,M7a,D,D3,D3a,0,0,0,1,0,0
+1,Raro meliora subsectura (Latin),M,M7,M7g,D,D1,D1a,0,0,0,1,0,0
+1,"Travel makes a wise man better, but a fool worse",M,M9,M9a,D,D1,D1b,0,0,0,1,0,0
+1,Measure thrice and cut once,T,T1,T1b,L,L2,L2a,0,0,0,1,0,0
+1,The best of friends must part,T,T4,T4e,D,D1,D1b,0,0,0,1,0,0
+2,Those that God loves do not live long,B,B2,B2b,B,B2,B2b,1,1,1,1,1,1
+2,"Early sow, early mow",C,C2,C2b,T,T1,T1a,0,0,0,1,0,0
+2,L'âge n'est que pour les chevaux,C,C4,C4c,T,T1,T1e,0,0,0,0,0,0
+2,One flower makes no garland,C,C4,C4g,E,E1,E1a,0,0,0,1,0,0
+2,"Ein Mann macht keinen Tanz, eine Blume keinen Kranz",C,C4,C4g,E,E1,E1a,0,0,0,1,0,0
+2,A merry heart lives long,D,D2,D2a,D,D2,D2a,1,1,1,1,1,1
+2,He who conceals his grief dies of it,D,D2,D2d,D,D2,D2d,1,1,1,1,1,1
+2,Better one small fish than an empty dish,E,E1,E1d,M,M7,M7c,0,0,0,1,0,0
+2,Aurea mediocritas (Latin),E,E1,E1j,D,D1,D1b,0,0,0,0,0,0
+2,Nobleza obliga,F,F1,F1a,G,G2,G2a,0,0,0,1,0,0
+2,Guter Dienst bleibt unverloren,F,F1,F1a,E,E1,E1j,0,0,0,0,0,0
+2,"Matka daje, a macocha pyta dzieci: czy chcecie? (Polish)",G,G1,G1b,H,H6,H6b,0,0,0,1,0,0
+2,of one ill there come many,G,G2,G2a,D,D3,D3e,0,0,0,1,0,0
+2,La femme sait un art avant le diable,G,G4,G4c,C,C2,C2b,0,0,0,1,0,0
+2,Früh aufstehen und jung freien wird niemanden gereuen,G,G5,G5b,T,T1,T1a,0,0,0,1,0,0
+2,Tod der Frau und Stoss am Ellbogen tut gleich weh,G,G5,G5c,C,C5,C5e,0,0,0,1,0,0
+2,"Qui uxorem non ducit, mala non sentit (Latin)",G,G5,G5f,F,F1,F1b,0,0,0,1,0,0
+2,Render to everyone what is his due,H,H2,H2b,F,F1,F1b,0,0,0,1,0,0
+2,"Compagno allegro per cammino, te serve per ronzino",H,H3,H3b,D,D2,D2b,0,0,0,0,0,0
+2,One finger gashed - all the fingers are covered with blood,H,H3,H3c,D,D1,D1b,0,0,0,1,0,0
+2,Better an egg in peace than an ox in war,H,H7,H7k,E,E1,E1d,0,0,0,1,0,0
+2,L'odio muove contese,H,H7,H7l,D,D2,D2b,0,0,0,1,0,0
+2,He that talks much errs much,J,J1,J1b,J,J1,J1b,1,1,1,1,1,1
+2,"Was kommt in den dritten Mund, wird aller Welt kund",J,J1,J1e,J,J1,J1e,1,1,1,1,1,1
+2,Fare e dire son due cose,J,J1,J1h,J,J1,J1h,1,1,1,1,1,1
+2,Wahrheti zeugt Hass,J,J1,J1k,B,B1,B1d,0,0,0,1,0,0
+2,Pigs grunt about everything and nothing,J,J1,J1m,C,C4,C4a,0,0,0,1,0,0
+2,"When the shepherd is angry with his flock, he appoints a blind sheep as leader trl.Hebrew",K,K1,K1b,F,F2,F2b,0,0,0,1,0,0
+2,Great trees give more shade than fruit,K,K1,K1m,E,E1,E1j,0,0,0,1,0,0
+2,"Huelga de acusador, huelga de juez",L,L1,L1b,J,J1,J1n,0,0,0,1,0,0
+2,"Wer viel haben will, muss mehr fordern",L,L2,L2c,D,D3,D3h,0,0,0,0,0,0
+2,What is a workman without his tools?,M,M5,M5b,C,C2,C2d,0,0,0,1,0,0
+2,Don't throw the rope after the bucket,M,M6,M6c,M,M1,M1f,1,0,0,1,1,0
+2,Hasten slowly,T,T1,T1i,T,T1,T1k,1,1,0,1,1,1
+2,Der erste Eindruck zählt,T,T4,T4b,J,J1,J1a,0,0,0,1,0,0
+2,"Quien bien ata, bien desata",T,T4,T4d,C,C2,C2d,0,0,0,1,0,0
+3,No hiere Dios con dos manos,B,B1,B1a,B,B1,B1d,1,1,0,1,1,1
+3,Fortune is blind,B,B2,B2c,C,C5,C5e,0,0,0,1,0,0
+3,All roads lead to Rome,B,B2,B2f,C,C4,C4e,0,0,0,1,0,0
+3,Non si campa d'aria,C,C3,C3e,C,C2,C2d,1,0,0,1,1,0
+3,C'est l'air qui fait la chanson,C,C6,C6a,D,D1,D1b,0,0,0,1,0,0
+3,"Grosse tête, peu de sens",C,C6,C6f,E,E1,E1b,0,0,0,1,0,0
+3,Macilenti pediculi acrius mordent (Latin),D,D3,D3a,D,D1,D1b,1,0,0,1,1,0
+3,Hunger ist der Künste meister,D,D3,D3a,D,D3,D3a,1,1,1,1,1,1
+3,Butter verdirbt keine Kost,D,D4,D4c,A,A1,A1b,0,0,0,0,0,0
+3,Besser scheel als blind,E,E1,E1d,D,D1,D1a,0,0,0,0,0,0
+3,Melius est nomen bonum quam divitiae multae (Latin),F,F1,F1a,D,D1,D1a,0,0,0,1,0,0
+3,Nul n'est censé ignorer la loi (Latin),F,F1,F1b,L,L1,L1a,0,0,0,1,0,0
+3,"Jung getollt, alt gezollt",G,G6,G6c,T,T4,T4d,0,0,0,1,0,0
+3,A thief knows a thief and a wolf knows a wolf,H,H1,H1f,C,C1,C1c,0,0,0,0,0,0
+3,portatur leviter quod portat quisque libenter (Latin),H,H2,H2b,E,E1,E1a,0,0,0,1,0,0
+3,Unser Kohl schmeckt wohl,H,H2,H2b,G,G7,G7b,0,0,0,1,0,0
+3,Debt is the worst kind of poverty,H,H2,H2f,F,F1,F1b,0,0,0,1,0,0
+3,"Wenn ein Haus mit sich selbst uneins wird, kann es nicht bestehen",H,H3,H3b,D,D3,D3h,0,0,0,1,0,0
+3,"The fox seldom preys near home, nor does Satan meddle with his own",H,H3,H3d,B,B1,B1d,0,0,0,1,0,0
+3,Better is a neighbour that is near than a brother far off,H,H4,H4d,G,G3,G3c,0,0,0,1,0,0
+3,"Behte mich Gott vor meinen Freunden, mit den Feinden...",H,H6,H6b,F,F2,F2b,0,0,0,1,0,0
+3,Opinione è regina del mondo,J,J1,J1a,D,D1,D1b,0,0,0,0,0,0
+3,"La parola è d'argento, il silenzio è d'oro",J,J1,J1g,J,J1,J1a,1,1,0,1,1,1
+3,"Bouche serrée, mouche n'y entre",J,J1,J1g,J,J1,J1g,1,1,1,1,1,1
+3,La vejez es un pesado fardo,K,K2,K2i,D,D2,D2a,0,0,0,1,0,0
+3,It’s better to be safe than sorry,M,M1,M1a,E,E1,E1d,0,0,0,1,0,0
+3,"Messer, Schere, Feuer, Licht sind für kleine Kinder nicht",M,M3,M3f,E,E1,E1b,0,0,0,1,0,0
+3,Fear breed terror,M,M4,M4c,D,D3,D3a,0,0,0,1,0,0
+3,Geduld ist besser als Rettung,M,M6,M6c,F,F1,F1b,0,0,0,1,0,0
+3,"As the question, so the answer",M,M6,M6e,J,J1,J1a,0,0,0,1,0,0
+3,Stehendes Wasser stinkt,M,M7,M7h,A,A1,A1b,0,0,0,1,0,0
+3,Man kann nicht alles haben,M,M8,M8a,E,E1,E1a,0,0,0,1,0,0
+3,"Lösche das Feuer beizeiten, das Unheil wende ab",T,T1,T1d,T,T1,T1k,1,1,0,1,1,1
+3,Time is the greatest innovator,T,T1,T1h,T,T2,T2a,1,0,0,1,1,0
+4,"L'acqua e il fuoco son buoni servitori, ma cattivi padroni",A,A1,A1a,D,D3,D3i,0,0,0,1,0,0
+4,Non multum metuas matutinum hospitem et imbrem(Latin),A,A3,A3b,A,A3,A3a,1,1,0,1,1,1
+4,All dreams are lies,C,C3,C3b,D,D1,D1b,0,0,0,1,0,0
+4,Tall oaks from little acorns grow,C,C4,C4c,E,E1,E1g,0,0,0,1,0,0
+4,You may know the fox by his tail,C,C5,C5b,D,D3,D3b,0,0,0,1,0,0
+4,"Rosen verblühn, die Dornen bleiben",C,C6,C6b,D,D1,D1c,0,0,0,1,0,0
+4,Many are called but few are chosen,D,D1,D1c,F,F1,F1a,0,0,0,0,0,0
+4,"He that has a fox for his mate, has need of a net at his girdle",D,D1,D1d,C,C2,C2d,0,0,0,0,0,0
+4,"Procul ex oculis, procul ex mente (Latin)",D,D3,D3g,D,D2,D2d,1,0,0,1,1,0
+4,"All covet, all lose",D,D3,D3h,C,C4,C4f,0,0,0,1,0,0
+4,Nihil est ab omni parte beatum (Latin),E,E1,E1a,D,D2,D2b,0,0,0,1,0,0
+4,Ogni vizio ha la sua scusa,E,E1,E1k,C,C6,C6c,0,0,0,1,0,0
+4,The dew to the ant is a flood,E,E1,E1k,A,A1,A1b,0,0,0,1,0,0
+4,Aus der Not eine Tugend machen,E,E1,E1k,M,M7,M7a,0,0,0,0,0,0
+4,He has one face to God and another to the devil,F,F1,F1d,B,B1,B1f,0,0,0,0,0,0
+4,Mills and wives are ever wanting,G,G5,G5f,D,D3,D3h,0,0,0,1,0,0
+4,Mit der Zeit wird man klug,G,G6,G6b,T,T1,T1h,0,0,0,1,0,0
+4,"Arm oder Reich, der Tod macht alle gleich",G,G8,G8a,D,D1,D1a,0,0,0,1,0,0
+4,He goes long barefoot that waits for dead man's shoes,G,G8,G8f,D,D1,D1b,0,0,0,1,0,0
+4,Mortuus ille diu defunctus quisque per annum (Latin),H,H3,H3e,T,T1,T1g,0,0,0,0,0,0
+4,Grass grows not upon the highway,H,H3,H3i,C,C2,C2c,0,0,0,1,0,0
+4,"Wo der Hase geworfen wird, will er bleiben",H,H4,H4a,D,D1,D1b,0,0,0,1,0,0
+4,"After three days fish is unsavoury, and so is an ill guest",H,H5,H5e,T,T3,T3c,0,0,0,1,0,0
+4,If you try to please all you will please none,H,H6,H6b,H,H5,H5b,1,0,0,1,1,0
+4,Tit for tat,H,H7,H7b,H,H7,H7b,1,1,1,1,1,1
+4,It is true that all men say,J,J1,J1k,D,D1,D1d,0,0,0,1,0,0
+4,Veritas odium parit (Latin),J,J1,J1k,D,D1,D1a,0,0,0,1,0,0
+4,"Der Bettler beneidet den Bettler, der Sänger den Sänger",K,K1,K1c,K,K2,K2k,1,0,0,1,1,0
+4,Figulus figulo invidet,K,K1,K1c,D,D1,D1a,0,0,0,0,0,0
+4,Liberty is better than gold,K,K1,K1h,D,D1,D1b,0,0,0,0,0,0
+4,Diamonds cut diamonds,K,K1,K1l,D,D3,D3a,0,0,0,1,0,0
+4,"Wo kein Geld ist, fliegt die Liebe zun Fenster hinaus",K,K2,K2c,D,D3,D3h,0,0,0,1,0,0
+4,Autant vaut receler que voler,L,L1,L1d,F,F1,F1d,0,0,0,0,0,0
+4,A bargain is a bargain,L,L2,L2a,L,L2,L2d,1,1,0,1,1,1
+4,Take the will for the deed,M,M4,M4a,B,B2,B2b,0,0,0,1,0,0
+4,Ohne Kampf kein Sieg,M,M4,M4a,M,M4,M4a,1,1,1,1,1,1
+4,The best fish swim deep,M,M4,M4a,C,C6,C6b,0,0,0,1,0,0
+4,Al più potente cede il più prudente,M,M4,M4d,E,E1,E1j,0,0,0,1,0,0
+4,Nul pain sans peine,M,M7,M7a,D,D4,D4b,0,0,0,1,0,0
+4,Never cackle till your egg is laid,T,T1,T1f,M,M1,M1e,0,0,0,1,0,0
+4,"Early ripe, early rotten",T,T1,T1j,T,T1,T1f,1,1,0,1,1,0
+4,Bad reif hält nicht steif,T,T1,T1j,D,D4,D4b,0,0,0,0,0,0

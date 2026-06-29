@@ -1,0 +1,1 @@
+labse	sentence-transformers/LaBSE	

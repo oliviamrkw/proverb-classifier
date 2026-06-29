@@ -1,0 +1,391 @@
+level,code,text
+theme,A,The practical knowledge of nature
+theme,B,Faith and basic attitudes
+theme,C,The basic observations and socio-logic
+theme,D,The world and human life
+theme,E,Sense of proportion
+theme,F,Concepts of morality
+theme,G,Social life
+theme,H,Social interaction
+theme,J,Communication
+theme,K,Social position
+theme,L,Agreements and norms
+theme,M,Coping and learning
+theme,T,Time and sense of time
+main,A1,NATURAL ELEMENTS
+main,A2,"ANIMALS, HUMAN BEING : ANIMAL"
+main,A3,"WEATHER, CALENDAR"
+main,B1,GOD : MAN AND RELIGIOUS INSTITUTIONS
+main,B2,FATALISM
+main,C1,DURABILITY OF X's NATURE / DURABILITY OF IDENTITY
+main,C2,X YIELDS /REQUIRES /BELONGS TO X
+main,C3,NOTHINGNESS/EMPTINESS YIELDS/LOSES NOTHING
+main,C4,LITTLE:BIG /A LITTLE:A LOT
+main,C5,SIGNALS & THEIR MEANING /INTERPRETATION
+main,C6,APPEARANCE : INTERNAL VALUES
+main,D1,PLURALITY OF THE WORLD AND HUMAN LIFE
+main,D2,JOY : GRIEF /LAUGHTER : CRYING /PLEASURE : AGONY
+main,D3,DYNAMICS OF NEEDS
+main,D4,"FOOD, EATING"
+main,D5,"SPIRITS AND BEING DRUNK / DEPENDENCES, DRINKING HABITS"
+main,E1,RELATIVITY OF RANKING / THE ESSENTIAL UNITY OF DIFFERING THINGS
+main,F1,GOOD AND EVIL - SUCCESS
+main,F2,"PRIDE:HUMILITY, BOASTING : LOSS OF HONOR"
+main,G1,KINSHIP
+main,G2,DEVELOPMENT - A PERSON'S BACKGROUND
+main,G3,CHILD:PARENTS /UPBRINGING
+main,G4,MAN : WOMAN / RANKING & POSITION OF BOTH SEXES
+main,G5,MARRIAGE
+main,G6,YOUTH : OLD AGE
+main,G7,HEALTH : ILLNESS
+main,G8,DEATH / THE DEAD
+main,H1,SELF : OTHERS (KNOWLEDGE OF ONESELF) / INDIVIDUAL : COLLECTIVE
+main,H2,MANAGING ON ONE'S OWN : TRUSTING OTHER PEOPLE / STRANGERS
+main,H3,GROUP SOLIDARITY
+main,H4,NEAR : FAR / AT HOME : IN UNFAMILIAR CONDITIONS
+main,H5,ME/US /OWN ADVANTAGE : OTHERS /HOSPITALITY TOWARDS GUESTS
+main,H6,FRIEND : ENEMY / GOOD OR BAD NEIGHBOUR
+main,H7,AGGRESSION & PEACEABLENESS
+main,J1,COMMUNICATION
+main,K1,"POWER, RULER : SUBJECT / SUPERIOR : INFERIOR"
+main,K2,WEALTH : POVERTY / MONEY
+main,L1,LAW AND JUSTICE
+main,L2,BUSINESS / BUYING & SELLING
+main,M1,PRECAUTION : INCAUTIOUSNESS
+main,M2,"MOBILITY, TRAVEL"
+main,M3,WISDOM /INTELLIGENCE : STUPIDITY
+main,M4,"COURAGE : COWARDICE , COMPLIANCE"
+main,M5,SKILL /TOOLS /MATERIAL
+main,M6,OWN INITIATIVE / ENTERPRISE / RESPONSIBILITY
+main,M7,"WORK, LABOUR, DILIGENCE : SUCCESS, INACTIVITY/LAZINESS : SHORTAGE"
+main,M8,THRIFTY / STINGINESS
+main,M9,EXPERIENCE/PRACTICE : LEARNING
+main,T1,"TIMING / RIGHT MOMENT, BAD MOMENT / USE OF TIME"
+main,T2,ATTITUDES TOWARDS CHANGE /MODERNITY
+main,T3,"ATTITUDES TOWARDS THE PRESENT/FUTURE, ADJUSTMENTS"
+main,T4,"STARTING : FINISHING, BEGINNING : END"
+subgroup,A1a,water and fire as natural elements
+subgroup,A1b,earth and sea as natural elements
+subgroup,A1c,types of soil and flora as natural elements
+subgroup,A1d,cultivated plants
+subgroup,A1e,cold - warm
+subgroup,A2a,"position of man, domestic and wild animals"
+subgroup,A2b,animals as signs of weather and harvest
+subgroup,A3a,"points of the compass, wind, rain, changing weather"
+subgroup,A3b,"morning : evening, night : day, darkness : light"
+subgroup,A3c,"spring: autumn, summer : winter, year and harvest"
+subgroup,A3d,months
+subgroup,A3e,"omens, sayings and advice about holidays, red-letter days"
+subgroup,A3f,personifications of red-letter days
+subgroup,B1a,"God Almighty, everyone's God"
+subgroup,B1b,"the goodness and generosity of God, blessing, turning to God"
+subgroup,B1c,God disciplines and cures
+subgroup,B1d,"the omniscience of God, the ignorance of man"
+subgroup,B1e,"obedience to God, man the believer"
+subgroup,B1f,man's scepticism before God
+subgroup,B1g,priest and church
+subgroup,B2a,the inevitability of destiny
+subgroup,B2b,"fatalism, acceptance of circumstances"
+subgroup,B2c,"changing luck, the capriciousness or unexpectedness of luck"
+subgroup,B2d,bad luck
+subgroup,B2e,good luck and the madman's luck
+subgroup,B2f,chance encounters / reunions
+subgroup,B2g,belief in omens
+subgroup,C1a,X's basic nature / character will be unchanged; characteristics will not change
+subgroup,C1b,"X is always X, even if..."
+subgroup,C1c,no need to teach X things belonging to its character; hopeless to teach t-s not b. to X's character
+subgroup,C1d,X will preserve X's habits and customs
+subgroup,C2a,"X-quantity, -size or -shape will produce a corresponding X"
+subgroup,C2b,X-sowing or -material will correspond to X-yields
+subgroup,C2c,"X-action or -work will lead to X-result, -wage, -punishment or -consequence"
+subgroup,C2d,X needs a corresponding X-element/-tool
+subgroup,C2e,X and Y belong together /apart
+subgroup,C2f,X is needed to eliminate X
+subgroup,C3a,you get nothing from nothing
+subgroup,C3b,"you get nothing from dreams, hopes, fantasies, or wishing 'if only'"
+subgroup,C3c,"concrete, close at hand and certain is better than distant, uncertain or future"
+subgroup,C3d,yesterday's / gone / used / eaten / broken = 0 (nothing)
+subgroup,C3e,"from air, water or useless materials one gets no valuable or durable things"
+subgroup,C3f,"the effect of concrete things > the effect of words, thanks, music, prayers or curses"
+subgroup,C3g,observing neither harms nor benefits
+subgroup,C3h,"the empty, the poor or the dead have nothing to lose -- cannot be afraid of loss"
+subgroup,C4a,a small thing or one single thing cannot become great; the individual is insignificant to the whole
+subgroup,C4b,the small can equal the big or harm the big; the small can cause a lot of damage
+subgroup,C4c,from a little comes much; from a small beginning or trifle comes great damage
+subgroup,C4d,"one thing sets many or all in motion, gets them into trouble"
+subgroup,C4e,a minor origin or cause may result in a large effect or reaction
+subgroup,C4f,because of a minor thing one loses or misjudges a big thing
+subgroup,C4g,an insignificant X cannot result in a great Y
+subgroup,C4h,"without suitable tools or sufficient input, it is impossible to affect something large"
+subgroup,C4i,small object : instrument or process too large
+subgroup,C5a,"a (big) event (always) leaves a trace, a sign will reveal its cause and meaning"
+subgroup,C5b,recognizing Y by X
+subgroup,C5c,generalizing presumptions or suspicions; once...always / one...all
+subgroup,C5d,trials test authentic and unauthentic abilities (performance as a signal)
+subgroup,C5e,misleading signals
+subgroup,C6a,"clothes, appearance and looks as criteria for ranking, status"
+subgroup,C6b,external or internal -- the deceptiveness of beauty
+subgroup,C6c,everything is not as it appears; the deceptiveness of identifying marks
+subgroup,C6d,"fitness for work, nutritive value, etc. > appearance (black : white)"
+subgroup,C6e,apparent from front -- the reality hidden behind
+subgroup,C6f,"size as secondary (small is better than big, thin better than fat)"
+subgroup,D1a,general statements about the world
+subgroup,D1b,general statements about human life and its troubles
+subgroup,D1c,natural differences between phenomena / individuals
+subgroup,D1d,eternal antipodes -- contrasts and similarity of parts
+subgroup,D2a,joy and laughter > sorrow and tears
+subgroup,D2b,the alternation and proximity of joy and sorrow
+subgroup,D2c,"unnecessary, vain or excess laughing and crying"
+subgroup,D2d,grief and its value
+subgroup,D3a,"distress, need and hunger activate; lead to ideas, innovations or crimes"
+subgroup,D3b,love and hunger mobilize; beauty and source of food attract
+subgroup,D3c,"love as strong, daring, blinding, heedless and inventive"
+subgroup,D3d,"shortage of X directs and affects dreams, desires, fancies or lust"
+subgroup,D3e,"hunger or shortage lowers one's standards, makes one passive"
+subgroup,D3f,"hunger depresses,sleeplessness lowers capacity of work;the one who is full & well-rested is carefree"
+subgroup,D3g,"the eyes are greedy, the fingers itch, guard or attendant steals, the greedy p. keeps his catch"
+subgroup,D3h,insatiable greed leads to disappointment
+subgroup,D3i,moderation is best > overeating is bad for your health
+subgroup,D3j,regulating one's food consumption with the future in mind
+subgroup,D4a,the importance of food for human beings and animals
+subgroup,D4b,appetite and hunger
+subgroup,D4c,foodstuffs and dishes
+subgroup,D4d,eating habits and norms
+subgroup,D5a,"appreciation of alcohol, drinking habits or norms"
+subgroup,D5b,craving for drink or cigarettes
+subgroup,D5c,drunkenness : madness
+subgroup,D5d,intoxication and state of mind
+subgroup,D5e,financial and social costs of drinking
+subgroup,D5f,financial and social costs of gambling
+subgroup,E1a,the incompleteness / uncertainty / relativity of everything
+subgroup,E1b,the esteemed also have their faults and imperfection (which must be endured)
+subgroup,E1c,"an intelligent person can make mistakes, an able man can fail"
+subgroup,E1d,"minor, inferior, late etc. is better than nothing"
+subgroup,E1e,the value of X increases through lack of Y
+subgroup,E1f,insignificant and despised things share basic features in common with the rest of us
+subgroup,E1g,the same origins / values / basic rights shared by human beings and nature
+subgroup,E1h,apparently opposite beings have basic features in common
+subgroup,E1i,'coincidentia oppositorum'; the fusion of opposites
+subgroup,E1j,"the wisdom of the 'middle road', avoidance of exaggerations and extremes, compromise is best"
+subgroup,E1k,"things look different when seen from different perspectives, paradoxes concerning luck in misfortune"
+subgroup,E1l,"internal contradictions among essential nature, action or situation"
+subgroup,F1a,ethical criteria of good and evil
+subgroup,F1b,"honesty will be rewarded > evil, sin or deceit will be put to shame, will be punished"
+subgroup,F1c,"do not supply evil with power or instruments, try to get rid of evil"
+subgroup,F1d,evil will succeed; hold its own > the decent person will suffer
+subgroup,F1e,X commits the deed -- Y is punished for it or benefits from it
+subgroup,F1f,virtue brings unhappiness
+subgroup,F2a,"self-esteem, pursuit of honour -- loss of honour"
+subgroup,F2b,"the honourable thing is humble, the worthless thing full of pride"
+subgroup,F2c,"egotism, self-conceit and empty boasting"
+subgroup,F2d,pride goes before a fall
+subgroup,G1a,family solidarity -- lack of family solidarity
+subgroup,G1b,"the value of a mother, being orphaned"
+subgroup,G1c,"joining a family, keeping one's position in the family; daughter-/brother-/mother-/father-...in-law"
+subgroup,G2a,an individual matures under certain conditions; a child is raised to be like its parents
+subgroup,G2b,a descendant or child can develop differently from her/his parents
+subgroup,G2c,the mutual dependence of generations
+subgroup,G3a,qualities of the child and childhood
+subgroup,G3b,the emotional relationship between children and parents
+subgroup,G3c,raising the child: with punishment or advice?
+subgroup,G3d,"cost and trouble of maintaining children and its reciprocity, the difficulties of motherhood"
+subgroup,G3e,childlessness : many children
+subgroup,G4a,woman and man - ranking (boy > girl)
+subgroup,G4b,"the woman's lot in life, things associated with women, with men"
+subgroup,G4c,"women's unreliability, talkativeness and evil"
+subgroup,G5a,two together > solitude or isolation
+subgroup,G5b,"marrying at a young age, marrying off one's daughter"
+subgroup,G5c,"marrying late in life -- spinster, bachelor and widow"
+subgroup,G5d,is it better to be married or unmarried?
+subgroup,G5e,"the right moment to make an offer of marriage, norms, criteria for choosing spouse (mostly by men)"
+subgroup,G5f,"woman and man - life together, solidarity, lack of solidarity"
+subgroup,G5g,the problems of polygamy
+subgroup,G5h,woman and man - power relations
+subgroup,G6a,comparing young and old
+subgroup,G6b,does old age will bring wisdom or not?
+subgroup,G6c,"if (not) X when young, then (not) Y when old"
+subgroup,G6d,"the elderly as conservative, incapable of development"
+subgroup,G6e,the troubles of old age
+subgroup,G6f,the treatment of the elderly
+subgroup,G7a,the value of health
+subgroup,G7b,"health, medical care, medical treatment"
+subgroup,G7c,physicians
+subgroup,G7d,falling ill and recovery
+subgroup,G7e,lingering between life and death
+subgroup,G8a,death makes no distinctions
+subgroup,G8b,"death is unforeseeable, always near"
+subgroup,G8c,"death is inevitable, irreversible"
+subgroup,G8d,cause and manner of death
+subgroup,G8e,"beliefs concerning the dead, cult of the dead, funeral habits"
+subgroup,G8f,the dead are absent
+subgroup,G8g,life from death
+subgroup,H1a,self-knowledge : knowledge of the other
+subgroup,H1b,lack of self-knowledge goes with criticism of others
+subgroup,H1c,"world, events and other people considered from our own point of view; -- to be just like we are"
+subgroup,H1d,"one's own perception, mind, will and feeling > perception,...advice and orders of others"
+subgroup,H1e,conforming or assimilating to the company one keeps
+subgroup,H1f,ethnocentrism; being attracted to people like oneself; dislike of those who are different
+subgroup,H1g,"norms and social pressure, conforming to one's community or group"
+subgroup,H2a,"solitude and autocracy are the best > cooperation, working together, co-ownership will impoverish"
+subgroup,H2b,ownership and self-sufficiency > dependence on others
+subgroup,H2c,one's own profit and own troubles come first
+subgroup,H2d,admiring and praising one's own > admiring and praising that of a stranger
+subgroup,H2e,one's own need and work are the best motivators
+subgroup,H2f,"the deptor must pay, will be in trouble"
+subgroup,H2g,the lender or guarantor will be in trouble
+subgroup,H3a,solidarity to one's own people
+subgroup,H3b,one /few are powerless or unable to compete; insecurity of one/few
+subgroup,H3c,"common profits, joy, sorrow and dangers in a community"
+subgroup,H3d,those persons close to self or in same household should not be hurt; prohibition on incest
+subgroup,H3e,a stranger's gifts or assistance should not be given priority over those offered by one's own home
+subgroup,H3f,what is owned by another person seems to be more tempting than one's own
+subgroup,H3g,one should mind one's own business; should not interfere in other people's business
+subgroup,H3h,an individual is insignificant from the viewpoint of the community
+subgroup,H3i,"rejection of outsiders and vagabonds, exclusion from the community"
+subgroup,H4a,"everybody has a home or home district, which one misses and where one is happy"
+subgroup,H4b,"one's own home or home district is the best, the dearest, the safest and familiar > strange place"
+subgroup,H4c,everybody is most esteemed at home
+subgroup,H4d,strange or distant is more valued than familiar -- but strange will be a disappointment
+subgroup,H4e,objections to staying at home
+subgroup,H5a,"egoism is normal; the interests of others are insignificant, doubtful and suspicious"
+subgroup,H5b,warnings about generosity; people's ingratitude
+subgroup,H5c,"the value of generosity, empathy"
+subgroup,H5d,"reciprocity, the way one treats other people predicts one's own treatment"
+subgroup,H5e,hospitality and its limits
+subgroup,H5f,uninvited guests and unsolicited aid
+subgroup,H5g,politeness
+subgroup,H5h,gratitude and ingratitude
+subgroup,H6a,the value of a friend -- significance of an enemy
+subgroup,H6b,"a friend's unreliability, the rarity of a real friend, marks of a real friend"
+subgroup,H6c,"the reciprocity of friendship, fragile friendship"
+subgroup,H6d,"the value, risks and norms of neighborliness"
+subgroup,H7a,a disagreement or dispute between two / among many : third party
+subgroup,H7b,an aggressive or provocative person will be the object of aggression
+subgroup,H7c,envy and malicious pleasure
+subgroup,H7d,"the aggression of one's close circle of acquaintance will be soon over, is harmless"
+subgroup,H7e,attitude towards a 'barking dog'
+subgroup,H7f,attitude toward threats
+subgroup,H7g,"self-control, patience and masking one's aggression"
+subgroup,H7h,"readiness to conciliate, compromise pays"
+subgroup,H7i,"a seeming or ostensible reason for aggression, substitute object, scapegoat"
+subgroup,H7j,fighting and militancy > desire for peace
+subgroup,H7k,"peace and agreement > war, hatred and conflict"
+subgroup,H7l,"hatred will make you mindless, war is blind and destructive"
+subgroup,H7m,"unwillingness to forgive, revenge - being appeased, conciliated"
+subgroup,J1a,the power of the word; good and bad words
+subgroup,J1b,"taciturnity, reflection, consideration of every word"
+subgroup,J1c,the madman's talkativeness
+subgroup,J1d,"openheartedness, the need to talk, concealment"
+subgroup,J1e,the rapid spread and exaggeration of messages and rumours
+subgroup,J1f,the irrevocability of words and its effects
+subgroup,J1g,silence or secrecy pays > talk is risky
+subgroup,J1h,actions > words
+subgroup,J1i,promises and keeping one's promises
+subgroup,J1j,"lying, pretence, making excuses"
+subgroup,J1k,the truth and those who tell the truth
+subgroup,J1l,"asking and answering, brief retorts"
+subgroup,J1m,"slander, backbiting, defamation and gossip"
+subgroup,J1n,the significance of listening - caution and the prudence of listening
+subgroup,J1o,talk is free; not every word need be taken seriously -- it's just talk
+subgroup,J1p,tolerance of jokes and criticism
+subgroup,J1q,"books, the printed word"
+subgroup,K1a,"the ruler's position, the ethics of exercising power"
+subgroup,K1b,"leader - condition and quality of a country, subjects, a house or community dependent on her/him"
+subgroup,K1c,two chiefs or masters cannot rule together
+subgroup,K1d,the necessity of government and discipline
+subgroup,K1e,strategies for the treatment of subordinates or employees; persuasion pays
+subgroup,K1f,an inferior in the shadow of its superior
+subgroup,K1g,norms and strategies for subordination or subjection
+subgroup,K1h,peasants' freedom; the self-esteem of a hired-man
+subgroup,K1i,"maliciousness, boasting, despicability of new rich or upstarts"
+subgroup,K1j,wrong and right social order; status and status symbols
+subgroup,K1k,"exploitation, deprivation and hatred towards masters / gentry"
+subgroup,K1l,the privilege of the strong
+subgroup,K1m,symbiosis between a superior and an inferior
+subgroup,K2a,"with money everything can be obtained - food, things, power and access anywhere"
+subgroup,K2b,a rich man has helpers and friends > a poor man does not
+subgroup,K2c,the rich in demand as marriage partners > shortage destroys a family's harmony
+subgroup,K2d,"money is the precondition for trade, business and the granting of credit"
+subgroup,K2e,"money carries more weight than morality - laws do not touch the rich, bribery / corruption"
+subgroup,K2f,money piles up and the rich get richer
+subgroup,K2g,money circulates; people grow richer and poorer
+subgroup,K2h,"money provides safety, self-esteem and a voice > the poor must be silent and humble"
+subgroup,K2i,"the poor are at a dead end, helpless, without bread, homeless; go begging"
+subgroup,K2j,"contradictions between the rich and the poor, difference in living conditions and attitudes"
+subgroup,K2k,"the relativity of wealth and poverty; the rich have worries, the poor are sometimes happy"
+subgroup,L1a,the value and nature of law
+subgroup,L1b,general guidelines used by judges
+subgroup,L1c,"natural law, norms of conduct and ownership"
+subgroup,L1d,the identification and treatment of a thief or another criminal
+subgroup,L1e,crime and guilt will be revealed and lead to punishment
+subgroup,L2a,the nature of business and bargaining
+subgroup,L2b,normative rules of business and bargaining
+subgroup,L2c,price : quantity / quality
+subgroup,L2d,seller : buyer
+subgroup,M1a,precaution is better than incautiousness
+subgroup,M1b,dangerous situations should be anticipated
+subgroup,M1c,watchfulness and alertness
+subgroup,M1d,dangerous places should be recognized in time
+subgroup,M1e,"one should be on the alert, although a phenomenon seems harmless or safe"
+subgroup,M1f,one should not depend too much on a single thing or means
+subgroup,M2a,"choosing one's route, the dangers of a journey"
+subgroup,M2b,going or walking in front / behind
+subgroup,M2c,equipping oneself for a journey
+subgroup,M3a,"the value of wisdom, knowledge, intelligence and reason"
+subgroup,M3b,a wise X suspects > the trusting or credulous will be cheated
+subgroup,M3c,a stupid X neither understands nor sees
+subgroup,M3d,a stupid X acts in the wrong way and to her/his own disadvantage
+subgroup,M3e,unnecessary or comical activity; asking or searching for obvious and self-evident things
+subgroup,M3f,treatment of a madman and the attitude taken towards her/his advice
+subgroup,M4a,"courage, risk-taking and fearlessness are preconditions for attaining yields or one's goal"
+subgroup,M4b,courage in holding one's own : bravery in defending somebody or something
+subgroup,M4c,fearfulness paralyses or distorts perception
+subgroup,M4d,"giving in, adapting or fleeing defends one from danger"
+subgroup,M5a,"skill, professional skill and skilled or unskilled worker"
+subgroup,M5b,"the value and quality of tools, instruments and weapons"
+subgroup,M5c,quality and ways of handling materials
+subgroup,M5d,a person is helpless or powerless without proper or appropriate tools and equipment
+subgroup,M6a,"one's own desire to act and to manage; unscrupulousness, each answeres for her/his own actions"
+subgroup,M6b,"the effectiveness of one's own activity > influence of one's materials, conditions, tools"
+subgroup,M6c,"enterprise, perseverance and toughness > short-sightedness, giving up easily, the easy way"
+subgroup,M6d,concentration and determination; independence or absoluteness of one's stand
+subgroup,M6e,one's own activity or way of life determines one's reputation or treatment
+subgroup,M7a,"diligence, efforts will be rewarded > lazy, idle will be left without food"
+subgroup,M7b,the unity of interests between performer or supplier and consumer or user of products and fruits
+subgroup,M7c,"the one who sets out will make a living, find food > the one who sits or lolls about becomes poor"
+subgroup,M7d,the lazy man's use of time
+subgroup,M7e,there will always be more than enough work -- and sleep
+subgroup,M7f,work kept separate from play and rest
+subgroup,M7g,festivals and feasts : workdays
+subgroup,M7h,"work as the purpose of life > idleness and inactivity spoils life, corrupts"
+subgroup,M7i,"idleness : working for another's benefit, giving (the dirty) work to another, justifying idleness"
+subgroup,M8a,"careful economy, thrift, peasant ascetics"
+subgroup,M8b,a stingy saver gets rich -- a spendthrift becomes poor
+subgroup,M8c,despicability of a miser; the paradoxical unprofitablity of thrift
+subgroup,M9a,"lessons learned from experience, life and travel"
+subgroup,M9b,the value and nature of learnedness
+subgroup,M9c,compulsory instruction does not pay
+subgroup,M9d,practical work and exercise train masters
+subgroup,M9e,learning from mistakes and accidents
+subgroup,T1a,"an early or swift start pays off, prevents future damage"
+subgroup,T1b,"every act, task, or material has its proper timing"
+subgroup,T1c,one has to make immediate use of every opportunity
+subgroup,T1d,"a well-timed beginning, finish, support or aid will pay off"
+subgroup,T1e,"an overdue, late start, aid or advice will get X into trouble / is worthless"
+subgroup,T1f,"a premature start, acting too soon will result in a loss"
+subgroup,T1g,"there is time enough, things can be put off"
+subgroup,T1h,"it is worth waiting for a better moment; advice will come, a solution will be found"
+subgroup,T1i,the slow will defeat the fast
+subgroup,T1j,quality and work well done require time
+subgroup,T1k,"hurry is unnecessary; hurry spoils things, work is bungled"
+subgroup,T2a,"time, customs and the world will change; new things will become old and worn out"
+subgroup,T2b,novelty value : new things become old and worn out
+subgroup,T2c,newness may only be apparent
+subgroup,T3a,unpredictable future
+subgroup,T3b,adaptability in present difficulties
+subgroup,T3c,"trusting in the future, preparing for the future, dreaming, optimism or pessimism"
+subgroup,T4a,starting out is difficult but necessary
+subgroup,T4b,"the beginning is decisive, the first is the most valuable"
+subgroup,T4c,the result is decisive
+subgroup,T4d,interdependence between the beginning and the end
+subgroup,T4e,the end or continuation is expected after the beginning
