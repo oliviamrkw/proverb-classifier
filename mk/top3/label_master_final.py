@@ -185,7 +185,7 @@ def mbert_distributions(texts, themes_order, args):
 
 
 # -----------------------------------------------------------------------------
-# FUSE + CONFIDENCE (pure logic, no ML -- this is the part we can fully test)
+# FUSE + CONFIDENCE
 # -----------------------------------------------------------------------------
 def fuse_and_label(e5_dist, mb_dist, themes_order):
     fused = (e5_dist + mb_dist) / 2.0                   # average the two opinions
