@@ -15,15 +15,6 @@ WHAT THIS SCRIPT DOES
    same Kuusi type never span train and test folds).
 4. Reports macro-F1, accuracy, a per-class table, and a confusion matrix.
 
-WHAT THIS SCRIPT DOES *NOT* DO
-------------------------------
-- It does NOT build embeddings. It reuses ref_embeddings.npy. If that file
-  does not exist, run 01_build_reference_index.py --encoder e5 first.
-- It uses embeddings as the ONLY features. This is the deliberate "Experiment
-  A" baseline. Tree models usually do POORLY on raw embeddings because they
-  split one dimension at a time and no single embedding dimension is
-  meaningful. A low number here is expected and is itself the finding:
-  it motivates Experiment B (engineered features).
 
 INPUT (all produced by 01_build_reference_index.py --encoder e5):
   mk/npy/ref_embeddings.npy   float array, one row per reference item
