@@ -21,7 +21,7 @@ TEXT SELECTION
 --------------
 Only proverbs with English translations (proverb_en) are selected. Proverbs
 without English translations are skipped entirely. The English text shown to
-a human / LLM is saved in a 'text_used' column so there is no ambiguity about
+a human / LLM is saved in a 'proverb_en' column so there is no ambiguity about
 what was labeled.
 
 INPUT:
@@ -31,7 +31,7 @@ INPUT:
 OUTPUT:
   data_formatting/random_proverbs_50.csv
     columns: row_id, id, language, proverb_native, proverb_en,
-             text_used, human_label(empty)
+             proverb_en, human_label(empty)
 
 RUN:
   python data_formatting/select_random_proverbs.py
@@ -121,7 +121,7 @@ def add_proverbs(n_add, existing_file=OUT_FILE, master_path=DEFAULT_MASTER,
     # --- candidate pool: English rows NOT already in the existing sample ----
     pool = load_english_pool(master_path)
     used_ids = set(existing["id"]) if "id" in existing.columns else set()
-    used_text = set(existing["text_used"]) if "text_used" in existing.columns else set()
+    used_text = set(existing["proverb_en"]) if "proverb_en" in existing.columns else set()
     # Exclude by id first; also exclude by English text as a backup so blank
     # ids can never sneak a duplicate through.
     mask = ~pool["id"].isin(used_ids) & ~pool["proverb_en"].isin(used_text)
@@ -142,7 +142,7 @@ def add_proverbs(n_add, existing_file=OUT_FILE, master_path=DEFAULT_MASTER,
         "id": new["id"],
         "language": new["language"],
         "proverb_native": new["proverb_native"],
-        "text_used": new["proverb_en"],          # English translation (guaranteed present)
+        "proverb_en": new["proverb_en"],          # English translation (guaranteed present)
         "prescriptive_or_descriptive": "",        # empty -> you fill these in
     })
 
@@ -233,7 +233,7 @@ def main():
         "id": sample["id"],
         "language": sample["language"],
         "proverb_native": sample["proverb_native"],
-        "text_used": sample["proverb_en"],         # English translation (always present)
+        "proverb_en": sample["proverb_en"],         # English translation (always present)
         "prescriptive_or_descriptive": "",                         # <-- YOU fill this in by hand
     })
 

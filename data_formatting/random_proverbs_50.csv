@@ -1,4 +1,4 @@
-﻿row_id,id,language,proverb_native,text_used,prescriptive_or_descriptive
+﻿row_id,id,language,proverb_native,proverb_en,prescriptive_or_descriptive
 1,gutenberg_06651,nl,"Ligt gekomen, ligt gegaan","Lightly come, lightly gone.",1
 2,gutenberg_03756,de,"Wer dem Haufen folgt, hat viele Gesellen",He who follows the crowd has many companions.,1
 3,gutenberg_05129,es,"Quien poco sabe, presto lo reza",He who knows little soon tells it.,1

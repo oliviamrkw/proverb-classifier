@@ -1,4 +1,4 @@
-﻿row_id,text_used,prescriptive_or_descriptive,qwen2.5:7b_guess,llama3.1:8b_guess,aya:8b_guess,qwen2.5:7b_correct,llama3.1:8b_correct,aya:8b_correct
+﻿row_id,proverb_en,prescriptive_or_descriptive,qwen2.5:7b_guess,llama3.1:8b_guess,aya:8b_guess,qwen2.5:7b_correct,llama3.1:8b_correct,aya:8b_correct
 1,"Lightly come, lightly gone.",descriptive,descriptive,,,1,,
 2,He who follows the crowd has many companions.,descriptive,descriptive,,,1,,
 3,He who knows little soon tells it.,descriptive,descriptive,,,1,,

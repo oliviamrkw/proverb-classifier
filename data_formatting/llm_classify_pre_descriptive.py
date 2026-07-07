@@ -33,11 +33,11 @@ before spending GPU time. The mock labels are NOT real predictions.
 
 INPUT:
   data_formatting/random_proverbs_50.csv
-    needs at least: row_id, text_used   (prescriptive_or_descriptive optional, used for scoring)
+    needs at least: row_id, proverb_en   (prescriptive_or_descriptive optional, used for scoring)
 
 OUTPUT:
   data_formatting/pre_descriptive_llm_guess.csv
-    columns: row_id, text_used, prescriptive_or_descriptive(if present),
+    columns: row_id, proverb_en, prescriptive_or_descriptive(if present),
              <model>_guess  (one column per model),
              and if prescriptive_or_descriptive present: <model>_correct (1/0)
 
@@ -162,8 +162,8 @@ def main():
         sys.exit(f"ERROR: {IN_FILE} not found.\n"
                  f"Run select_random_proverbs.py first.")
     df = pd.read_csv(IN_FILE, encoding="utf-8-sig", dtype=str).fillna("")
-    if "text_used" not in df.columns:
-        sys.exit("ERROR: input is missing the 'text_used' column.")
+    if "proverb_en" not in df.columns:
+        sys.exit("ERROR: input is missing the 'proverb_en' column.")
     print(f"[info] loaded {len(df)} proverbs from {os.path.basename(IN_FILE)}")
 
     # Is there a human gold column to score against?
@@ -176,7 +176,7 @@ def main():
               "(fill 'prescriptive_or_descriptive' to get accuracy)")
 
     # --- start building the output frame ------------------------------------
-    out = pd.DataFrame({"row_id": df["row_id"], "text_used": df["text_used"]})
+    out = pd.DataFrame({"row_id": df["row_id"], "proverb_en": df["proverb_en"]})
     if "prescriptive_or_descriptive" in df.columns:
         # Normalize the human column to the word vocabulary. This accepts BOTH
         # hand-labeling styles: words ('prescriptive'/'descriptive') OR numbers
@@ -200,7 +200,7 @@ def main():
         col = f"{model}_guess"
         print(f"\n[run] model = {model}")
         guesses = []
-        for i, text in enumerate(df["text_used"], start=1):
+        for i, text in enumerate(df["proverb_en"], start=1):
             label = mock_label(text) if args.mock else ask_model(text, model)
             guesses.append(label)
             # light progress dot every 10 proverbs
