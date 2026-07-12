@@ -1,0 +1,27 @@
+== PRESCRIPTIVE vs DESCRIPTIVE (macro-F1) ==
+(labels: 0='prescriptive'  1='descriptive')
+
+model             macro-F1  n_used  unknown
+-------------------------------------------
+qwen2.5:7b           0.697     100        0
+llama3.1:8b          0.641     100        0
+gemma2:9b            0.669     100        0
+
+Per-class breakdown for best model (qwen2.5:7b):
+  prescriptive   precision=0.455  recall=0.588  F1=0.513  support=17
+  descriptive    precision=0.910  recall=0.855  F1=0.882  support=83
+
+== HAS IMPLICIT PRESCRIPTION (macro-F1) ==
+(labels: 0='no'  1='yes')
+
+model             macro-F1  n_used  unknown
+-------------------------------------------
+qwen2.5:7b           0.545      73        0
+llama3.1:8b          0.357      73        0
+gemma2:9b            0.246      73        0
+
+Per-class breakdown for best model (qwen2.5:7b):
+  no             precision=0.603  recall=0.854  F1=0.707  support=41
+  yes            precision=0.600  recall=0.281  F1=0.383  support=32
+
+Reminder: macro-F1 weights both classes equally, unlike accuracy — a model that just guesses the majority class every time scores near 0 on the minority class's F1, dragging macro-F1 down even if accuracy looked high.

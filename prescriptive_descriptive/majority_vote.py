@@ -9,26 +9,38 @@ gold file by majority vote, for BOTH label columns:
 
 Output: human_labelled_verified_proverbs_100.csv
 
-Design notes (why it's built this way):
-- Joins reviewers on the stable proverb `id` (e.g. gutenberg_06651), NOT row order.
-- Verifies all files contain the SAME set of ids before doing anything
-  (input-chain check). Exits loudly on mismatch instead of silently merging.
-- Ties are NEVER silently broken. With 3 valid votes you always get a 2-1 or
-  3-0 winner; but if a reviewer left a cell blank you can get a 1-1 tie on the
-  remaining two. Those are flagged "TIE — needs adjudication" with the cell left
-  blank, so you decide.
-- Keeps a full audit trail (the raw votes + an agreement flag per field).
+STEP 1 — DIAGNOSTIC (always runs first, before any merging):
+  Computes pairwise raw agreement % between every pair of reviewers, for both
+  label columns. This is what catches a reviewer using a REVERSED coding
+  convention (e.g. 0=descriptive instead of 1=descriptive) before it silently
+  corrupts your gold file. A reversed rater shows up as agreement far BELOW
+  chance (well under ~35-40%) rather than normal annotator disagreement
+  (which is usually 65-90%). The script prints a clear WARNING and does NOT
+  proceed to merge if it detects this, unless you've applied --flip to fix it.
 
-Usage (Windows / anywhere):
-  python majority_vote.py --inputs kristin.csv reviewerB.csv reviewerC.csv
-  # or just drop the 3 files in this folder, rename to match the defaults below,
-  # and run:  python majority_vote.py
+STEP 2 — FLIP (optional, once you've confirmed a reversal):
+  --flip file.csv:column   inverts 0<->1 in that column of that file, in
+  memory, before joining. Reusable for any future reviewer, not just one case.
+
+STEP 3 — MERGE:
+  Same majority-vote logic as before: joins on proverb `id`, requires all
+  files to cover the same ids, never silently breaks a tie (flags it for you
+  instead), keeps a full audit trail of raw votes + agreement per row.
+
+Usage:
+  # first pass: just diagnose, don't merge yet
+  python majority_vote.py --inputs kristin.csv ishan.csv daphne.csv --diagnose-only
+
+  # after confirming ishan's prescriptive_or_descriptive is reversed:
+  python majority_vote.py --inputs kristin.csv ishan.csv daphne.csv \\
+      --flip ishan.csv:prescriptive_or_descriptive
 """
 
 import argparse
 import csv
 import sys
 from collections import Counter, OrderedDict
+from itertools import combinations
 
 # ---- Column names in the source CSVs -----------------------------------------
 META_COLS = ["row_id", "id", "language", "proverb_native", "proverb_en"]
@@ -37,6 +49,10 @@ IMP_COL = "has_implicit_prescription"
 JOIN_KEY = "id"  # stable proverb id used to align reviewers
 
 OUTPUT = "human_labelled_verified_proverbs_100.csv"
+
+# below this pairwise agreement %, warn that the pair might be using
+# opposite coding conventions rather than genuinely disagreeing
+REVERSAL_WARNING_THRESHOLD = 0.40
 
 
 def read_labeled(path):
@@ -60,6 +76,74 @@ def read_labeled(path):
             continue
         d[rid] = r
     return d
+
+
+def apply_flips(reviewers, paths, flips):
+    """flips: list of 'file.csv:column' strings. Inverts 0<->1 in place."""
+    FLIP_MAP = {"0": "1", "1": "0"}
+    for spec in flips:
+        if ":" not in spec:
+            sys.exit(f"ERROR: --flip expects file.csv:column, got '{spec}'")
+        fname, col = spec.rsplit(":", 1)
+        if col not in (PD_COL, IMP_COL):
+            sys.exit(f"ERROR: --flip column must be '{PD_COL}' or '{IMP_COL}', got '{col}'")
+        try:
+            idx = [i for i, p in enumerate(paths) if p == fname or p.endswith("/" + fname)][0]
+        except IndexError:
+            sys.exit(f"ERROR: --flip target '{fname}' not found among --inputs {paths}")
+        n_flipped = 0
+        for row in reviewers[idx].values():
+            v = row.get(col, "").strip()
+            if v in FLIP_MAP:
+                row[col] = FLIP_MAP[v]
+                n_flipped += 1
+        print(f"Flipped {n_flipped} values in {fname}:{col}")
+
+
+def pairwise_agreement(reviewers, paths, col):
+    """Returns list of (nameA, nameB, agree_pct, n_compared) for every reviewer pair."""
+    out = []
+    for (ia, ra), (ib, rb) in combinations(enumerate(reviewers), 2):
+        common = set(ra) & set(rb)
+        match = total = 0
+        for rid in common:
+            va = ra[rid].get(col, "").strip()
+            vb = rb[rid].get(col, "").strip()
+            if va in ("0", "1") and vb in ("0", "1"):
+                total += 1
+                if va == vb:
+                    match += 1
+        pct = (match / total) if total else None
+        out.append((ia, ib, pct, total))
+    return out
+
+
+def run_diagnostic(reviewers, paths):
+    print("=" * 70)
+    print("STEP 1: PAIRWISE AGREEMENT DIAGNOSTIC (run before any merging)")
+    print("=" * 70)
+    any_warning = False
+    for col, label in [(PD_COL, "prescriptive_or_descriptive"),
+                        (IMP_COL, "has_implicit_prescription")]:
+        print(f"\n[{label}]")
+        for ia, ib, pct, n in pairwise_agreement(reviewers, paths, col):
+            name_a, name_b = paths[ia], paths[ib]
+            if pct is None:
+                print(f"  {name_a} vs {name_b}: no comparable rows")
+                continue
+            flag = ""
+            if pct < REVERSAL_WARNING_THRESHOLD:
+                flag = "  <-- WARNING: looks REVERSED (opposite coding), not normal disagreement"
+                any_warning = True
+            print(f"  {name_a} vs {name_b}: {pct*100:5.1f}% agreement (n={n}){flag}")
+    print()
+    if any_warning:
+        print("ACTION NEEDED: one or more pairs above look reversed, not just in disagreement.")
+        print("Confirm with the reviewer, then re-run with e.g.:")
+        print("  --flip reviewerfile.csv:prescriptive_or_descriptive")
+    else:
+        print("No reversal pattern detected. Agreement levels look like normal disagreement.")
+    return any_warning
 
 
 def majority(votes):
@@ -95,10 +179,16 @@ def main():
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument(
         "--inputs", nargs="+",
-        default=["reviewer1.csv", "reviewer2.csv", "reviewer3.csv"],
+        default=["olivia_label_100_proverbs.csv", "daphne_label_100_proverbs.csv", "ishan_label_100_proverbs.csv"],
         help="The hand-labeled reviewer CSVs (2 or more).",
     )
     ap.add_argument("--output", default=OUTPUT)
+    ap.add_argument("--flip", nargs="*", default=[],
+                    help="file.csv:column pairs to invert 0<->1 before merging.")
+    ap.add_argument("--diagnose-only", action="store_true",
+                    help="Run the agreement diagnostic and stop (no merge, no output file).")
+    ap.add_argument("--force", action="store_true",
+                    help="Merge even if the diagnostic finds an unresolved reversal warning.")
     args = ap.parse_args()
 
     if len(args.inputs) < 2:
@@ -119,9 +209,29 @@ def main():
             print(f"  In {path} but not {args.inputs[0]}: {only_other}", file=sys.stderr)
             sys.exit(1)
 
-    # Row order follows the first file.
-    ordered_ids = list(reviewers[0].keys())
+    # --- Diagnostic runs BEFORE any flip, so you see the raw problem -----------
+    had_warning = run_diagnostic(reviewers, args.inputs)
 
+    if args.flip:
+        print()
+        apply_flips(reviewers, args.inputs, args.flip)
+        print("\nRe-running diagnostic after flip:")
+        had_warning = run_diagnostic(reviewers, args.inputs)
+
+    if args.diagnose_only:
+        return
+
+    if had_warning and not args.force:
+        print("\nSTOPPING before merge: unresolved reversal warning above.")
+        print("Fix with --flip, or re-run with --force if you're sure this is genuine disagreement.")
+        sys.exit(1)
+
+    # --- Merge -------------------------------------------------------------
+    print("\n" + "=" * 70)
+    print("STEP 2: MERGING (majority vote)")
+    print("=" * 70)
+
+    ordered_ids = list(reviewers[0].keys())
     out_fields = (META_COLS
                   + [PD_COL, "pd_votes", "pd_agreement"]
                   + [IMP_COL, "imp_votes", "imp_agreement"])
@@ -132,7 +242,6 @@ def main():
     for rid in ordered_ids:
         base_row = reviewers[0][rid]
 
-        # integrity: warn if the proverb text differs across reviewers for same id
         texts = {(rev[rid].get("proverb_en") or "").strip() for rev in reviewers}
         if len(texts) > 1:
             stats["text_mismatch"] += 1
@@ -158,7 +267,6 @@ def main():
         w.writeheader()
         w.writerows(out_rows)
 
-    # --- Summary (bottom-line-first) ------------------------------------------
     n = len(out_rows)
     pd_ties = sum(1 for r in out_rows if r["pd_agreement"].startswith("TIE"))
     imp_ties = sum(1 for r in out_rows if r["imp_agreement"].startswith("TIE"))

@@ -1,0 +1,24 @@
+LLM vs HUMAN (human = ground truth)
+Proverbs total: 100
+
+== PRESCRIPTIVE vs DESCRIPTIVE ==
+(code mapping used: {'0': 'prescriptive', '1': 'descriptive'} — confirm this is correct)
+
+model             correct     acc  unknown  gradable
+----------------------------------------------------
+qwen2.5:7b             81   0.810        0       100
+llama3.1:8b            69   0.690        0       100
+gemma2:9b              73   0.730        0       100
+ENSEMBLE               78   0.780        0       100
+
+== HAS IMPLICIT PRESCRIPTION ==
+(code mapping used: {'0': 'no', '1': 'yes'} — confirm this is correct)
+
+model             correct     acc  unknown  gradable
+----------------------------------------------------
+qwen2.5:7b             44   0.603        0        73
+llama3.1:8b            34   0.466        0        73
+gemma2:9b              18   0.247        0        73
+ENSEMBLE               23   0.315        0        73
+
+Note: acc is over human-gradable proverbs the model actually answered (unknowns excluded from the denominator; 'gradable' shows the base).
