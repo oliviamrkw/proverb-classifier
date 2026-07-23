@@ -1,0 +1,101 @@
+﻿row_id,id,language,proverb_en,human_form_code,human_implicit_code,form_pred__qwen2.5:7b,form_code__qwen2.5:7b,implicit_pred__qwen2.5:7b,implicit_code__qwen2.5:7b,form_pred__llama3.1:8b,form_code__llama3.1:8b,implicit_pred__llama3.1:8b,implicit_code__llama3.1:8b,form_pred__gemma2:9b,form_code__gemma2:9b,implicit_pred__gemma2:9b,implicit_code__gemma2:9b,form_pred__ensemble,form_code__ensemble,form_ensemble_correct,implicit_pred__ensemble,implicit_code__ensemble,implicit_ensemble_correct
+1,gutenberg_06651,nl,"Lightly come, lightly gone.",1,0,descriptive,1,no,0,descriptive,1,no,0,descriptive,1,no,0,descriptive,1,1,no,0,1
+2,gutenberg_03756,de,He who follows the crowd has many companions.,1,,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+3,gutenberg_05129,es,He who knows little soon tells it.,1,0,descriptive,1,no,0,prescriptive,0,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+4,gutenberg_06520,nl,That’s as much as a bean in a brewing copper.,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+5,zh_maps_00313,zh,"No fish, shrimp is also good",1,1,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,1
+6,gutenberg_06535,nl,He burns the candle at both ends.,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+7,gutenberg_03157,de,"Jacob’s voice, Esau’s hands.",1,0,descriptive,1,no,0,prescriptive,0,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+8,gutenberg_02881,de,One bee is as good as a handful of flies.,1,,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+9,gutenberg_05625,pt,An estate inherited is the less valued.,1,,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+10,gutenberg_07757,da,When the wound is healed the pain is forgotten.,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+11,gutenberg_04180,es,"Whom God loves, his bitch litters pigs.",1,0,descriptive,1,no,0,prescriptive,0,yes,1,prescriptive,0,yes,1,prescriptive,0,0,yes,1,0
+12,gutenberg_06793,nl,Out of the abundance of the heart the mouth speaketh.,1,0,descriptive,1,no,0,descriptive,1,no,0,descriptive,1,no,0,descriptive,1,1,no,0,1
+13,gutenberg_01781,it,The world is governed with little brains.,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+14,en_maps_00267,en,you pays your money and you takes your choice,0,0,descriptive,1,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,1,no,0,1
+15,de_maps_00089,de,"pack fights, pack gets along",1,,descriptive,1,no,0,prescriptive,0,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+16,ru_maps_00107,ru,Prepare a sleigh in the summer and a cart in the winter,0,1,descriptive,1,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,1,no,0,0
+17,gutenberg_03808,de,"Who has, let him thereof take heed; love wanes, misfortune comes with speed.",1,0,descriptive,1,yes,1,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,yes,1,0
+18,gutenberg_03380,de,"Nothing bolder than the miller’s shirt, that every morning collars a thief.",1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+19,gutenberg_07578,da,It is not the surplice that makes parson or clerk.,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+20,gutenberg_06569,nl,He counts his chickens before they are hatched.,1,0,descriptive,1,yes,1,descriptive,1,yes,1,prescriptive,0,no,0,descriptive,1,1,yes,1,0
+21,gutenberg_04828,es,"Let there be no lack of food in the pigeon-house, and the pigeons will come to it.",1,1,descriptive,1,yes,1,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,yes,1,1
+22,gutenberg_04844,es,"There is no pleasure but palls, and the more so if it costs nothing",1,,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+23,gutenberg_03061,de,A golden hammer breaks an iron gate.,1,,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+24,gutenberg_03297,de,Don’t divide the spoil before the victory is won.,0,1,prescriptive,0,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,1,no,0,0
+25,gutenberg_02590,it,One lie draws ten after it.,1,,descriptive,1,yes,1,prescriptive,0,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+26,bn_maps_00093,bn,All cats look gray in the dark,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+27,de_maps_00247,de,the best doctor at all times is one's own temperance,1,1,descriptive,1,no,0,descriptive,1,yes,1,prescriptive,0,no,0,descriptive,1,1,no,0,0
+28,gutenberg_00034,fr,To a bold man fortune holds out her hand.,1,1,descriptive,1,yes,1,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,yes,1,1
+29,gutenberg_06401,nl,Opportunity makes desire.,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+30,ru_maps_00303,ru,Called yourself a milk mushroom - get into the back,1,0,prescriptive,0,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,no,0,1
+31,de_maps_00074,de,you have to eat out the soup you made for yourself,0,1,prescriptive,0,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,1,no,0,0
+32,gutenberg_05927,pt,"If you would have the dog follow you, give him bread.",0,1,prescriptive,0,yes,1,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,1,yes,1,1
+33,gutenberg_00901,fr,A little thing often helps.,1,1,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,1
+34,gutenberg_00766,fr,Enough is better than too much.,1,1,prescriptive,0,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,no,0,0
+35,gutenberg_07647,da,You must contrive to bake with the flour you have.,0,1,prescriptive,0,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,1,no,0,0
+36,gutenberg_00734,fr,The man has neither sense nor reason who leaves a young wife at home.,1,,prescriptive,0,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,no,0,
+37,gutenberg_07304,da,"Father and mother are kind, but God is kinder.",1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+38,gutenberg_00569,fr,The lawyer’s pouch is a mouth of hell.,1,,descriptive,1,no,0,prescriptive,0,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+39,gutenberg_01255,fr,A little help does a great deal.,0,1,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,0,yes,1,1
+40,ru_maps_00227,ru,Anyone who can’t sit still won’t get any good,1,1,prescriptive,0,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,no,0,0
+41,gutenberg_03629,de,"While the grass grows, the steed starves.",1,,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+42,de_maps_00050,de,barking dogs don't bite!,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+43,zh_maps_00056,zh,"If the young don't work hard, they will be sad when they are older",1,1,prescriptive,0,yes,1,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,yes,1,1
+44,gutenberg_00040,fr,By candle-light a goat looks like a lady.,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+45,id_maps_00169,id,"No curse kills, no praise kills",1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+46,gutenberg_03402,de,"“O what we must suffer for the sake of God’s church!” said the abbot, when the roast fowl burned his fingers.",1,1,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,1
+47,gutenberg_05453,pt,The thief becomes the gallows well.,1,1,descriptive,1,no,0,prescriptive,0,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,1
+48,gutenberg_03943,de,"Where the hedge is lowest, men leap over.",1,,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+49,gutenberg_01414,it,Love rules his kingdom without a sword.,1,0,descriptive,1,no,0,prescriptive,0,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+50,gutenberg_06110,nl,"The grapes are sour, said the fox, when he could not get at them.",1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+51,id_maps_00307,id,Is there turbid water flowing from a clear lake?,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+52,gutenberg_05650,pt,An angry man heeds no counsel.,1,,descriptive,1,no,0,prescriptive,0,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+53,gutenberg_01097,fr,The fox that sleeps in the morning has not his tongue feathered.,1,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+54,zh_maps_00174,zh,"Diligence is meritorious, play is useless",0,,prescriptive,0,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,1,no,0,
+55,id_maps_00208,id,No raising water,0,,descriptive,1,no,0,prescriptive,0,yes,1,descriptive,1,yes,1,descriptive,1,0,yes,1,
+56,gutenberg_02474,it,What keeps out the cold keeps out the heat.,1,,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+57,id_maps_00191,id,"If there is no wind blowing, the tree will not sway",1,,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+58,gutenberg_00324,fr,’Twixt the word and the deed there’s a long step.,1,,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+59,gutenberg_00580,fr,The law says what the king pleases.,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+60,gutenberg_01585,it,"Who gives, teaches a return.",1,1,descriptive,1,yes,1,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,yes,1,1
+61,gutenberg_02890,de,A good name is a rich inheritance.,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+62,gutenberg_00627,fr,The heart leads whither it goes.,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+63,gutenberg_05620,pt,Make good flour and you need no trumpet.,0,1,descriptive,1,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,1,no,0,0
+64,gutenberg_01326,it,"To him who watches, everything reveals itself.",1,1,descriptive,1,no,0,descriptive,1,yes,1,prescriptive,0,no,0,descriptive,1,1,no,0,0
+65,gutenberg_00262,fr,Barking dogs don’t bite.,1,,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+66,gutenberg_00722,fr,Empty casks make the most noise.,1,,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+67,gutenberg_06712,nl,No one can have peace longer than his neighbour pleases.,1,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+68,gutenberg_04082,es,It is in putting it into the oven that the loaf is made crooked.,1,1,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,1
+69,gutenberg_06326,nl,An old fox doesn’t go twice into the trap.,1,0,descriptive,1,yes,1,descriptive,1,yes,1,prescriptive,0,no,0,descriptive,1,1,yes,1,0
+70,gutenberg_01626,it,"He who has money to throw away, let him employ workmen, and not stand by.",0,,prescriptive,0,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,1,no,0,
+71,gutenberg_06017,nl,Give him your finger and he will seize your hand.,1,,descriptive,1,yes,1,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,yes,1,
+72,gutenberg_07682,da,You may light another’s candle at your own without loss.,1,1,descriptive,1,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,no,0,0
+73,gutenberg_03677,de,"What smarts, teaches.",1,0,descriptive,1,no,0,descriptive,1,yes,1,prescriptive,0,no,0,descriptive,1,1,no,0,1
+74,gutenberg_07516,da,He who lies down in the wash will be eaten by swine.,1,1,prescriptive,0,yes,1,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,yes,1,1
+75,gutenberg_04685,es,"The stone is hard and the drop is small, but a hole is made by the constant fall.",1,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+76,gutenberg_05377,pt,To love and be wise is incompatible.,1,1,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,1
+77,de_maps_00116,de,"If the mountain does not come to the prophet, the prophet must go to the mountain",0,,descriptive,1,yes,1,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,1,yes,1,
+78,gutenberg_02345,it,Let not your shirt know all your thoughts.,0,1,prescriptive,0,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,1,no,0,0
+79,gutenberg_07324,da,"Every man has his lot, and a wide world before him.",1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+80,gutenberg_04546,es,"The old man at home, and the young abroad, lie after the same fashion.",1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+81,gutenberg_03652,de,"As princes fiddle, subjects must dance.",1,,descriptive,1,yes,1,prescriptive,0,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+82,zh_maps_00260,zh,all people are brothers in the world,1,1,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,1
+83,gutenberg_00035,fr,Help thyself and heaven will help thee.,0,,prescriptive,0,yes,1,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,1,yes,1,
+84,bn_maps_00155,bn,Cats don't scratch on hard ground,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+85,gutenberg_05114,es,He who does not whip the child does not mend the youth.,1,1,prescriptive,0,yes,1,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,yes,1,1
+86,gutenberg_06354,nl,A soft answer turneth away wrath.,1,1,prescriptive,0,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,no,0,0
+87,gutenberg_05348,pt,"Open your purse, and I will open my mouth.",1,0,prescriptive,0,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,no,0,1
+88,gutenberg_05618,pt,A beggar’s wallet is never full.,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+89,gutenberg_04008,de,No one is too old to learn.,1,,prescriptive,0,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,
+90,gutenberg_00298,fr,Money advances meacocks.,1,1,descriptive,1,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,no,0,0
+91,gutenberg_01033,fr,He who can lick can bite.,1,,descriptive,1,yes,1,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,yes,1,
+92,gutenberg_01692,it,One nail drives out another.,1,0,descriptive,1,no,0,prescriptive,0,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+93,gutenberg_03559,de,Satiety causes disgust.,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+94,zh_maps_00040,zh,"Thirty-six strategies, the best strategy is to escape",0,1,descriptive,1,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,1,no,0,0
+95,gutenberg_04335,es,A determined heart will not be counselled.,1,0,prescriptive,0,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,no,0,1
+96,gutenberg_03138,de,More are drowned in the bowl than in the sea.,1,0,descriptive,1,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,0
+97,gutenberg_03102,de,"If you have no arrows in your quiver, go not with archers.",0,1,prescriptive,0,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,1,no,0,0
+98,gutenberg_06446,nl,Marry in haste and repent at leisure.,0,1,prescriptive,0,yes,1,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,1,yes,1,1
+99,gutenberg_02892,de,A good meal is worth hanging for.,1,1,descriptive,1,no,0,prescriptive,0,yes,1,prescriptive,0,no,0,prescriptive,0,0,no,0,0
+100,gutenberg_01114,fr,To jump out of the frying pan into the fire.,1,,prescriptive,0,no,0,descriptive,1,yes,1,descriptive,1,yes,1,descriptive,1,1,yes,1,

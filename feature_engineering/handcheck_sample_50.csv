@@ -1,13 +1,13 @@
 ﻿id,language,proverb_en,implicit_prescriptive,ip_trigger,ip_confidence,hand_label,notes
-gutenberg_06053,nl,Better once in heaven than ten times at the gate.,1,valuation,MED,,
-gutenberg_04755,es,Better is the smoke of my own house than the fire of another’s.,1,valuation,MED,,
-gutenberg_00313,fr,God save you from a man who has but one business.,0,,LOW,,
-ru_maps_00236,ru,He who is lazy with his plow will have a bad year all year,1,consequential,MED,,
-gutenberg_00959,fr,He who has money has capers.,1,consequential,MED,,
-gutenberg_06671,nl,Don’t sell the bearskin before the bear is dead.,1,command,HIGH,,
-id_maps_00244,id,The rice has become porridge,0,,HIGH,,
-ru_maps_00235,ru,Whoever entered the rank as a fox will become a wolf in the rank,1,consequential,MED,,
-gutenberg_06638,nl,Creaking carts last the longest.,0,,HIGH,,
+gutenberg_06053,nl,Better once in heaven than ten times at the gate.,1,valuation,MED,0,
+gutenberg_04755,es,Better is the smoke of my own house than the fire of another’s.,1,valuation,MED,0,"A dry crust eaten in peace is better than a steak eaten in anxiety."
+gutenberg_00313,fr,God save you from a man who has but one business.,0,,LOW,1,
+ru_maps_00236,ru,He who is lazy with his plow will have a bad year all year,1,consequential,MED,1,
+gutenberg_00959,fr,He who has money has capers.,1,consequential,MED,,"aka money talks"
+gutenberg_06671,nl,Don’t sell the bearskin before the bear is dead.,1,command,HIGH,1,
+id_maps_00244,id,The rice has become porridge,0,,HIGH,,"what's done is done"
+ru_maps_00235,ru,Whoever entered the rank as a fox will become a wolf in the rank,1,consequential,MED,,"individuals who enter an organization, system, or competition using cunning, deceit, or trickery (the fox) will eventually be forced to adapt and become ruthless, predatory, or aggressive (the wolf) in order to succeed"
+gutenberg_06638,nl,Creaking carts last the longest.,0,,HIGH,0,"means that people or objects that seem frail sickly or faulty often outlast those that appear stronger"
 zh_maps_00055,zh,"hearing is untrustworthy, seeing is believing",0,,HIGH,,
 gutenberg_04698,es,"The act of treachery is liked, but not he that does it.",0,,HIGH,,
 gutenberg_07931,da,Want and necessity break faith and oaths.,1,command,HIGH,,
