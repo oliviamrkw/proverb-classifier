@@ -1,0 +1,101 @@
+row_id,id,language,proverb_native,proverb_en,prescriptive_or_descriptive,has_implicit_prescription
+28,gutenberg_00034,fr,A homme hardi fortune tend la main,To a bold man fortune holds out her hand.,0,1
+39,gutenberg_01255,fr,Un peu d’aide fait grand bien,A little help does a great deal.,0,1
+68,gutenberg_04082,es,Al enhornar se tuerce el pan,It is in putting it into the oven that the loaf is made crooked.,0,1
+77,de_maps_00116,de,"wenn der berg nicht zum propheten kommt, muss der prophet zum berge gehen","If the mountain does not come to the prophet, the prophet must go to the mountain",0,1
+78,gutenberg_02345,it,Ogni tua guisa non sappia la tua camicia,Let not your shirt know all your thoughts.,0,1
+81,gutenberg_03652,de,"Was die Fürsten geigen, müssen die Unterthanen tanzen","As princes fiddle, subjects must dance.",0,1
+99,gutenberg_02892,de,Ein gutes Mahl ist Henkenswerth,A good meal is worth hanging for.,0,1
+14,en_maps_00267,en,you pays your money and you takes your choice,you pays your money and you takes your choice,0,0
+16,ru_maps_00107,ru,"Готовь сани летом, а телегу зимой",Prepare a sleigh in the summer and a cart in the winter,0,1
+21,gutenberg_04828,es,"No falte cibo al palomar, que las palomas ellas se vernán","Let there be no lack of food in the pigeon-house, and the pigeons will come to it.",0,1
+24,gutenberg_03297,de,Man soll die Beute nicht vor dem Siege theilen,Don’t divide the spoil before the victory is won.,0,1
+31,de_maps_00074,de,"man muss die suppe auslöffeln, die man sich eingebrockt hat",you have to eat out the soup you made for yourself,0,1
+32,gutenberg_05927,pt,"Queres que te siga o caõ, da-lhe paõ","If you would have the dog follow you, give him bread.",0,1
+35,gutenberg_07647,da,Man faaer at bage af det Meel man har,You must contrive to bake with the flour you have.,0,1
+40,ru_maps_00227,ru,"Кому на мeсте не сидится, тот добрa не наживёт",Anyone who can’t sit still won’t get any good,0,0
+43,zh_maps_00056,zh,少壮不努力，老大徒伤悲,"If the young don't work hard, they will be sad when they are older",0,0
+54,zh_maps_00174,zh,勤有功，戏无益,"Diligence is meritorious, play is useless",0,0
+55,id_maps_00208,id,Tiada membesarkan air,No raising water,0,1
+60,gutenberg_01585,it,"Chi dà, insegna a rendere","Who gives, teaches a return.",0,1
+63,gutenberg_05620,pt,"Faze boa farinha, e naõ toques bosina",Make good flour and you need no trumpet.,0,1
+70,gutenberg_01626,it,"Chi ha danari da buttar via, metta gli operaj, e non vi stia","He who has money to throw away, let him employ workmen, and not stand by.",0,0
+72,gutenberg_07682,da,Man kan tænde et andet Lys af sit uden Skade,You may light another’s candle at your own without loss.,0,1
+73,gutenberg_03677,de,"Was wehe thut, das lehrt","What smarts, teaches.",0,0
+74,gutenberg_07516,da,"Hvo sig blander med Saader, ham æde Sviin",He who lies down in the wash will be eaten by swine.,0,1
+83,gutenberg_00035,fr,"Aide-toi, le ciel t’aidera",Help thyself and heaven will help thee.,0,0
+85,gutenberg_05114,es,"Quien no castiga culito, no castiga culazo",He who does not whip the child does not mend the youth.,0,1
+87,gutenberg_05348,pt,"Abre tua bolsa, abrirei a minha boca","Open your purse, and I will open my mouth.",0,0
+89,gutenberg_04008,de,Zum Lernen ist Niemand zu alt,No one is too old to learn.,0,0
+91,gutenberg_01033,fr,"Qui peut lécher, peut mordre",He who can lick can bite.,0,1
+94,zh_maps_00040,zh,三十六计，走为上计,"Thirty-six strategies, the best strategy is to escape",0,1
+97,gutenberg_03102,de,"Hast du nicht Pfeile im Köcher, so misch dich nicht unter die Schützen","If you have no arrows in your quiver, go not with archers.",0,1
+98,gutenberg_06446,nl,"Haast getrouwd, lang berouwd",Marry in haste and repent at leisure.,0,1
+100,gutenberg_01114,fr,Sauter de la poële sur la braise,To jump out of the frying pan into the fire.,0,1
+52,gutenberg_05650,pt,"Homem apaixonado, naõ admitte conselho",An angry man heeds no counsel.,1,
+1,gutenberg_06651,nl,"Ligt gekomen, ligt gegaan","Lightly come, lightly gone.",1,
+2,gutenberg_03756,de,"Wer dem Haufen folgt, hat viele Gesellen",He who follows the crowd has many companions.,1,
+3,gutenberg_05129,es,"Quien poco sabe, presto lo reza",He who knows little soon tells it.,1,
+4,gutenberg_06520,nl,Het is zoo veel als een boon in een brouw ketel,That’s as much as a bean in a brewing copper.,1,
+5,zh_maps_00313,zh,无鱼，虾也好,"No fish, shrimp is also good",1,
+6,gutenberg_06535,nl,Hij brandt de kaars aan beide einden,He burns the candle at both ends.,1,
+7,gutenberg_03157,de,"Jacobs Stimme, Esaus Hände","Jacob’s voice, Esau’s hands.",1,
+8,gutenberg_02881,de,Eine Biene ist so gut als eine Handvoll Fliegen,One bee is as good as a handful of flies.,1,
+9,gutenberg_05625,pt,Fazenda herdada he menos estimada,An estate inherited is the less valued.,1,
+10,gutenberg_07757,da,Naar Saaret er lægt er Svien glemt,When the wound is healed the pain is forgotten.,1,
+11,gutenberg_04180,es,"A quien Dios quiere bien, la perra le pare lechones","Whom God loves, his bitch litters pigs.",1,
+12,gutenberg_06793,nl,Uit den overvloed des harten spreekt de mond,Out of the abundance of the heart the mouth speaketh.,1,
+13,gutenberg_01781,it,Con poco cervello si governa il mondo,The world is governed with little brains.,1,
+15,de_maps_00089,de,"pack schlägt sich, pack verträgt sich","pack fights, pack gets along",1,
+17,gutenberg_03808,de,"Wer hat, der behalt’; Liebe wird alt, Unglück kommt bald","Who has, let him thereof take heed; love wanes, misfortune comes with speed.",1,
+18,gutenberg_03380,de,"Nichts kühner als der Müller Hemd, das jeden Morgen einen Dieb beim Kragen nimmt","Nothing bolder than the miller’s shirt, that every morning collars a thief.",1,
+19,gutenberg_07578,da,Kappen giör hverken Præst eller Degn,It is not the surplice that makes parson or clerk.,1,
+20,gutenberg_06569,nl,"Hij telt zijne kiekens, eer de eijers gelegd zijn",He counts his chickens before they are hatched.,1,
+22,gutenberg_04844,es,"No hay placer que no enfade, y mas si cuesta de valde","There is no pleasure but palls, and the more so if it costs nothing",1,
+23,gutenberg_03061,de,Goldener Hammer bricht eisernes Thor,A golden hammer breaks an iron gate.,1,
+25,gutenberg_02590,it,Una bugia ne tira dieci,One lie draws ten after it.,1,
+26,bn_maps_00093,bn,অন্ধকারে সব বিড়ালকে ধূসর দেখায়,All cats look gray in the dark,1,
+27,de_maps_00247,de,der beste arzt ist jederzeit des eigenen menschen mässigkeit,the best doctor at all times is one's own temperance,1,
+29,gutenberg_06401,nl,Gelegenheid maakt genegenheid,Opportunity makes desire.,1,
+30,ru_maps_00303,ru,Назвaлся груздем - полезaй в кузов,Called yourself a milk mushroom - get into the back,1,
+33,gutenberg_00901,fr,Petite chose aide souvent,A little thing often helps.,1,
+34,gutenberg_00766,fr,Mieux vaut assez que trop,Enough is better than too much.,1,
+36,gutenberg_00734,fr,"L’homme n’a ni sens ni raison, qui jeune femme laisse au tison",The man has neither sense nor reason who leaves a young wife at home.,1,
+37,gutenberg_07304,da,"Fader og Moder ere gode, end er Gud bedre","Father and mother are kind, but God is kinder.",1,
+38,gutenberg_00569,fr,La gibecière de l’avocat est une bouche d’enfer,The lawyer’s pouch is a mouth of hell.,1,
+41,gutenberg_03629,de,"Während das Gras wächst, ist der Hengst todt","While the grass grows, the steed starves.",1,
+42,de_maps_00050,de,bellende hunde beißen nicht!,barking dogs don't bite!,1,
+44,gutenberg_00040,fr,A la chandelle la chèvre semble demoiselle,By candle-light a goat looks like a lady.,1,
+45,id_maps_00169,id,"Tak ada umpat yang membunuh, tak ada puji yang mengenjang","No curse kills, no praise kills",1,
+46,gutenberg_03402,de,"”O was müßen wir der Kirche Gottes halber leiden!” rief der Abt, als ihm das gebratene Huhn die Finger versengt","“O what we must suffer for the sake of God’s church!” said the abbot, when the roast fowl burned his fingers.",1,
+47,gutenberg_05453,pt,Bem parece o ladraõ na forca,The thief becomes the gallows well.,1,
+48,gutenberg_03943,de,"Wo der Zaun am niedrigsten ist, steigt man über zu aller Frist","Where the hedge is lowest, men leap over.",1,
+49,gutenberg_01414,it,Amor regge il suo regno senza spada,Love rules his kingdom without a sword.,1,
+50,gutenberg_06110,nl,"De druiven zijn zuur, sprak de vos, maar hij kon er niet bij","The grapes are sour, said the fox, when he could not get at them.",1,
+51,id_maps_00307,id,Adakah dari telaga yang jernih mengalir air yang keruh?,Is there turbid water flowing from a clear lake?,1,
+53,gutenberg_01097,fr,"Renard qui dort la matinée, n’a pas la langue emplumée",The fox that sleeps in the morning has not his tongue feathered.,1,
+56,gutenberg_02474,it,"Quel che ripara il freddo, ripara il caldo",What keeps out the cold keeps out the heat.,1,
+57,id_maps_00191,id,"Kalau tak ada angin bertiup, takkan pokok bergoyang","If there is no wind blowing, the tree will not sway",1,
+58,gutenberg_00324,fr,Du dire au fait il y a grand trait,’Twixt the word and the deed there’s a long step.,1,
+59,gutenberg_00580,fr,La loi dit ce que le roi veut,The law says what the king pleases.,1,
+61,gutenberg_02890,de,Ein guter Name ist ein reiches Erbtheil,A good name is a rich inheritance.,1,
+62,gutenberg_00627,fr,Le c”oe]ur mène où il va,The heart leads whither it goes.,1,
+64,gutenberg_01326,it,A chi veglia tutto si rivela,"To him who watches, everything reveals itself.",1,
+65,gutenberg_00262,fr,Chien qui aboie ne mord pas,Barking dogs don’t bite.,1,
+66,gutenberg_00722,fr,Les tonneaux vides sont ceux qui font le plus de bruit,Empty casks make the most noise.,1,
+67,gutenberg_06712,nl,Niemand kan langer vrede hebben dan zijn buurman wil,No one can have peace longer than his neighbour pleases.,1,
+69,gutenberg_06326,nl,Een oude vos komt niet gemakkelijk twee maal in het garen,An old fox doesn’t go twice into the trap.,1,
+71,gutenberg_06017,nl,"Als men hem den vinger geeft, neemt hij de geheele hand",Give him your finger and he will seize your hand.,1,
+75,gutenberg_04685,es,"La piedra es dura, y la gota menuda, mas cayendo de continuo, hace cavadura","The stone is hard and the drop is small, but a hole is made by the constant fall.",1,
+76,gutenberg_05377,pt,"Amar, e saber naõ póde ser",To love and be wise is incompatible.,1,
+79,gutenberg_07324,da,"Fordi er Verden vid, at hver haver sin Id","Every man has his lot, and a wide world before him.",1,
+80,gutenberg_04546,es,"El viejo en su tierra y el mozo en la agena, mienten de una manera","The old man at home, and the young abroad, lie after the same fashion.",1,
+82,zh_maps_00260,zh,四海之内皆兄弟,all people are brothers in the world,1,
+84,bn_maps_00155,bn,শক্ত মাটিতে বিড়াল আঁচড়ায় না,Cats don't scratch on hard ground,1,
+86,gutenberg_06354,nl,Een zacht antwoord stilt den toorn,A soft answer turneth away wrath.,1,
+88,gutenberg_05618,pt,Fardel de pedinte nunca he cheio,A beggar’s wallet is never full.,1,
+90,gutenberg_00298,fr,Deniers avancent les bediers,Money advances meacocks.,1,
+92,gutenberg_01692,it,Chiodo con chiodo da se si cava,One nail drives out another.,1,
+93,gutenberg_03559,de,Ueberfluß bringt Ueberdruß,Satiety causes disgust.,1,
+95,gutenberg_04335,es,Coraçon determinado no sufre ser aconsejado,A determined heart will not be counselled.,1,
+96,gutenberg_03138,de,Im Becher ersaufen mehr als im Meer,More are drowned in the bowl than in the sea.,1,

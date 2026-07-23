@@ -1,1 +1,1 @@
-labse	sentence-transformers/LaBSE	
+e5	intfloat/multilingual-e5-large	query: 

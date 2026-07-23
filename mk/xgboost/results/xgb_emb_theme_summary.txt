@@ -1,0 +1,5 @@
+XGBoost on e5 embeddings only -- 13-way theme classification
+examples scored : 5118
+accuracy        : 0.3845
+macro-F1        : 0.3460
+weighted-F1     : 0.3733

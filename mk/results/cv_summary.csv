@@ -1,5 +1,5 @@
 level,mean_acc,std_acc
-theme,0.3324,0.0082
-main,0.2016,0.0153
-subgroup,0.0828,0.0082
-flat_subgroup,0.0889,0.0115
+theme,0.3373,0.0119
+main,0.2233,0.0089
+subgroup,0.0865,0.0089
+flat_subgroup,0.1003,0.0057
