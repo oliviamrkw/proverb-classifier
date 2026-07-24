@@ -1,46 +1,53 @@
 """
-prescriptive_descriptive/trained/train_functional_classifier.py
+prescriptive_descriptive/trained/train_ip_classifier.py
 ==============================================================================
-LEARNED-WEIGHTS FUNCTIONAL PRESCRIPTIVENESS CLASSIFIER  (steps 1-4)
+LEARNED-WEIGHTS IMPLICIT PRESCRIPTION (IP) CLASSIFIER
 
-WHAT CHANGED vs feature_engineering/functional_prescriptiveness.py:
-  STEP 1  The hand-written IF/OR combination rule is GONE. A class-weighted
-          logistic regression now learns how much each feature matters,
-          directly from your hand labels. (Measured on the 150 labels:
-          hand rule 0.659 macro-F1 -> learned 0.687, same features.)
-  STEP 2  Imperative detection upgraded: uses spaCy grammatical mood
-          detection when available (any verb, not a hardcoded list of 40);
-          falls back to the tested rules engine otherwise, and SAYS which
-          one it used.
-  STEP 3  NEW modal feature: should / must / ought to / had better / have to
-          — explicit prescription markers the old features missed entirely
-          ("You SHOULD forge the iron while it is hot").
-  STEP 4  Valence hooks: --valence transformer scores the outcome clause with
-          a sentiment model (cardiffnlp RoBERTa; needs your GPU + HF access),
-          --valence lexicon keeps the offline word lists. Transformer path is
-          MACHINE-ONLY: written and logic-checked here, but its accuracy
-          contribution is unverified until you run it.
+Predicts whether a proverb carries an implicit prescription — advice or a
+steer toward a wise response, whether stated outright or only implied.
 
-TRAIN DATA: any CSVs with a label column. Two supported shapes:
-  - hand_label column with 0/1                        (handcheck sheets)
+WHAT THIS DOES
+  STEP 1  No hand-written IF/OR rule. A class-weighted logistic regression
+          learns how much each feature matters from your hand labels.
+  STEP 2  Imperative detection can use spaCy grammatical mood (any verb) or
+          the regex word-list fallback.
+  STEP 3  Modal feature: should / must / ought to / had better / have to.
+  STEP 4  Valence can use a transformer sentiment model or offline word lists.
+
+>>> ABLATION MODE (--ablate) <<<
+  Runs ALL FOUR backend combinations on the same labels and prints one
+  comparison table, so you can see which upgrade helped and which hurt.
+  This is the right way to test them: changing two things at once tells you
+  nothing about which one caused the change.
+
+      combo                          what it isolates
+      regex     + lexicon            the baseline (no upgrades)
+      spacy     + lexicon            spaCy's effect ALONE
+      regex     + transformer        the transformer's effect ALONE
+      spacy     + transformer        both together
+
+  IMPORTANT: with ~150 labels the measurement wobble is roughly +/- 7 points.
+  Treat differences smaller than that as "can't tell", not as real gains.
+
+TRAIN DATA: CSVs with either
+  - a hand_label column of 0/1, or
   - prescriptive_or_descriptive + has_implicit_prescription
-    -> label = 1 if (pd == 0) or (implicit == 1)      (the two-column shape)
+    -> IP label = 1 if (prescriptive_or_descriptive == 0) or (implicit == 1)
 
 OUTPUTS
-  model_functional.joblib      trained classifier + feature config
-  cv report printed            5-fold macro-F1 + learned feature weights
-  <master>_trained.csv         (with --apply) master labeled with
-                               pred_functional / prob_functional
+  model_implicit_prescription.joblib    trained model + which backends it used
+  <input>_ip.csv                        (with --apply) adds pred_ip / prob_ip
 
 USAGE
-  # train + report:
-  python prescriptive_descriptive/trained/train_functional_classifier.py \
-      --train YOUR_100_LABELS.csv handcheck_sample_50.csv
-      (use your real filenames — run `dir *.csv` to see what you have)
-  # train then label the corpus:
-  python ... --train YOUR_100_LABELS.csv handcheck_sample_50.csv --apply master_en.csv
-  # with transformer valence (your machine):
-  python ... --train ... --apply master_en.csv --valence transformer
+  # 1. TEST THE BACKENDS SEPARATELY (do this first):
+  python prescriptive_descriptive/trained/train_ip_classifier.py \
+      --train YOUR_100_LABELS.csv handcheck_sample_50.csv --ablate
+
+  # 2. Then train with whichever combo won, e.g. spaCy on, lexicon valence:
+  python ... --train YOUR_100_LABELS.csv handcheck_sample_50.csv \
+      --valence lexicon --apply master_en.csv
+
+  (run `dir *.csv` to see your real filenames)
 ==============================================================================
 """
 import argparse
@@ -61,7 +68,7 @@ FEATURE_NAMES = ["f_imperative", "f_prohibition", "f_modal", "f_conditional",
                  "f_valence_pos", "f_valence_neg"]
 
 # ---------------------------------------------------------------------------
-# FEATURES (regex layer — shared by both imperative backends)
+# FEATURE PATTERNS
 # ---------------------------------------------------------------------------
 _IMP_START = re.compile(
     r"(?i)^(?:make|keep|look|take|give|put|let|strike|cut|count|cast|spare|seize"
@@ -71,7 +78,7 @@ _IMP_START = re.compile(
     r"|call|eat|drink|buy|sell|pay|work|chastise|forge|practice|hear|see|sow|reap)\b")
 _PROHIB = re.compile(r"(?i)(?:^|[,;:]\s*)(?:never|don'?t|do not|let not|not to be)\b")
 _NOT_PATTERN = re.compile(r"(?i)\b\w+ not, \w+ not\b")
-_MODAL = re.compile(r"(?i)\b(?:should|must|ought to|had better|have to|shalt)\b")   # STEP 3
+_MODAL = re.compile(r"(?i)\b(?:should|must|ought to|had better|have to|shalt)\b")
 _COND = re.compile(r"(?i)(?:^(?:if|when|where)\b|\b(?:he|she|one|they) who\b|\bwho(?:ever)? \w+)")
 _CAUSAL = re.compile(r"(?i)\b(?:causes?|brings?|breeds?|draws?|makes?|leads? to"
                      r"|begets?|creates?|produces?|results? in|ends? in)\b")
@@ -99,21 +106,22 @@ def _norm(text):
              .replace("\u201c", '"').replace("\u201d", '"'))
 
 
-# ---- STEP 2: imperative backend -------------------------------------------
+# ---- imperative backends ---------------------------------------------------
 class ImperativeDetector:
-    """spaCy grammatical detection when available; tested regex fallback else."""
-    def __init__(self, prefer_spacy=True, model="en_core_web_sm"):
+    def __init__(self, use_spacy=True, model="en_core_web_sm", quiet=False):
         self.nlp = None
         self.backend = "regex"
-        if prefer_spacy:
+        if use_spacy:
             try:
                 import spacy
                 self.nlp = spacy.load(model, disable=["ner", "lemmatizer"])
-                self.backend = f"spacy:{model}"
+                self.backend = "spacy"
             except Exception:
-                pass
-        print(f"[imperative backend: {self.backend}]"
-              + ("" if self.nlp else "  (install spaCy + model for grammatical detection)"))
+                if not quiet:
+                    print("  [spaCy unavailable -> regex fallback; "
+                          "pip install spacy && python -m spacy download en_core_web_sm]")
+        if not quiet:
+            print(f"[imperative backend: {self.backend}]")
 
     def __call__(self, text):
         t = _norm(text)
@@ -140,10 +148,9 @@ class ImperativeDetector:
         return 0
 
 
-# ---- STEP 4: valence backend -----------------------------------------------
+# ---- valence backends ------------------------------------------------------
 class ValenceScorer:
-    """lexicon (offline, tested) or transformer (machine-only, needs GPU+HF)."""
-    def __init__(self, mode="lexicon"):
+    def __init__(self, mode="lexicon", quiet=False):
         self.mode = mode
         self.pipe = None
         if mode == "transformer":
@@ -153,9 +160,11 @@ class ValenceScorer:
                                      model="cardiffnlp/twitter-roberta-base-sentiment-latest",
                                      truncation=True)
             except Exception as e:
-                print(f"[valence: transformer unavailable ({e}); falling back to lexicon]")
+                if not quiet:
+                    print(f"  [transformer unavailable ({type(e).__name__}) -> lexicon fallback]")
                 self.mode = "lexicon"
-        print(f"[valence backend: {self.mode}]")
+        if not quiet:
+            print(f"[valence backend: {self.mode}]")
 
     @staticmethod
     def _outcome_clause(text):
@@ -163,11 +172,9 @@ class ValenceScorer:
         return parts[1] if len(parts) > 1 and len(parts[1].split()) >= 2 else text
 
     def __call__(self, text):
-        """returns (pos_flag, neg_flag)"""
         target = self._outcome_clause(_norm(text))
         if self.mode == "transformer" and self.pipe is not None:
-            out = self.pipe(target[:512])[0]
-            lab = out["label"].lower()
+            lab = self.pipe(target[:512])[0]["label"].lower()
             if "pos" in lab:
                 return 1, 0
             if "neg" in lab:
@@ -199,9 +206,15 @@ def featurize_all(texts, imp, val):
     return np.array(rows, dtype=float)
 
 
+def cv_score(X, y):
+    clf = LogisticRegression(max_iter=3000, class_weight="balanced", random_state=SEED)
+    pred = cross_val_predict(clf, X, y,
+                             cv=StratifiedKFold(5, shuffle=True, random_state=SEED))
+    return f1_score(y, pred, average="macro"), accuracy_score(y, pred), pred
+
+
 # ---------------------------------------------------------------------------
 def load_labels(paths):
-    """Accepts either labeled-CSV shape; returns texts, labels."""
     texts, labels = [], []
     for p in paths:
         if not os.path.exists(p):
@@ -213,8 +226,7 @@ def load_labels(paths):
                 for f in sorted(here):
                     print(f"    {f}", file=sys.stderr)
             else:
-                print("  No CSV files in this folder — are you in the right directory?",
-                      file=sys.stderr)
+                print("  No CSV files here — wrong directory?", file=sys.stderr)
             sys.exit(1)
         df = pd.read_csv(p, dtype=str, keep_default_na=False, encoding="utf-8-sig")
         if "hand_label" in df.columns and (df["hand_label"].str.strip() != "").any():
@@ -229,44 +241,99 @@ def load_labels(paths):
                    | (sub["has_implicit_prescription"].str.strip() == "1")).astype(int)
             texts += sub[TEXT_COL].tolist()
             labels += lab.tolist()
-            print(f"  {p}: {len(sub)} rows via pd/implicit composite")
+            print(f"  {p}: {len(sub)} rows via prescriptive/implicit columns")
         else:
-            sys.exit(f"ERROR: {p} has neither hand_label nor pd+implicit columns")
-    # dedupe identical texts (a proverb might appear in both files)
+            sys.exit(f"ERROR: {p} has no usable label column")
     seen = {}
     for t, l in zip(texts, labels):
         seen.setdefault(t.strip(), l)
     return list(seen.keys()), np.array(list(seen.values()))
 
 
+def run_ablation(texts, y):
+    """Test each backend upgrade SEPARATELY. This is the point of the script."""
+    print("\nBuilding backends (transformer load may take a minute the first time)...")
+    imp_regex = ImperativeDetector(use_spacy=False, quiet=True)
+    imp_spacy = ImperativeDetector(use_spacy=True, quiet=True)
+    val_lex = ValenceScorer("lexicon", quiet=True)
+    val_trans = ValenceScorer("transformer", quiet=True)
+
+    spacy_ok = imp_spacy.backend == "spacy"
+    trans_ok = val_trans.mode == "transformer"
+    print(f"  spaCy available: {spacy_ok}   transformer available: {trans_ok}")
+    if not spacy_ok or not trans_ok:
+        print("  NOTE: an unavailable backend silently falls back, so its rows below")
+        print("        will duplicate the baseline. Install it to get a real comparison.")
+
+    combos = [
+        ("regex   + lexicon    ", imp_regex, val_lex, "baseline, no upgrades"),
+        ("spacy   + lexicon    ", imp_spacy, val_lex, "spaCy effect ALONE"),
+        ("regex   + transformer", imp_regex, val_trans, "transformer effect ALONE"),
+        ("spacy   + transformer", imp_spacy, val_trans, "both together"),
+    ]
+
+    print("\n" + "=" * 78)
+    print("ABLATION — each upgrade tested separately (5-fold CV, n=%d)" % len(y))
+    print("=" * 78)
+    hdr = f"{'combo':<24} {'macro-F1':>9} {'accuracy':>9}   what it isolates"
+    print(hdr); print("-" * len(hdr))
+
+    results = []
+    base = None
+    for name, imp, val, note in combos:
+        X = featurize_all(texts, imp, val)
+        f1, acc, _ = cv_score(X, y)
+        if base is None:
+            base = f1
+        delta = f1 - base
+        dstr = "  (baseline)" if abs(delta) < 1e-9 else f"  ({delta:+.3f})"
+        print(f"{name:<24} {f1:>9.3f} {acc:>9.3f}   {note}{dstr}")
+        results.append((name.strip(), f1, acc, delta))
+
+    print("\nHOW TO READ THIS:")
+    print("  With ~150 labels the wobble is about +/- 7 points (0.07).")
+    print("  A change smaller than that is NOT measurable — do not treat it as real.")
+    best = max(results, key=lambda r: r[1])
+    print(f"\n  Best combo here: {best[0]}  (macro-F1 {best[1]:.3f})")
+    if abs(best[3]) < 0.07:
+        print("  ...but it is within the noise band of the baseline, so the honest")
+        print("     conclusion is 'no measurable difference between these options'.")
+    pd.DataFrame(results, columns=["combo", "macro_f1", "accuracy", "delta_vs_baseline"]) \
+        .to_csv("ip_ablation_results.csv", index=False)
+    print("\nWrote ip_ablation_results.csv")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--train", nargs="+", required=True)
-    ap.add_argument("--apply", default=None, help="CSV to label with the trained model")
+    ap.add_argument("--apply", default=None)
+    ap.add_argument("--ablate", action="store_true",
+                    help="test each backend upgrade separately and stop")
     ap.add_argument("--valence", choices=["lexicon", "transformer"], default="lexicon")
-    ap.add_argument("--no-spacy", action="store_true", help="force regex imperative backend")
-    ap.add_argument("--model-out", default="model_functional.joblib")
+    ap.add_argument("--no-spacy", action="store_true")
+    ap.add_argument("--model-out", default="model_implicit_prescription.joblib")
     args = ap.parse_args()
 
     texts, y = load_labels(args.train)
     print(f"\nTraining set: n={len(y)}  balance={dict(zip(*np.unique(y, return_counts=True)))}")
 
-    imp = ImperativeDetector(prefer_spacy=not args.no_spacy)
+    if args.ablate:
+        run_ablation(texts, y)
+        return
+
+    imp = ImperativeDetector(use_spacy=not args.no_spacy)
     val = ValenceScorer(args.valence)
     X = featurize_all(texts, imp, val)
 
-    clf = LogisticRegression(max_iter=3000, class_weight="balanced", random_state=SEED)
-    skf = StratifiedKFold(5, shuffle=True, random_state=SEED)
-    pred = cross_val_predict(clf, X, y, cv=skf)
-
-    print("\n===== 5-FOLD CROSS-VALIDATION (out-of-fold, the honest number) =====")
-    print(f"  macro-F1 = {f1_score(y, pred, average='macro'):.3f}   "
-          f"accuracy = {accuracy_score(y, pred):.3f}")
+    f1, acc, pred = cv_score(X, y)
+    print("\n===== 5-FOLD CROSS-VALIDATION (out-of-fold) =====")
+    print(f"  macro-F1 = {f1:.3f}   accuracy = {acc:.3f}")
     print("  " + classification_report(y, pred, zero_division=0).replace("\n", "\n  "))
 
+    clf = LogisticRegression(max_iter=3000, class_weight="balanced", random_state=SEED)
     clf.fit(X, y)
-    print("LEARNED WEIGHTS (positive pushes toward 'prescriptive'):")
+    print("LEARNED WEIGHTS (positive pushes toward 'has implicit prescription'):")
     for n, w in sorted(zip(FEATURE_NAMES, clf.coef_[0]), key=lambda x: -x[1]):
         print(f"  {n:16} {w:+.2f}")
 
@@ -280,13 +347,12 @@ def main():
         if TEXT_COL not in df.columns:
             sys.exit(f"ERROR: no '{TEXT_COL}' in {args.apply}")
         Xa = featurize_all(df[TEXT_COL].tolist(), imp, val)
-        df["pred_functional"] = clf.predict(Xa).astype(int)
-        pos_idx = list(clf.classes_).index(1)
-        df["prob_functional"] = np.round(clf.predict_proba(Xa)[:, pos_idx], 4)
-        out = args.apply.rsplit(".", 1)[0] + "_trained.csv"
+        df["pred_ip"] = clf.predict(Xa).astype(int)
+        df["prob_ip"] = np.round(clf.predict_proba(Xa)[:, list(clf.classes_).index(1)], 4)
+        out = args.apply.rsplit(".", 1)[0] + "_ip.csv"
         df.to_csv(out, index=False, encoding="utf-8-sig")
-        n1 = int(df["pred_functional"].astype(int).sum())
-        print(f"Labeled {args.apply}: {n1}/{len(df)} predicted prescriptive -> {out}")
+        print(f"Labeled {args.apply}: {int(df['pred_ip'].sum())}/{len(df)} "
+              f"predicted to have an implicit prescription -> {out}")
 
 
 if __name__ == "__main__":
